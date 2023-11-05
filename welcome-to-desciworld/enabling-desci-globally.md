@@ -13,7 +13,7 @@ By uniting diverse entities such as open research funding institutions, committe
 
 !! Read more about this within the DeSciWorld ecosystem section&#x20;
 
-### **World of DeSci**&#x20;
+### **World of DeSci: A global network for Open Research**&#x20;
 
 The primary goal of World of DeSci is to foster a self-sustaining DeSci ecosystem that continues to grow and operate independently beyond the duration of the event. The initiative is dedicated to achieving the following objectives:
 

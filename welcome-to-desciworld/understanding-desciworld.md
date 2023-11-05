@@ -33,6 +33,8 @@ DeSci, an abbreviation for "Decentralized Science," represents an innovative app
 
 \[add illustration of DeSciWorld view on DeSci Model]
 
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-05 at 14.58.22.png" alt=""><figcaption><p>To be reviewed</p></figcaption></figure>
+
 This model not only ensures the democratization of knowledge but also reinforces the principles of transparency, reproducibility, and accessibility in scientific endeavors. As a progressive movement within the academic landscape, DeSci underscores the importance of returning scientific authority to a global collective, mitigating biases and potential censorships typically encountered in more conventional frameworks.
 
 **3: Deep dive on DeSci World**
@@ -49,11 +51,11 @@ Our mission is clear: to strengthen and connect the decentralized research commu
 
 \[Illustration of DeSciWorld Components]
 
-<figure><img src="../.gitbook/assets/DeSciWorldOverview.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/DeSciWorldOverview.png" alt=""><figcaption><p>Josh is reviewing</p></figcaption></figure>
 
 **4: Empowering the DeScientist: Science.tech**
 
-Created by DeSciWorld DAO [Science.Tech](http://science.tech) is the manifestion of our mission to unlock the potential of open research by providing the platform and tools to realize its potential. It is crucial to understand that DSW DAO will continue to develop and support the DeSciWorld ecosystem through both community and the creation of products.&#x20;
+Created by DeSciWorld DAO [Science.Tech](http://science.tech) is the manifestation of our mission to unlock the potential of open research by providing the platform and tools to realize its potential. It is crucial to understand that DSW DAO will continue to develop and support the DeSciWorld ecosystem through both community and the creation of products.&#x20;
 
 #### What is Science.Tech?
 
@@ -67,3 +69,5 @@ Through Science.Tech we provide:
 4. Profile Building for Research Teams
 5. Central Point for Research
 6. Modular Structure: DeSci Ecosystem Integration
+
+### Enabling Open Research: DeSciWorld

@@ -1,14 +1,34 @@
 ---
 description: >-
-  DeSciWorld believes that the DeSci community needs to be underpinned by a
-  range of useful to connect to the ecosystem.
+  The DeSci community needs to be supported by a range of useful tool to connect
+  to the ecosystem and enable it to reach it's potential.
 ---
 
-# What does the Terminal achieve?
+# Terminal for funding or protocols
 
-### Through the Terminal DSW DAO provides a framework for the DeSci Community to establish itself whilst utilizing various tools to help the curious researcher engage the ecosystem. This includes:&#x20;
+\[re-write to focus on protocol listing or fund raising]
 
-* **Ability to Raise the Profile of the DeScientist**: The platform provides an avenue for researchers to showcase their work, engage with peers, and gain recognition in the global community.
+
+
+\_\_\_\_
+
+Through the Terminal DSW DAO provides a framework for the DeSci Community to flourish. Designed with the DeScientist in mind, it enables independent scientists to build their profiles and contribute to causes. At the same time, it also provides protocols and cause funders the ability to engage scientists or raise awareness of research funding.
+
+### Enabling curious researchers engage with the global DeSci community
+
+Through a range of products designed to support the DeSci community, DeSciWorld's Terminal ensure s that the DeScientist can:
+
+1- Onboard and connect to DeSci\
+2- Raise their profile \
+3- Keep up to date with DeSci events\
+4- Have a gateway to open funding \
+
+
+&#x20;
+
+1. **Ability to Raise the Profile of the DeScientist**
+
+* The platform provides an avenue for researchers to showcase their work, engage with peers, and gain recognition in the global community.
 * **Keeping up to Date**: With functionalities like the Events Calendar and Newsletter, users are always informed about the latest activities, quests, and challenges in DeSci. This aids in:
   * **Making Money**: Through NFT listings and job boards.
   * **Learning New Things**: Via the Q\&A forum and educational spaces.

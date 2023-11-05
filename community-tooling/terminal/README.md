@@ -1,17 +1,16 @@
 ---
 description: >-
-  The DS Terminal is an integrated platform dedicated to fostering engagement,
+  The Terminal is an integrated platform dedicated to fostering engagement,
   collaboration, and education within the global DeSci community.
 ---
 
-# DeScientist Terminal
-
-\
-**DeScientist Terminal Overview**
+# Terminal
 
 Acting as a central hub for various functionalities, the terminal ensures a seamless and efficient interface for DeScientists and those curious about the DeSci ecosystem. This document provides an overview of the DeSci Terminal's functionalities and the inherent benefits they offer to its users.
 
-#### **Functionalities:**
+Through the Terminal DSW DAO provides a framework for the DeSci Community to flourish. Designed with the DeScientist in mind, it enables independent scientists to build their profiles and contribute to causes. At the same time, it also provides protocols and cause funders the ability to engage scientists or raise awareness of research funding.
+
+**Functionalities:**
 
 1. **Project Listings Page**: A curated list of ongoing and upcoming research projects within the DeSci ecosystem. Users can browse, join, or contribute to these initiatives.
 2. **Events Calendar**: A comprehensive calendar detailing events, webinars, meet-ups, and conferences relevant to the DeSci community. This feature ensures users never miss out on significant happenings in the realm of decentralized science.
@@ -24,5 +23,16 @@ Acting as a central hub for various functionalities, the terminal ensures a seam
 **Enabling the DeScientist to engage the ecosystem**&#x20;
 
 In essence, the DS Terminal acts as the nerve center for the global DeSci community, bridging the gap between research, collaboration, and technology. The terminal enables the open source nature of decentralized science by considering the research community as key users of the platform, providing tooling to let the DeScienists flourish. We believe this paves the way for a more integrated and holistic research paradigm.
+
+### Enabling curious researchers engage with the global DeSci community
+
+Through a range of products designed to support the DeSci community, DeSciWorld's Terminal ensures that the DeScientist can:
+
+1- Onboard and connect to DeSci\
+2- Raise their profile \
+3- Keep up to date with DeSci events\
+4- Have a gateway to open funding&#x20;
+
+To get started with the Terminal, please \[register]\(link to terminal url) your profile on the Terminal.&#x20;
 
 \
