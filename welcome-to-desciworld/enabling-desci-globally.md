@@ -7,8 +7,6 @@ description: >-
 
 # Enabling DeSci Globally
 
-**DSW DAO Is Built For DeScientists**
-
 By uniting diverse entities such as open research funding institutions, committed DeScientists, and pioneering enterprises through DeSciWorld's unwavering expertise, we ensure a collaborative environment where innovation flourishes and the collective potential of decentralized science is realized to its fullest.
 
 !! Read more about this within the DeSciWorld ecosystem section&#x20;

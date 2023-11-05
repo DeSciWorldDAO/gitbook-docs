@@ -28,10 +28,10 @@ In essence, the DS Terminal acts as the nerve center for the global DeSci commun
 
 Through a range of products designed to support the DeSci community, DeSciWorld's Terminal ensures that the DeScientist can:
 
-1- Onboard and connect to DeSci\
-2- Raise their profile \
-3- Keep up to date with DeSci events\
-4- Have a gateway to open funding&#x20;
+1. Onboard and connect to DeSci
+2. Raise their profile&#x20;
+3. Keep up to date with DeSci events
+4. Have a gateway to open funding&#x20;
 
 To get started with the Terminal, please \[register]\(link to terminal url) your profile on the Terminal.&#x20;
 
