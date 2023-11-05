@@ -4,7 +4,7 @@
   * [Understanding DeSciWorld](welcome-to-desciworld/understanding-desciworld.md)
   * [Enabling DeSci Globally](welcome-to-desciworld/enabling-desci-globally.md)
   * [Contribute](welcome-to-desciworld/contribute.md)
-  * [Get started with DeSciWorld DAO](welcome-to-desciworld/get-started-with-desciworld-dao.md)
+  * [Get started](welcome-to-desciworld/get-started.md)
 * [DeSciWorld DAO](desciworld-dao/README.md)
   * [Governing DSW DAO](desciworld-dao/governing-dsw-dao/README.md)
     * [Proceeds from sale](desciworld-dao/governing-dsw-dao/proceeds-from-sale.md)
