@@ -17,13 +17,13 @@ Should you be looking to engage or just understand DeSciWorld, we strongly recom
 
 **1: What is open research and why does DeSci exist?**
 
-At present, early-stage research is a sorely under-utilised resource. \[Add something re Open Research].
+At present, early-stage research is a sorely under-utilised resource. \[Add something re Open Research]
 
 > “Decentralized science (DeSci) is a movement that aims to build public infrastructure for funding, creating, reviewing, crediting, storing, and disseminating scientific knowledge fairly and equitably using the Web3 stack.”
 
 _Ethereum documentation_
 
-<figure><img src="../.gitbook/assets/desci theroy.jpeg" alt=""><figcaption><p>Attribute to researcher presenting the model (and re-design)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-05 at 13.16.02.png" alt=""><figcaption><p>Attribute to researcher presenting the model (and re-design)</p></figcaption></figure>
 
 Decentralising the fundamental processes in the field of science can unlock the potential of the world's minds. It is possible to imagine a world in which science occurs anywhere that there is ability and interest. Removed from narratives, vested interests and restrictive cultural practises, science can return to its foundational principles through leveraging DLT technology within blockchains.&#x20;
 
