@@ -16,5 +16,5 @@ The DeSciWorld Dashboard is a free-to-use online information hub that aggregates
 Project pages display relevant information about individual DeSci projects, such as information about tokens and governance proposals, media embeds, short descriptions and relevant links. These pages allow users to get a quick overview of a project before fully diving into their community.
 
 <figure><img src="../../.gitbook/assets/123.jpg" alt=""><figcaption><p><a href="https://desci.world/project/625fb37edcfaec643ea479aa"><em>https://desci.world/project/625fb37edcfaec643ea479aa</em></a></p></figcaption></figure>
-
+-At0x was here
 #### ◈ To apply to have your project listed, please fill out this [form](https://cutt.ly/RHCFQIh).
