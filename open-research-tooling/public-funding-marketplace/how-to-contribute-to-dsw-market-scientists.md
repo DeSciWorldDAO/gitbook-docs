@@ -13,7 +13,8 @@ To start using our marketplace, you will first need to create a comprehensive re
 
 i. Click on 'Create Profile' on the P2P Funding Marketplace home page.
 
-ii. Fill in the requested details, including your name, contact information, area of specialty, and experience.
+ii. Provide your details, including your digital wallet address, name, contact information, area of specialty, and experience.
+(Note that providing a wallet address is compulsory while all other information is highly suggested but voluntary)
 
 iii. Highlight your research goals and objectives. Be clear and concise, ensuring potential funders understand your research direction.
 
@@ -23,30 +24,75 @@ v. Click 'Submit,' and your research profile is ready to go!
 
 To make your profile stand out, consider posting regular updates about your research and engage with the DeSciWorld community.
 
-## 3. Using the Escrow and On-chain Reputation Mechanism
+## 3. Submitting Research Objectives and Proposing Funding Requests
 
-Our marketplace implements a secure blockchain-based escrow system for transactions and an on-chain reputation mechanism to build credibility. Whenever a funder supports your proposal, the funds are held in the escrow account and released as per your agreement's terms. Over time, as you complete projects successfully, your reputation score within the platform will increase, making you a more attractive candidate for funding.
+As a researcher on DeSciWorld's P2P Funding Marketplace, one of your first tasks is to effectively articulate your research objectives and propose a funding request. Follow these steps to maximize your chances of securing suitable funding.
 
-## 4. Submitting Research Objectives
+### Step 1: Identify and Frame Your Research Objectives
 
-With your profile live, it's time to submit your research objectives. Navigate to 'Submit Research Objective', fill in the details of your proposal, and click 'Submit'. Remember to provide enough details for funders to grasp the essence, value proposition, and feasibility of your projects.
+Begin with navigating to the 'Submit Research Objective' section on our platform. You'll need to clearly convey your research proposal in this section, which consists of the following elements:
 
-## 5. Proposal of Funding Requests
+- Field of Study: Specify your discipline and why it's significant.
+- Research Question: Describe the problem or question your research intends to address.
+- Hypothesis: Share your predicted outcome.
+- Methodology: Outline the methods and procedures you intend to use to conduct your research.
+- Expected Outcomes: Present a forecast of what you expect to learn or confirm from your research.
 
-To request funding, go to 'Propose Funding Request,' fill in your project's details, including costs, timelines, and expected outcomes, then submit. Each funding proposal needs to be articulate, realistic, and should demonstrate high potential for scientific advancement.
+It is vital to explain your research matters. Highlight the innovative aspects of your work and the potential impact it could have on the scientific community or the world. 
 
-## 6. Navigating through Fee Structures
+### Step 2: Propose a Funding Request
+
+Once you've laid out the research objectives, proceed to propose a funding request to bring your research to life. Here's how:
+
+- Navigate to the 'Propose Funding Request' section on our platform.
+- Provide a comprehensive overview of your project. This should be an extension of your research objectives, providing more detail and broader context.
+- Specify your funding requirements. Break down the costs into specific categories such as equipment, personnel, data analysis, etc., so potential funders can see where their money will go.
+- Layout your project's timeline and expected deliverables. This will reassure funders of your plan and how you aim to see it through.
+
+Remember, each funding proposal should be articulate, realistic, and demonstrate the potential for scientific advancement. Your project should resonate with potential funders, showing them how valuable their contribution could be.
+
+After submitting your research objectives and proposal, await responses from potential funders. Remember, the clearer and more compelling your research objectives and funding proposal are, the better chance you have of securing funding. Use this platform to communicate the value of your scientific pursuit and its destination.
+
+## 4. Using the Escrow and On-chain Reputation Mechanism
+
+At DeSciWorld's P2P Funding Marketplace, we leverage the strength of blockchain and smart contract technology to create a transparent, secure, and efficient mechanism for scientific research funding. Here, we introduce two core functionalities: Escrow System and On-chain Reputation Mechanism.
+
+### 4.1 Escrow System
+
+The Escrow system serves as an intermediary holder for funds. This ensures security and trust in the financial transactions between researchers and funders. Here are possible funding modalities with our Escrow system:
+
+i. **Phased Release**: In this model, the total funding amount is divided into phases based on research milestones. As each milestone is achieved, a pre-defined portion of the funds will be released from the escrow account to the researcher.
+
+ii. **Direct Full Funding**: The entire funding amount is directly transferred from the Escrow to the researcher upon the funder's instruction. This method is typically used in cases where the research is short-term or where an established trust relationship exists.
+
+iii. **Hold & Release**: In this model, the entirety of funds is held in escrow till the project's completion. Upon successful completion and approval by the funders, the total amount is released to the researcher.
+
+### 4.2 On-chain Reputation Mechanism
+
+To add a level of trust and validation, we have an on-chain reputation system. This eliminates reliance on subjective judgment and provides an objective and transparent reputation score based on historical data. This score impacts your prospects of attaining funds. Here are potential factors contributing to your reputation score:
+
+i. **Project Completion**: Successfully completed research projects contribute positively to your reputation score. Timely completion of milestones as per your proposed timeline reflects well on your reputation.
+
+ii. **Funding Utilization**: Effective and efficient use of funds for the intended research activities and transparent reporting adds credibility and boosts your reputation.
+
+iii. **Community Interaction**: Active participation in discussions, prompt responses to queries from potential or existing funders, and regular updates on research progress can positively influence your reputation score.
+
+iv. **Peer Reviews**: Reviews and endorsements from peers and funders in the DeSciWorld ecosystem also play a crucial role in defining your reputation score. 
+
+With these mechanisms in place, the DeSciWorld P2P Funding Marketplace ensures a secure, accountable, and transparent environment promoting a healthy relationship between researchers and funders.
+
+## 5. Navigating through Fee Structures
 
 A fee is incurred on the total value of funding received, ranging from 1-5%. Make sure to account for this while proposing your funding request.
 
-## 7. Receiving Funds and Transparency
+## 6. Best Practices and Tips
 
-Once your proposal is backed, the funds are transferred from the escrow account as per the agreed terms. All transactions are visible on the blockchain, ensuring transparency in the process.
+Success in securing funding is highly dependent on how effectively you communicate with potential funders:
 
-## 8. Best Practices and Tips
+- Ensure to regularly update your research profile and keep your funders informed about your project's progress.
+- Respond promptly to inquiries or comments from potential or existing funders.
+- Portray professionalism and dedication in the way you deal with your research project. This will build confidence and trust between you and the funders.
 
-For success in securing funding, communication is key. Regular updates on your research progress can help maintain an engaged community of supporters. Be sure to respond promptly to inquiries or comments from potential or existing funders.
+## 7. Customer Support and Helpful Resources
 
-## 9. Customer Support and Helpful Resources
-
-If you face any challenges or have any inquiries, reach out to our support team via the 'Contact Us' section on our platform. You can also refer to our FAQ section and the User Guide for additional information. We're here to ensure your journey with DeSciWorld P2P Funding Marketplace is smooth, rewarding, and effective.
+Getting stuck? Don't sweat it. Our customer support team is here to help you through any challenges. Reach out via the 'Contact Us' section on our platform. Additionally, you can access a host of helpful resources, including FAQs and User Guides, to navigate through the platform seamlessly.
