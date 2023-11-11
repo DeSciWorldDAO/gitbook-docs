@@ -4,15 +4,11 @@ description: >-
   to the ecosystem and enable it to reach it's potential.
 ---
 
-# Terminal for funding or protocols
-
-\[re-write to focus on protocol listing or fund raising]
-
-
+# Terminal for funding
 
 \_\_\_\_
 
-Through the Terminal DSW DAO provides a framework for the DeSci Community to flourish. Designed with the DeScientist in mind, it enables independent scientists to build their profiles and contribute to causes. At the same time, it also provides protocols and cause funders the ability to engage scientists or raise awareness of research funding.
+Through the Terminal DSWF provides a framework for the DeSci Community to flourish. Designed with the DeScientist in mind, it enables independent scientists to build their profiles and contribute to causes. At the same time, it also provides protocols and cause funders the ability to engage scientists or raise awareness of research funding.
 
 ### Enabling curious researchers engage with the global DeSci community
 

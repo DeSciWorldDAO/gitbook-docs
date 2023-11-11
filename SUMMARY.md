@@ -14,7 +14,8 @@
 ## Community Tooling
 
 * [Terminal](community-tooling/terminal/README.md)
-  * [Terminal for funding or protocols](community-tooling/terminal/terminal-for-funding-or-protocols.md)
+  * [Terminal for protocols](community-tooling/terminal/terminal-for-protocols.md)
+  * [Terminal for funding](community-tooling/terminal/terminal-for-funding-or-protocols.md)
 * [Get started with the Terminal](community-tooling/get-started-with-the-terminal/README.md)
   * [NFT Spotlight](community-tooling/get-started-with-the-terminal/nft-spotlight.md)
   * [P2P Grant funding platform](community-tooling/get-started-with-the-terminal/p2p-grant-funding-platform.md)
@@ -32,8 +33,8 @@
   * [DeResearch Launchpad](open-research-tooling/science.tech/deresearch-launchpad/README.md)
     * [How to deploy ERC-721 and ERC-1155 open research](open-research-tooling/science.tech/deresearch-launchpad/how-to-deploy-erc-721-and-erc-1155-open-research.md)
 * [Public Funding Marketplace](open-research-tooling/public-funding-marketplace/README.md)
-  * [How to contribute to DSW Market (Scientists)](open-research-tooling/public-funding-marketplace/how-to-contribute-to-dsw-market-scientists.md)
-  * [How to deploy cause DSW Market (Cause funder: enterprise or public good)](open-research-tooling/public-funding-marketplace/how-to-deploy-cause-dsw-market-cause-funder-enterprise-or-public-good.md)
+  * [How to contribute to Open Research](open-research-tooling/public-funding-marketplace/how-to-contribute-to-dsw-market-scientists.md)
+  * [How to start or fund a research cause](open-research-tooling/public-funding-marketplace/how-to-deploy-cause-dsw-market-cause-funder-enterprise-or-public-good.md)
 * [The Brain](open-research-tooling/the-brain/README.md)
   * [How to use the brain](open-research-tooling/the-brain/how-to-use-the-brain.md)
 

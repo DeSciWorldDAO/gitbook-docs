@@ -1,19 +1,28 @@
+---
+description: >-
+  The DeSciWorld (DSW) Peer-to-Peer (P2P) Funding Marketplace has been designed
+  to promote and fund scientific research projects by serving as a bridge
+  between researchers and funders.
+---
+
 # Public Funding Marketplace
-The DesciWorld (DSW) Peer-to-Peer (P2P) Funding Marketplace is an innovative platform designed to promote and fund scientific research projects. It serves as a bridge between researchers and potential funders, leveraging the power of blockchain technology to streamline and secure transactions.
 
-Aimed at democratizing science funding, the DSW P2P Funding Marketplace ensures that scientists have the required financial support to carry out their research activities. It allows any researchers, regardless of their affiliations or experience, to present their project ideas openly to a global community of potential funders capable of support.
+The DSW P2P Funding Marketplace democratizes scientific funding by ensuring that scientists have the required financial support to carry out their research activities. It allows any researchers, regardless of their affiliations or experience, to present their project ideas openly to a global community of potential funders capable of support.
 
-The marketplace is powered by a secure escrow system combined with novel on-chain reputation mechanics. This setup allows research to be funded independently or even anonymously, providing flexibility and inclusivity for both funding parties and researchers. 
+The DSW P2P Funding Marketplace is a revolutionary platform in the realm of scientific research funding, making it easier for scientists to secure funds and for the funders to transparently contribute to the advancements in science. The goal is to alleviate bureaucratic hurdles, accelerate scientific innovations, and ensure a fair and efficient funding process for all parties involved.
+
+### Securing Open Research&#x20;
+
+The marketplace is powered by a secure escrow system combined with novel on-chain reputation mechanics. This setup allows research to be funded independently or even anonymously, providing flexibility and inclusivity for both funding parties and researchers.
 
 Fees are charged, ranging from 1-5%, on the total value of funding received through the platform for each research objective. This approach ensures that the platform remains sustainable and operative while providing significant value for its users.
-
-Overall, the DSW P2P Funding Marketplace is a revolutionary platform in the realm of scientific research funding, making it easier for scientists to secure funds and for the funders to transparently contribute to the advancements in science. The goal is to alleviate bureaucratic hurdles, accelerate scientific innovations, and ensure a fair and efficient funding process for all parties involved.
 
 ## Benefits of DSW P2P Funding Marketplace:
 
 The DSW P2P Funding Marketplace offers a plethora of benefits for both researchers and potential funders. Here are several key advantages:
 
 For Researchers:
+
 1. **Direct Access to Funds:** Researchers gain direct access to a rich pool of potential funders without needing to rely on traditional, often cumbersome, grant application processes.
 2. **Broadened Reach:** The global footprint of the platform allows researchers to share their projects with a broader audience, hence increasing chances of obtaining funding.
 3. **Efficient Fund Management:** The platform's cryptocurrency-based operations streamline the management of received funds, making transactions quick, transparent and secure.
@@ -21,6 +30,7 @@ For Researchers:
 5. **Independent or Anonymous Funding:** The use of blockchain technology enables independent or even anonymous funding, offering flexibility and wider funding possibilities.
 
 For Funders:
+
 1. **Transparency:** Blockchain's transparent nature allows funders to track their contributions, instilling confidence about where and how their funds are being used.
 2. **Expansive Research Possibilities:** The platform provides a multitude of research proposals to choose from, enabling funders to back the initiatives that closely align with their interests.
 3. **Direct Interaction with Researchers:** Funders have the opportunity to directly interact with the researchers they are supporting, creating a closer bond and understanding of the research project.
