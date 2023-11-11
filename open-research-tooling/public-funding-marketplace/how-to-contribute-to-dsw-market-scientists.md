@@ -16,6 +16,8 @@ The DSW Marketplace has been designed with the DeScientist in mind. To get start
 4. Consider fees&#x20;
 5. Manage your funding project&#x20;
 
+Throughout this process you can head to the DeSciWorld Discord server to ask questions and get support from the community. You can also check out the [DeSciWorld FAQ](https://desci.world/faq) for more information.
+
 ## 1. Creating Your Research Profile
 
 To start using our marketplace, you will first need to create a comprehensive research profile. Here's a step-by-step guide:
