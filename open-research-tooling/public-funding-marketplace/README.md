@@ -1,26 +1,29 @@
 ---
 description: >-
-  The DeSciWorld (DSW) Peer-to-Peer (P2P) Funding Marketplace has been designed
-  to promote and fund scientific research projects by serving as a bridge
-  between researchers and funders.
+  The DeSciWorld (DSW) Peer-to-Peer (P2P) Funding Marketplace makes it possible
+  for scientists to secure funds and for the funders to start or contribute to
+  open research.
 ---
-
-
 
 # Public Funding Marketplace
 
-### Democratizing scientific funding 
+Consider that research processes are:\
+\
+\- Difficult to obtain funding for\
+\- Lack transparency \
+\- Has challenges with global co-ordination&#x20;
 
-The DSW P2P Funding Marketplace allows any researchers, regardless of their affiliations or experience, to present their project ideas to a global community of potential funders. Through the platform DSWDAO has revolutionized the process of scientific research funding, making it easier for scientists to secure funds and for the funders to transparently start or contribute to open research. Thus the platform removes bureaucratic hurdles, accelerates scientific research funding, and ensures a fair and efficient funding process for all parties involved.
+The DSW P2P Funding Marketplace has been designed to allow any researchers, regardless of their affiliations or experience, to present their project ideas to a global community of potential funders. The platform removes bureaucratic hurdles, accelerates scientific research funding, and ensures a fair and efficient funding process for all parties involved by ensure transparency at every step.&#x20;
 
-### Leverage the blockchain to deliver Open Research&#x20;
+### Leverage the blockchain to deliver Open Research
 
 The marketplace utilizes a smart contract based escrow system alongside a novel on-chain reputation mechanism. This setup allows research to be funded independently or even anonymously, providing flexibility and inclusivity for both funding parties and researchers.
 
-!! Can we link to a write up on the escrow contract and the reputation mechanism (note from Ben) 
-!! Insert an illustration
-<figure><img src="../.gitbook/assets/Escrow_drawing_market.png" alt=""><figcaption><p>Attribute to researcher presenting the model (and re-design)</p></figcaption></figure>
+!! Can we link to a write up on the escrow contract and the reputation mechanism (note from Ben) !! Insert an illustration
 
+
+
+<figure><img src="../.gitbook/assets/Escrow_drawing_market.png" alt=""><figcaption><p>Attribute to researcher presenting the model (and re-design)</p></figcaption></figure>
 
 The DSW is Fees are charged ranging from 1-5%, on the total value of funding received through the platform for each research objective. This approach ensures that the platform remains sustainable and operative while providing significant value for its users.
 
