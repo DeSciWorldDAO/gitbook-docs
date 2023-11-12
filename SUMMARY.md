@@ -15,7 +15,7 @@
 
 * [Terminal](community-tooling/terminal/README.md)
   * [Terminal for protocols](community-tooling/terminal/terminal-for-protocols.md)
-  * [Terminal for funding](community-tooling/terminal/terminal-for-funding-or-protocols.md)
+  * [Terminal for DeScientists](community-tooling/terminal/terminal-for-descientists.md)
 * [Get started with the Terminal](community-tooling/get-started-with-the-terminal/README.md)
   * [NFT Spotlight](community-tooling/get-started-with-the-terminal/nft-spotlight.md)
   * [P2P Grant funding platform](community-tooling/get-started-with-the-terminal/p2p-grant-funding-platform.md)
