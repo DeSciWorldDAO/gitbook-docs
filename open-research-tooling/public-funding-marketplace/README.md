@@ -5,21 +5,28 @@ description: >-
   between researchers and funders.
 ---
 
+
+
 # Public Funding Marketplace
 
-The DSW P2P Funding Marketplace democratizes scientific funding by ensuring that scientists have the required financial support to carry out their research activities. It allows any researchers, regardless of their affiliations or experience, to present their project ideas openly to a global community of potential funders capable of support.
+### Democratizing scientific funding 
 
-The DSW P2P Funding Marketplace is a revolutionary platform in the realm of scientific research funding, making it easier for scientists to secure funds and for the funders to transparently contribute to the advancements in science. The goal is to alleviate bureaucratic hurdles, accelerate scientific innovations, and ensure a fair and efficient funding process for all parties involved.
+The DSW P2P Funding Marketplace allows any researchers, regardless of their affiliations or experience, to present their project ideas to a global community of potential funders. Through the platform DSWDAO has revolutionized the process of scientific research funding, making it easier for scientists to secure funds and for the funders to transparently start or contribute to open research. Thus the platform removes bureaucratic hurdles, accelerates scientific research funding, and ensures a fair and efficient funding process for all parties involved.
 
-### Securing Open Research&#x20;
+### Leverage the blockchain to deliver Open Research&#x20;
 
-The marketplace is powered by a secure escrow system combined with novel on-chain reputation mechanics. This setup allows research to be funded independently or even anonymously, providing flexibility and inclusivity for both funding parties and researchers.
+The marketplace utilizes a smart contract based escrow system alongside a novel on-chain reputation mechanism. This setup allows research to be funded independently or even anonymously, providing flexibility and inclusivity for both funding parties and researchers.
 
-Fees are charged, ranging from 1-5%, on the total value of funding received through the platform for each research objective. This approach ensures that the platform remains sustainable and operative while providing significant value for its users.
+!! Can we link to a write up on the escrow contract and the reputation mechanism (note from Ben) 
+!! Insert an illustration
+<figure><img src="../.gitbook/assets/Escrow_drawing_market.png" alt=""><figcaption><p>Attribute to researcher presenting the model (and re-design)</p></figcaption></figure>
+
+
+The DSW is Fees are charged ranging from 1-5%, on the total value of funding received through the platform for each research objective. This approach ensures that the platform remains sustainable and operative while providing significant value for its users.
 
 ## Benefits of DSW P2P Funding Marketplace:
 
-The DSW P2P Funding Marketplace offers a plethora of benefits for both researchers and potential funders. Here are several key advantages:
+The DSW P2P Funding Marketplace has been designed with both researchers and potential funders in mind, delivering a user experience that significantly improves the scientific research process and outputs. Key advantages to consider:
 
 For Researchers:
 
@@ -37,7 +44,7 @@ For Funders:
 4. **Positive Impact:** By supporting researchers directly, funders can make a tangible and meaningful impact in advancing scientific research.
 5. **Sustainable Funding:** A small part of the pledged funds is used to maintain the platform, ensuring its sustainability, better user experience and continued service.
 
-Together, these benefits make DSW P2P Funding Marketplace a game-changer in the research funding sphere, creating a democratic, efficient and supportive environment for scientific discoveries.
+Together, these benefits make DSW P2P Funding Marketplace a tool to revolutionize the research funding sphere by creating a democratic, efficient and supportive environment for scientific discoveries.
 
 ## DSW P2P Funding Marketplace's Vision:
 

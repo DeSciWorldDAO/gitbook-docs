@@ -6,7 +6,7 @@ description: There are
 
 ## Introduction to DSW P2P Marketplace
 
-Underpinned by blockchain technology, our marketplace allows for a secure and efficient funding process. By delivering continuous innovation, we aim to democratize the science funding landscape and provide novel opportunities for independent or anonymous funding of research projects.
+Underpinned by blockchain technology the marketplace allows for a secure and efficient funding process. Attune to our mission we aim to democratize the science funding landscape and provide novel opportunities for independent or anonymous funding of research projects.
 
 The DSW Marketplace has been designed with the DeScientist in mind. To get started you need to follow a few quick processes:&#x20;
 
@@ -106,3 +106,5 @@ Success in securing funding is highly dependent on how effectively you communica
 ## Customer Support and Helpful Resources
 
 Getting stuck? Don't sweat it. Our customer support team is here to help you through any challenges. Reach out via the 'Contact Us' section on our platform. Additionally, you can access a host of helpful resources, including FAQs and User Guides, to navigate through the platform seamlessly.
+
+!! Link to the DeSciWorld Discord: 

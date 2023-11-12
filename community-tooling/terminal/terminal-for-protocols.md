@@ -1,2 +1,0 @@
-# Terminal for protocols
-
