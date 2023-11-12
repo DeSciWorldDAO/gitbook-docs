@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/1500x500.jpg
+cover: ../../../.gitbook/assets/1500x500.jpg
 coverY: 0
 ---
 
@@ -7,7 +7,7 @@ coverY: 0
 
 The NFT Spotlight features projects that utilize NFTs to combine art and science in a biweekly cadence. DeSciWorld enables users to mint, view and shares these exclusive project launches.&#x20;
 
-<figure><img src="../../.gitbook/assets/nft.png" alt=""><figcaption><p><a href="https://desci.world/nft"><em>https://desci.world/nft</em></a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/nft.png" alt=""><figcaption><p><a href="https://desci.world/nft"><em>https://desci.world/nft</em></a></p></figcaption></figure>
 
 ### <mark style="color:blue;">a. Minting contracts</mark>&#x20;
 

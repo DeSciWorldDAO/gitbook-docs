@@ -14,10 +14,10 @@
 ## Community Tooling
 
 * [Terminal](community-tooling/terminal/README.md)
-  * [Terminal for protocols](community-tooling/terminal/terminal-for-protocols.md)
-  * [Terminal for DeScientists](community-tooling/terminal/terminal-for-descientists.md)
-* [Get started with the Terminal](community-tooling/get-started-with-the-terminal/README.md)
-  * [NFT Spotlight](community-tooling/get-started-with-the-terminal/nft-spotlight.md)
+  * [Get started for DeScientists](community-tooling/terminal/get-started-for-descientists/README.md)
+    * [NFT Spotlight](community-tooling/terminal/get-started-for-descientists/nft-spotlight.md)
+  * [Get started for funders & protocols](community-tooling/terminal/get-started-for-funders-and-protocols.md)
+* [Get started for DeScientists](community-tooling/get-started-with-the-terminal/README.md)
   * [P2P Grant funding platform](community-tooling/get-started-with-the-terminal/p2p-grant-funding-platform.md)
   * [Community as a Service (CaaS)](community-tooling/get-started-with-the-terminal/community-as-a-service-caas/README.md)
     * [Contributor Registration](community-tooling/get-started-with-the-terminal/community-as-a-service-caas/contributor-registration.md)
