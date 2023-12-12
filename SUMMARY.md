@@ -1,22 +1,25 @@
 # Table of contents
 
 * [Welcome to DeSciWorld](README.md)
-  * [Understanding DeSciWorld](welcome-to-desciworld/understanding-desciworld.md)
+  * [What is DeSci?](welcome-to-desciworld/understanding-desciworld.md)
   * [Enabling DeSci Globally](welcome-to-desciworld/enabling-desci-globally.md)
   * [Contribute](welcome-to-desciworld/contribute.md)
   * [Get started](welcome-to-desciworld/get-started.md)
+  * [Why does DeSciWorld exist?](readme/why-does-desciworld-exist.md)
 * [DeSciWorld DAO](desciworld-dao/README.md)
-  * [Governing DSW DAO](desciworld-dao/governing-dsw-dao/README.md)
-    * [Proceeds from sale](desciworld-dao/governing-dsw-dao/proceeds-from-sale.md)
-    * [How to mint?](desciworld-dao/governing-dsw-dao/how-to-mint.md)
-    * [“Early Adopter” rights](desciworld-dao/governing-dsw-dao/early-adopter-rights.md)
+  * [Page](desciworld-dao/page/README.md)
+    * [Governing DSW DAO](desciworld-dao/page/governing-dsw-dao/README.md)
+      * [Proceeds from sale](desciworld-dao/page/governing-dsw-dao/proceeds-from-sale.md)
+      * [How to mint?](desciworld-dao/page/governing-dsw-dao/how-to-mint.md)
+      * [“Early Adopter” rights](desciworld-dao/page/governing-dsw-dao/early-adopter-rights.md)
 
 ## Community Tooling
 
-* [Terminal](community-tooling/terminal/README.md)
+* [desci.world](community-tooling/terminal/README.md)
   * [Get started for DeScientists](community-tooling/terminal/get-started-for-descientists/README.md)
     * [NFT Spotlight](community-tooling/terminal/get-started-for-descientists/nft-spotlight.md)
   * [Get started for funders & protocols](community-tooling/terminal/get-started-for-funders-and-protocols.md)
+* [World of DeSci](community-tooling/world-of-desci.md)
 * [Get started for DeScientists](community-tooling/get-started-with-the-terminal/README.md)
   * [P2P Grant funding platform](community-tooling/get-started-with-the-terminal/p2p-grant-funding-platform.md)
   * [Community as a Service (CaaS)](community-tooling/get-started-with-the-terminal/community-as-a-service-caas/README.md)

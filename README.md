@@ -1,17 +1,38 @@
----
-description: >-
-  Welcome to the DeSciWorld documentation space. As you navigate through our
-  resources, you'll find our commitment to returning science to its rightful
-  place: in the hands of the people.
----
-
 # Welcome to DeSciWorld
 
-DeSciWorld is an innovative platform reshaping the landscape of scientific research and funding. Designed as a hub for the global decentralized science community, DeSciWorld is committed to democratizing access to research opportunities and funding. By placing the Decentralized Autonomous Organization (DAO) at the heart of its ecosystem, DeSciWorld levels the playing field, ensuring every researcher and scientist has a fair shot at innovation.
+## Navigating the documentation
+
+Within this documentation you can explore each of the following:
+
+* desci.world
+
+{% content-ref url="desciworld-dao/page/governing-dsw-dao/early-adopter-rights.md" %}
+[early-adopter-rights.md](desciworld-dao/page/governing-dsw-dao/early-adopter-rights.md)
+{% endcontent-ref %}
+
+* science.tech
+* World of DeSci
+* DSWDAO
+* Microbes NFT
+* $DSCI token
+
+Together, these initiatives present is an innovative platform to reshape the landscape of scientific research and how it is funded.&#x20;
+
+Welcome to the DeSciWorld documentation space. As you navigate through our resources, we hope our commitment to returning science to its rightful place, the hands of the people, shines clear.
+
+## What is DeSciWorld?&#x20;
+
+DeSciWorld is an organisation; an ecosystem. It consists of technical products, a decentralised economic system, a diverse and global community and a cultural force for change.&#x20;
+
+Guided by the mission to unite and empower the decentralized research community, DeSciWorld’s commitment is to faciliate a scientific renaissance in an authentic, transparent, and resilient manner. The platform offers a comprehensive suite of tools geared towards fostering community engagement, enhancing global participation, and championing the ethos of open science.
+
+##
+
+##
 
 ### Overview of DeSciWorld
 
-Guided by the mission to unite and empower the decentralized research community, DeSciWorld’s commitment is to bring science back to the people in an authentic, transparent, and resilient manner. The platform offers a comprehensive suite of tools geared towards fostering community engagement, enhancing global participation, and championing the ethos of open science.
+
 
 Key offerings include the _DeScientist Terminal_, which connects researchers to the broader DeSci community, the _DeResearch Launchpad_, that streamlines the deployment and funding of new projects, and the Public Funding Marketplace, crafted to simplify the funding-seeking process for scientists.
 
