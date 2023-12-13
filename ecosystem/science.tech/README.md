@@ -1,11 +1,10 @@
 ---
-description: >-
-  Science.Tech is a cutting-edge platform designed to revolutionize the research
-  landscape by empowering open researchers with a secure environment for
-  deploying and funding research initiatives.
+description: Knowledge is power
 ---
 
-# Science.tech
+# science.tech
+
+Science.Tech is a cutting-edge platform designed to revolutionize the research landscape by empowering open researchers with a secure environment for deploying and funding research initiatives.
 
 #### Realizing the potential of blockchain enabled science
 

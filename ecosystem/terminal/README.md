@@ -1,12 +1,12 @@
 ---
-description: >-
-  The DSW Terminal is an integrated platform dedicated to fostering engagement,
-  collaboration, and education within the global DeSci community.
+description: the homepage of DeSci
 ---
 
-# Terminal
+# desci.world
 
-Acting as a central hub for various functionalities, the terminal ensures a seamless and efficient interface for DeScientists, research commissioners, and others curious about the DeSci ecosystem. The DSW Terminal has been designed to enable the global DeSci Community to flourish. 
+An integrated platform dedicated to fostering engagement, collaboration, and education within the global DeSci community.
+
+Acting as a central hub for various functionalities, the terminal ensures a seamless and efficient interface for DeScientists, research commissioners, and others curious about the DeSci ecosystem. The DSW Terminal has been designed to enable the global DeSci Community to flourish.
 
 ### Functionalities:
 
@@ -18,9 +18,6 @@ Acting as a central hub for various functionalities, the terminal ensures a seam
 6. **Jobs Board**: A listing of job opportunities within the DeSci ecosystem, catering to various skill sets and expertise levels.
 7. **Newsletter**: A periodic update (if implemented) that curates the latest news, developments, and opportunities within the DeSci community, ensuring users stay informed.
 
-### Enabling the DeScientist to engage the ecosystem**&#x20;
+### Enabling the DeScientist to engage the ecosystem\*\*
 
 In essence, the DS Terminal acts as the nerve center for the global DeSci community, bridging the gap between research, collaboration, and technology. The terminal enables the open source nature of decentralized science by considering the research community as key users of the platform, providing tooling to let the DeScienists flourish. We believe this paves the way for a more integrated and holistic research paradigm.
-
-
-
