@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Welcome to DeSciWorld](README.md)
-  * [What is DeSci?](welcome-to-desciworld/understanding-desciworld.md)
-  * [Enabling DeSci Globally](welcome-to-desciworld/enabling-desci-globally.md)
-  * [Contribute](welcome-to-desciworld/contribute.md)
-  * [Get started](welcome-to-desciworld/get-started.md)
+  * [Understanding DeSci](readme/understanding-desciworld.md)
+  * [Enabling DeSci Globally](readme/enabling-desci-globally.md)
+  * [Contribute](readme/contribute.md)
+  * [Get started](readme/get-started.md)
   * [Why does DeSciWorld exist?](readme/why-does-desciworld-exist.md)
 * [DeSciWorld DAO](desciworld-dao/README.md)
   * [Page](desciworld-dao/page/README.md)

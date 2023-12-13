@@ -2,14 +2,9 @@
 
 ## Navigating the documentation
 
-Within this documentation you can explore each of the following:
+Within this documentation you can explore each of the following: \[link pages]
 
 * desci.world
-
-{% content-ref url="desciworld-dao/page/governing-dsw-dao/early-adopter-rights.md" %}
-[early-adopter-rights.md](desciworld-dao/page/governing-dsw-dao/early-adopter-rights.md)
-{% endcontent-ref %}
-
 * science.tech
 * World of DeSci
 * DSWDAO
@@ -26,20 +21,6 @@ DeSciWorld is an organisation; an ecosystem. It consists of technical products, 
 
 Guided by the mission to unite and empower the decentralized research community, DeSciWorld’s commitment is to faciliate a scientific renaissance in an authentic, transparent, and resilient manner. The platform offers a comprehensive suite of tools geared towards fostering community engagement, enhancing global participation, and championing the ethos of open science.
 
-##
-
-##
-
-### Overview of DeSciWorld
-
-
-
-Key offerings include the _DeScientist Terminal_, which connects researchers to the broader DeSci community, the _DeResearch Launchpad_, that streamlines the deployment and funding of new projects, and the Public Funding Marketplace, crafted to simplify the funding-seeking process for scientists.
-
-### Progressing the DeSci Ecosystem
-
-Furthermore, to drive dialogue, share insights, and build stronger community ties, DeSciWorld proudly presents its signature conference series, **“World of DeSci”**. In the intricate dance between traditional academia and innovative research methods, DeSciWorld is poised to be the bridge, ensuring effective and positive integration for a brighter future of science.
-
 ### Getting started resources
 
 Learn more about what we’re doing and how we are going to reach this goal:&#x20;
@@ -55,16 +36,12 @@ Learn more about what we’re doing and how we are going to reach this goal:&#x2
 
 We have created these resources for you to join us in this endeavour to democratize knowledge.
 
-**Twitter**: [@DeSciWorld](https://twitter.com/DeSciWorld)
-
+**Twitter**: [@DeSciWorld](https://twitter.com/DeSciWorld)\
+**Discord:** [https://discord.gg/dbMd55bvkV](https://discord.gg/dbMd55bvkV)\
 **Reddit**: [r/DeSciWorld](https://www.reddit.com/r/DeSciWorld/) \
 **Youtube:** [https://www.youtube.com/@desciworld1221](https://www.youtube.com/@desciworld1221) \
 **Github:** [https://github.com/DeSciWorldDAO](https://github.com/DeSciWorldDAO)
 
-### Join the DeSciWorld Community
-
-**Discord:** [https://discord.gg/dbMd55bvkV](https://discord.gg/dbMd55bvkV)
-
-Brand Kit:\
-Media Kit:&#x20;
+Brand Kit\
+Media Kit
 
