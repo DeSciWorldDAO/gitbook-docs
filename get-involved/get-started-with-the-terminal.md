@@ -1,9 +1,3 @@
----
-description: >-
-  Understand more about the components of the Terminal within these quick
-  starts.
----
-
 # Projects
 
 ## Protocols&#x20;

@@ -23,7 +23,7 @@ The marketplace utilizes a smart contract based escrow system alongside a novel 
 
 
 
-<figure><img src="../.gitbook/assets/Escrow_drawing_market.png" alt=""><figcaption><p>Attribute to researcher presenting the model (and re-design)</p></figcaption></figure>
+<figure><img src="../../../open-research-tooling/.gitbook/assets/Escrow_drawing_market.png" alt=""><figcaption><p>Attribute to researcher presenting the model (and re-design)</p></figcaption></figure>
 
 The DSW is Fees are charged ranging from 1-5%, on the total value of funding received through the platform for each research objective. This approach ensures that the platform remains sustainable and operative while providing significant value for its users.
 

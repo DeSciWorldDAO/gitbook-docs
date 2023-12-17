@@ -24,7 +24,7 @@ Guided by the mission to unite and empower the decentralized research community,
 
 Through the proliferation of our Proof of Knowledge (PoK) protocol, we provide an interoperable container for knowledge that \
 \
-&#x20;additionally, the platform offers a comprehensive suite of tools geared towards fostering community engagement, enhancing [global participation](ecosystem/world-of-desci/), and championing the ethos of open science.
+&#x20;additionally, the platform offers a comprehensive suite of tools geared towards fostering community engagement, enhancing [global participation](get-involved/world-of-desci/), and championing the ethos of open science.
 
 ## Why are we here?
 
@@ -50,7 +50,7 @@ The objective shifted from creating a P2P funding platform to something much lar
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:blue;"><strong>Understanding DeSciWorld</strong></mark></td><td>Resources and the story of DeSciWorld</td><td></td><td></td></tr><tr><td><mark style="color:blue;"><strong>desci.world</strong></mark></td><td>Information aggregation, education and onboarding</td><td></td><td><a href="ecosystem/terminal/">terminal</a></td></tr><tr><td><mark style="color:blue;"><strong>science.tech</strong></mark></td><td>Our premier technical platform</td><td></td><td><a href="ecosystem/science.tech/">science.tech</a></td></tr><tr><td><mark style="color:blue;"><strong>DSWDAO</strong></mark></td><td>The onchain entity behind DeSciWorld</td><td></td><td></td></tr><tr><td><mark style="color:blue;"><strong>World of DeSci</strong></mark></td><td>Our global conference circuit</td><td></td><td></td></tr><tr><td><mark style="color:blue;"><strong>Get Started</strong></mark></td><td>Resources and advice for various participants</td><td></td><td><a href="get-involved/community.md">community.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:blue;"><strong>Understanding DeSciWorld</strong></mark></td><td>Resources and the story of DeSciWorld</td><td></td><td></td></tr><tr><td><mark style="color:blue;"><strong>desci.world</strong></mark></td><td>Information aggregation, education and onboarding</td><td></td><td><a href="ecosystem/terminal/">terminal</a></td></tr><tr><td><mark style="color:blue;"><strong>science.tech</strong></mark></td><td>Our premier technical platform</td><td></td><td><a href="ecosystem/science.tech/">science.tech</a></td></tr><tr><td><mark style="color:blue;"><strong>DSWDAO</strong></mark></td><td>The onchain entity behind DeSciWorld</td><td></td><td></td></tr><tr><td><mark style="color:blue;"><strong>World of DeSci</strong></mark></td><td>Our global conference circuit</td><td></td><td></td></tr><tr><td><mark style="color:blue;"><strong>Get Started</strong></mark></td><td>Resources and advice for various participants</td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
 
 {% hint style="info" %}
 New here? We recommend reading the "Welcome" section on the left toolbar
