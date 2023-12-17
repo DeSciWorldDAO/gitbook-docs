@@ -5,7 +5,7 @@ description: >-
   scientists overcome these.
 ---
 
-# Get started for DeScientists
+# Researchers
 
 Designed with the DeScientist in mind the DSW Terminal enables independent scientists to build their profiles and connect with the DeSci ecosystem. DeSciWorld's Terminal enables the DeScientist to:
 
@@ -39,3 +39,11 @@ The terminal plays a pivotal role in introducing and assimilating new members in
 
 !! To get started with the Terminal, please \[register]\(link to terminal url) your profile on the Terminal.\
 !! Link to community channels [https://discord.gg/dbMd55bvkV](https://discord.gg/dbMd55bvkV).
+
+
+
+## Researchers&#x20;
+
+Researchers that are passionate in a field that is not _en vogue_ often struggle to source contributions towards their early-stage research. DeSciWorld understands this challenge and seeks to support researchers with a plethora of tools to overcome this high first hurdle. Ultimately we want to foster a strong ecosystem of open researchers to progress under-researched fields of science.
+
+!! Insert link to entry point&#x20;

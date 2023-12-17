@@ -1,11 +1,11 @@
 ---
 description: >-
-  DeSciWorld DAO organizes scientific communities on-chain. Through the DSW DAO
-  funding initiatives are utilized to empower DeScientists and connect them to
-  open research.
+  DSW DAO organizes scientific communities on-chain. Through the DSW DAO funding
+  initiatives are utilized to empower DeScientists and connect them to open
+  research.
 ---
 
-# DeSciWorld DAO
+# DSW DAO
 
 DSW DAO has three core objectives as core principles.&#x20;
 

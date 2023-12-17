@@ -10,9 +10,7 @@ DeSciWorld is an organisation; an ecosystem. It consists of technical products, 
 
 Guided by the mission to unite and empower the decentralized research community, DeSciWorld’s commitment is to faciliate a scientific renaissance in an authentic, transparent, and resilient manner. The platform offers a comprehensive suite of tools geared towards fostering community engagement, enhancing global participation, and championing the ethos of open science.
 
-## Evolution of the ecosystem
-
-
+## Evolutionary Timeline
 
 Started in September 2021, DeSciWorld began as an idea to bring research funding onchain through Peer-to-Peer (P2P) infrastructure. Originally named "DeSciDAO", it incorporated many of the ideas learned by founder Joshua during his time working in DeFi. The core product design was to connect researchers and funders permissionlessly, even anonymously, to facilitate science that might disagree with official narratives during the COVID pandemic. However, it soon became clear that:
 
@@ -23,6 +21,14 @@ Started in September 2021, DeSciWorld began as an idea to bring research funding
 As such, DeSciDAO pivoted to become DeSciWorld.&#x20;
 
 The objective shifted from creating a P2P funding platform to something much larger and more ambitious in scope; to become the global hub of DeSci, to use our platform to improve participation in this ecosystem, to provide outreach and web3 mechanism design assistance to other projects and generally to become a cultural vehicle for change within academia.
+
+## Why are we here?
+
+Handing the right to determination of the future of humanity, the keys to the ignition of tools of destruction, the honour of shepharding the great masses of the world to _**any one entity**_ is a folly. We must create the tools that decentralise and distribute the power that is afforded to technology, before control of those tools is absolute.
+
+## Who are we?
+
+
 
 
 

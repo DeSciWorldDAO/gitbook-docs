@@ -1,32 +1,13 @@
 # Table of contents
 
-* [Welcome](README.md)
-  * [Understanding DeSci](readme/understanding-desciworld.md)
-  * [Get started](readme/get-started.md)
-  * [Useful Links](readme/contribute.md)
-* [Understanding DeSciWorld](understanding-desciworld/README.md)
-  * [The team](understanding-desciworld/the-team.md)
-  * [Why does DeSciWorld exist?](understanding-desciworld/why-does-desciworld-exist.md)
-* [Get Started](get-started/README.md)
-  * [Get started for DeScientists](get-started/get-started-for-descientists/README.md)
-    * [NFT Spotlight](get-started/get-started-for-descientists/nft-spotlight.md)
-  * [Get started for DeScientists](get-started/get-started-with-the-terminal/README.md)
-    * [P2P Grant funding platform](get-started/get-started-with-the-terminal/p2p-grant-funding-platform.md)
-    * [Community as a Service (CaaS)](get-started/get-started-with-the-terminal/community-as-a-service-caas/README.md)
-      * [Contributor Registration](get-started/get-started-with-the-terminal/community-as-a-service-caas/contributor-registration.md)
-      * [Client request submission](get-started/get-started-with-the-terminal/community-as-a-service-caas/client-request-submission.md)
-      * [Feedback and Arbitration](get-started/get-started-with-the-terminal/community-as-a-service-caas/feedback-and-arbitration.md)
-      * [Planned future iterations](get-started/get-started-with-the-terminal/community-as-a-service-caas/planned-future-iterations.md)
-    * [DeSci Dashboard](get-started/get-started-with-the-terminal/desci-dashboard.md)
-  * [Get started for funders & protocols](get-started/get-started-for-funders-and-protocols.md)
-* [DeSciWorld DAO](desciworld-dao/README.md)
-  * [Page](desciworld-dao/page/README.md)
-    * [Governing DSW DAO](desciworld-dao/page/governing-dsw-dao/README.md)
-      * [Proceeds from sale](desciworld-dao/page/governing-dsw-dao/proceeds-from-sale.md)
-      * [How to mint?](desciworld-dao/page/governing-dsw-dao/how-to-mint.md)
-      * [“Early Adopter” rights](desciworld-dao/page/governing-dsw-dao/early-adopter-rights.md)
+## 👤 Start here
 
-## Ecosystem
+* [Welcome](README.md)
+* [Proof of Knowledge](start-here/proof-of-knowledge.md)
+* [Understanding DeSci](start-here/understanding-desciworld.md)
+* [Understanding DeSciWorld](start-here/understanding-desciworld-1.md)
+
+## 🌟 Ecosystem
 
 * [desci.world](ecosystem/terminal/README.md)
   * [Terminal](ecosystem/terminal/terminal.md)
@@ -43,6 +24,20 @@
 * [World of DeSci](ecosystem/world-of-desci/README.md)
   * [Previous Events](ecosystem/world-of-desci/previous-events.md)
   * [Application Process](ecosystem/world-of-desci/application-process.md)
+* [P2P Grant funding platform](ecosystem/p2p-grant-funding-platform.md)
+* [DSW DAO](ecosystem/desciworld-dao/README.md)
+  * [Page](ecosystem/desciworld-dao/page/README.md)
+    * [Governing DSW DAO](ecosystem/desciworld-dao/page/governing-dsw-dao/README.md)
+      * [Proceeds from sale](ecosystem/desciworld-dao/page/governing-dsw-dao/proceeds-from-sale.md)
+      * [How to mint?](ecosystem/desciworld-dao/page/governing-dsw-dao/how-to-mint.md)
+      * [“Early Adopter” rights](ecosystem/desciworld-dao/page/governing-dsw-dao/early-adopter-rights.md)
+
+## 🤝 Get involved
+
+* [Community](get-involved/community.md)
+* [Researchers](get-involved/get-started-for-descientists.md)
+* [Projects](get-involved/get-started-with-the-terminal.md)
+* [Funders](get-involved/get-started-for-funders-and-protocols.md)
 
 ## Open Research Tooling
 
@@ -52,13 +47,6 @@
 * [The Brain](open-research-tooling/the-brain/README.md)
   * [How to use the brain](open-research-tooling/the-brain/how-to-use-the-brain.md)
 
-## DSW Ecosystem
-
-* [Ecosystem](dsw-ecosystem/ecosystem/README.md)
-  * [DeScientists](dsw-ecosystem/ecosystem/descientists.md)
-  * [Platforms](dsw-ecosystem/ecosystem/platforms.md)
-  * [Enterprise](dsw-ecosystem/ecosystem/enterprise.md)
-
 ***
 
 * [Contact us](contact-us/README.md)
@@ -67,6 +55,7 @@
 ## $DSCI Token
 
 * [Potential token utilities](usddsci-token/potential-token-utilities.md)
+* [Useful Links](usddsci-token/contribute.md)
 
 ***
 
