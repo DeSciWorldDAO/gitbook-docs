@@ -48,9 +48,9 @@
 
 ## 🤝 World of DeSci
 
-* [A global network for Open Research](world-of-desci/a-global-network-for-open-research/README.md)
-  * [Previous Events](world-of-desci/a-global-network-for-open-research/previous-events.md)
-  * [Application Process](world-of-desci/a-global-network-for-open-research/application-process.md)
+* [World of DeSci](world-of-desci/world-of-desci/README.md)
+  * [Previous Events](world-of-desci/world-of-desci/previous-events.md)
+  * [Application Process](world-of-desci/world-of-desci/application-process.md)
 
 ***
 
