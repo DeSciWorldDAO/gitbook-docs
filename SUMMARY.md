@@ -9,6 +9,7 @@
   * [Knowledge Validation & Value Attribution](start-here/proof-of-knowledge-pok/knowledge-validation-and-value-attribution.md)
   * [Search System: The Brain](start-here/proof-of-knowledge-pok/search-system-the-brain.md)
   * [Engram Life-cycle](start-here/proof-of-knowledge-pok/engram-life-cycle.md)
+  * [Optimistic governance of PoK](start-here/proof-of-knowledge-pok/optimistic-governance-of-pok.md)
 * [Understanding DeSci](start-here/understanding-desciworld.md)
 * [Understanding DeSciWorld](start-here/understanding-desciworld-1.md)
 * [DSW DAO](start-here/desciworld-dao/README.md)
