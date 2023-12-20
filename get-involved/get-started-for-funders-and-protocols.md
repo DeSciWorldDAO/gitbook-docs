@@ -1,8 +1,9 @@
 ---
 description: >-
-  DeSci presents a more efficient and equitable process to fund research, whilst
-  enabling commissioners of research to reach a global talent.
+  Commissioners of research can engage a global research community by utilizing
+  DSW's dApp technology
 ---
 
 # Funders
 
+\[do we ask Jelani about this]

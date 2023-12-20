@@ -1,12 +1,16 @@
 ---
-description: the homepage of DeSci
+description: >-
+  Created to be a central hub of DeSci, desci.world is dedicated to fostering
+  engagement, collaboration, and education within the global community.
 ---
 
 # desci.world
 
-An integrated platform dedicated to fostering engagement, collaboration, and education within the global DeSci community.
+Desci.world features a suite of functionality created to help DeScientists:&#x20;
 
-Acting as a central hub for various functionalities, the terminal ensures a seamless and efficient interface for DeScientists, research commissioners, and others curious about the DeSci ecosystem. The DSW Terminal has been designed to enable the global DeSci Community to flourish.
+1. The Terminal has been designed to enable the global DeSci Community to flourish and enable DeScientists.&#x20;
+2. The Public Funding Market connects DeScientists to Open Research projects, alongside a secure and transparent smart contract escrow to access research funding.
+3. Spotlight features an overview of the DeSci ecosystem and the ability to list your dApp.
 
-### Enabling the DeScientist to engage the ecosystem
+
 

@@ -2,7 +2,9 @@
 
 ## 👤 Start here
 
-* [Welcome](README.md)
+* [Introducing DeSciWorld](README.md)
+* [Understanding DeSci](start-here/understanding-desciworld.md)
+* [Understanding DeSciWorld](start-here/understanding-desciworld-1.md)
 * [Proof of Knowledge (PoK)](start-here/proof-of-knowledge-pok/README.md)
   * [kEngrams](start-here/proof-of-knowledge-pok/kengrams.md)
   * [Composable knowledge creation](start-here/proof-of-knowledge-pok/composable-knowledge-creation.md)
@@ -10,8 +12,6 @@
   * [Search System: The Brain](start-here/proof-of-knowledge-pok/search-system-the-brain.md)
   * [Engram Life-cycle](start-here/proof-of-knowledge-pok/engram-life-cycle.md)
   * [Optimistic governance of PoK](start-here/proof-of-knowledge-pok/optimistic-governance-of-pok.md)
-* [Understanding DeSci](start-here/understanding-desciworld.md)
-* [Understanding DeSciWorld](start-here/understanding-desciworld-1.md)
 * [DSW DAO](start-here/desciworld-dao/README.md)
   * [Governing DSW DAO](start-here/desciworld-dao/governing-dsw-dao/README.md)
     * [Proceeds from sale](start-here/desciworld-dao/governing-dsw-dao/proceeds-from-sale.md)
@@ -29,7 +29,6 @@
   * [Public Funding Marketplace](ecosystem/terminal/public-funding-marketplace/README.md)
     * [How to contribute to Open Research](ecosystem/terminal/public-funding-marketplace/how-to-contribute-to-dsw-market-scientists.md)
     * [How to start or fund a research cause](ecosystem/terminal/public-funding-marketplace/how-to-deploy-cause-dsw-market-cause-funder-enterprise-or-public-good.md)
-  * [App Store](ecosystem/terminal/app-store.md)
 * [science.tech](ecosystem/science.tech/README.md)
   * [Scaling DeSci to a global level](ecosystem/science.tech/scaling-desci-to-a-global-level.md)
   * [DeResearch Launchpad](ecosystem/science.tech/deresearch-launchpad/README.md)
@@ -39,12 +38,9 @@
 
 ## 🏗 Get involved
 
-* [Researchers](get-involved/get-started-for-descientists.md)
-* [Projects](get-involved/get-started-with-the-terminal.md)
+* [Research collectives](get-involved/get-started-for-descientists.md)
+* [Protocols](get-involved/get-started-with-the-terminal.md)
 * [Funders](get-involved/get-started-for-funders-and-protocols.md)
-* [World of DeSci](get-involved/world-of-desci/README.md)
-  * [Previous Events](get-involved/world-of-desci/previous-events.md)
-  * [Application Process](get-involved/world-of-desci/application-process.md)
 
 ## 🤝 World of DeSci
 

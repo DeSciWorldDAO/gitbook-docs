@@ -26,8 +26,6 @@ The objective shifted from creating a P2P funding platform to something much lar
 
 Handing the right to determination of the future of humanity, the keys to the ignition of tools of destruction, the honour of shepharding the great masses of the world to _**any one entity**_ is a folly. We must create the tools that decentralise and distribute the power that is afforded to technology, before control of those tools is absolute.
 
-## Who are we?
-
 
 
 

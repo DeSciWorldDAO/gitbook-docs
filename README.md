@@ -5,7 +5,7 @@ description: >-
   the hands of the people, shines clear.
 ---
 
-# Welcome
+# Introducing DeSciWorld
 
 **DeSciWorld**\
 /di'saɪ'wɜːld/\
@@ -24,7 +24,7 @@ Guided by the mission to unite and empower the decentralized research community,
 
 Through the proliferation of our Proof of Knowledge (PoK) protocol, we provide an interoperable container for knowledge that \
 \
-&#x20;additionally, the platform offers a comprehensive suite of tools geared towards fostering community engagement, enhancing [global participation](get-involved/world-of-desci/), and championing the ethos of open science.
+&#x20;additionally, the platform offers a comprehensive suite of tools geared towards fostering community engagement, enhancing [global participation](broken-reference), and championing the ethos of open science.
 
 ## Why are we here?
 
