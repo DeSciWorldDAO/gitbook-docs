@@ -7,13 +7,13 @@ description: >-
 
 # DSW DAO
 
-DSW DAO has three core objectives as core principles.&#x20;
+DSW DAO has three core objectives as guiding principles:
 
-1. Develop products and tools to growth open research
+1. Develop products and tools that unlock the potential of open research
 2. Support the development of the DeSci Ecosystem
 3. Grow the DeSci community&#x20;
 
-To deliver this objective contributors to the DAO will have the skills to strive towards achieving these objectives. Considering these further helps understand why DeSciWorld organizes as a decentralized organization.&#x20;
+To deliver this objective contributors to the DAO will have the skills to able to work towards these objectives. Considering these further helps understand why DeSciWorld organizes as a decentralized organization.&#x20;
 
 ### Further understanding DeSciWorld DAO's objectives
 

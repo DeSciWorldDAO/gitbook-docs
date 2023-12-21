@@ -6,11 +6,11 @@ description: >-
 
 # Protocols
 
-The skilled hands of Decentralised Science have created a range of successful DeSci protocols. These can be referenced within the Terminal, one of the many tools that DeSciWorld provide to protocols whether just starting out or established.&#x20;
+The skilled and diverse DeSci ecosystem has created a range of successful DeSci protocols. Some of the largest protocols are now well established organizations that are focused on solving scientific challenges.&#x20;
 
-!! Insert link to entry point&#x20;
+!! You can see the majority of the DeSci ecosystem's protocols on the DSW Terminal \[URL to new terminal page]
 
-With the DSW DAO's technology protocols can deploy research challenges to garner funding and engage the DeScientist community to execute.&#x20;
+DSW DAO's technology has been created as a 'layer 0' for the DeSci Ecosystem, providing a foundation for protocols to garner funding and engage the DeScientist community.
 
 ### Getting Started as a Protocol
 

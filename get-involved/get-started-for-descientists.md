@@ -22,10 +22,5 @@ Research collectives will be at the core of the DSW ecosystem...
 
 \[Insert stuff from Josh re tokenomics around this]
 
-###
-
-###
-
-##
-
-!! Insert link to entry point&#x20;
+\
+!! Insert CTA for reserach collectives&#x20;
