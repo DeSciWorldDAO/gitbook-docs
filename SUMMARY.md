@@ -40,7 +40,7 @@
 
 * [Research collectives](get-involved/get-started-for-descientists.md)
 * [Protocols](get-involved/get-started-with-the-terminal.md)
-* [Funders](get-involved/get-started-for-funders-and-protocols.md)
+* [Capital allocatooors](get-involved/get-started-for-funders-and-protocols.md)
 
 ## 🤝 World of DeSci
 

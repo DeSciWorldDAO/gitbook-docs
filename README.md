@@ -43,12 +43,10 @@ In a time of converging technologies, handing the right to determination of the 
 
 We must create the tools that decentralise and distribute the power that is afforded to technology, before control of those tools is absolute.
 
+## The DeSciWorld Mission
 
 
 
-
->
->
 > * WE ARE EMPOWERING THE (DE)SCIENTISTS --into—>
 > * _WE ARE EMPOWERING OPEN RESEARCHERS_
 > * _AND CONNECTING THEM TO DESCI_
