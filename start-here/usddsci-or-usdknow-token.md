@@ -1,10 +1,16 @@
 ---
-description: '@josh plz review'
-cover: ../.gitbook/assets/1500x500.jpg
-coverY: 0
+description: The global hub of [De]centralised [Sci]ence
 ---
 
-# Potential token utilities
+# $DSCI or $KNOW Token
+
+## What is DeSciWorld?&#x20;
+
+DeSciWorld is an organisation; an ecosystem. It consists of technical products, a decentralised economic system, a diverse and global community and a cultural force for change.&#x20;
+
+Guided by the mission to unite and empower the decentralized research community, DeSciWorld’s commitment is to faciliate a scientific renaissance in an authentic, transparent, and resilient manner. The platform offers a comprehensive suite of tools geared towards fostering community engagement, enhancing global participation, and championing the ethos of open science.
+
+
 
 The $DSCI token primarily facilitates governance of the DeSciWorld DAO. Some potential token utilities, the implementation of which is to decided by the pre-DAO, are listed below:&#x20;
 

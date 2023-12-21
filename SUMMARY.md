@@ -4,7 +4,6 @@
 
 * [Introducing DeSciWorld](README.md)
 * [Understanding DeSci](start-here/understanding-desciworld.md)
-* [Understanding DeSciWorld](start-here/understanding-desciworld-1.md)
 * [Proof of Knowledge (PoK)](start-here/proof-of-knowledge-pok/README.md)
   * [kEngrams](start-here/proof-of-knowledge-pok/kengrams.md)
   * [Composable knowledge creation](start-here/proof-of-knowledge-pok/composable-knowledge-creation.md)
@@ -12,11 +11,7 @@
   * [Search System: The Brain](start-here/proof-of-knowledge-pok/search-system-the-brain.md)
   * [Engram Life-cycle](start-here/proof-of-knowledge-pok/engram-life-cycle.md)
   * [Optimistic governance of PoK](start-here/proof-of-knowledge-pok/optimistic-governance-of-pok.md)
-* [DSW DAO](start-here/desciworld-dao/README.md)
-  * [Governing DSW DAO](start-here/desciworld-dao/governing-dsw-dao/README.md)
-    * [Proceeds from sale](start-here/desciworld-dao/governing-dsw-dao/proceeds-from-sale.md)
-    * [How to mint?](start-here/desciworld-dao/governing-dsw-dao/how-to-mint.md)
-    * [“Early Adopter” rights](start-here/desciworld-dao/governing-dsw-dao/early-adopter-rights.md)
+* [$DSCI or $KNOW Token](start-here/usddsci-or-usdknow-token.md)
 
 ## 🌟 Ecosystem
 
@@ -30,17 +25,24 @@
     * [How to contribute to Open Research](ecosystem/terminal/public-funding-marketplace/how-to-contribute-to-dsw-market-scientists.md)
     * [How to start or fund a research cause](ecosystem/terminal/public-funding-marketplace/how-to-deploy-cause-dsw-market-cause-funder-enterprise-or-public-good.md)
 * [science.tech](ecosystem/science.tech/README.md)
+  * [Research Collective](ecosystem/science.tech/research-collective.md)
   * [Scaling DeSci to a global level](ecosystem/science.tech/scaling-desci-to-a-global-level.md)
   * [DeResearch Launchpad](ecosystem/science.tech/deresearch-launchpad/README.md)
     * [How to deploy ERC-721 and ERC-1155 open research](ecosystem/science.tech/deresearch-launchpad/how-to-deploy-erc-721-and-erc-1155-open-research.md)
-* [The Brain](ecosystem/the-brain/README.md)
+* [DSW DAO](ecosystem/desciworld-dao/README.md)
+  * [DAO Structure](ecosystem/desciworld-dao/dao-structure.md)
+  * [Responsibilities](ecosystem/desciworld-dao/responsibilities.md)
+  * [Microbes NFT](ecosystem/desciworld-dao/governing-dsw-dao/README.md)
+    * [How to mint?](ecosystem/desciworld-dao/governing-dsw-dao/how-to-mint.md)
+    * [“Early Adopter” rights](ecosystem/desciworld-dao/governing-dsw-dao/early-adopter-rights.md)
+* [Yggdrasil](ecosystem/the-brain/README.md)
   * [How to use the brain](ecosystem/the-brain/how-to-use-the-brain.md)
 
 ## 🏗 Get involved
 
-* [Research collectives](get-involved/get-started-for-descientists.md)
+* [Research Collectives](get-involved/get-started-for-descientists.md)
 * [Protocols](get-involved/get-started-with-the-terminal.md)
-* [Capital allocatooors](get-involved/get-started-for-funders-and-protocols.md)
+* [Capital Allocators](get-involved/get-started-for-funders-and-protocols.md)
 
 ## 🤝 World of DeSci
 
@@ -55,7 +57,6 @@
 
 ## $DSCI Token
 
-* [Potential token utilities](usddsci-token/potential-token-utilities.md)
 * [Useful Links](usddsci-token/contribute.md)
 * [P2P Grant funding platform (delete)](usddsci-token/p2p-grant-funding-platform.md)
 
@@ -66,3 +67,7 @@
   * [DAO-Owned liquidity](legal-disclosure/dao-owned-liquidity.md)
   * [Layer-2 Deployment](legal-disclosure/layer-2-deployment.md)
   * [Tokenomics definitions](legal-disclosure/tokenomics-definitions.md)
+
+## Group 1
+
+* [Page 2](group-1/page-2.md)
