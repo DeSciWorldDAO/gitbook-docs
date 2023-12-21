@@ -14,4 +14,14 @@ DSW DAO's technology has been created as a 'layer 0' for the DeSci Ecosystem, pr
 
 ### Getting Started as a Protocol
 
+#### List on the terminal&#x20;
+
+
+
+#### Explore the DSW Public Funding Marketplace
+
+
+
+#### Utilize The Brain&#x20;
+
 \[List to the terminal key CTA?]
