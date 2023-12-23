@@ -43,7 +43,7 @@ This model not only ensures the democratization of knowledge but also reinforces
 
 The diagram below illustrates the trajectory of the internet's history from Web1 to Web3 (+decentralisded AI) and the effect this has on the collective intelligence and its ability to connect to others within the network. Web3 will not be explained in these documents but the principles that underpin it are essential to understanding DeSci.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Attribute to researcher presenting the model (and re-design)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Attribute to researcher presenting the model (and re-design)</p></figcaption></figure>
 
 3. **The DeScientist**
 

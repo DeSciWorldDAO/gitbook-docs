@@ -13,14 +13,6 @@
   * [Optimistic governance of PoK](start-here/proof-of-knowledge-pok/optimistic-governance-of-pok.md)
 * [$DSCI or $KNOW Token](start-here/understanding-desciworld-1.md)
 
-## DSW DAO
-
-* [DAO Structure](dsw-dao/dao-structure.md)
-* [Responsibilities](dsw-dao/responsibilities.md)
-* [Microbes NFT](dsw-dao/governing-dsw-dao/README.md)
-  * [How to mint?](dsw-dao/governing-dsw-dao/how-to-mint.md)
-  * [“Early Adopter” rights](dsw-dao/governing-dsw-dao/early-adopter-rights.md)
-
 ## 🌟 Ecosystem
 
 * [desci.world](ecosystem/terminal/README.md)
@@ -42,6 +34,14 @@
   * [Application Process](ecosystem/world-of-desci/application-process.md)
 * [Yggdrasil](ecosystem/the-brain/README.md)
   * [How to use the brain](ecosystem/the-brain/how-to-use-the-brain.md)
+
+## 🏛 DSW DAO
+
+* [Role and Responsibilities](dsw-dao/role-and-responsibilities.md)
+* [DAO Structure](dsw-dao/dao-structure.md)
+* [Microbes NFT](dsw-dao/governing-dsw-dao/README.md)
+  * [How to mint?](dsw-dao/governing-dsw-dao/how-to-mint.md)
+  * [“Early Adopter” rights](dsw-dao/governing-dsw-dao/early-adopter-rights.md)
 
 ## 🏗 Get involved
 
