@@ -11,7 +11,15 @@
   * [Search System: The Brain](start-here/proof-of-knowledge-pok/search-system-the-brain.md)
   * [Engram Life-cycle](start-here/proof-of-knowledge-pok/engram-life-cycle.md)
   * [Optimistic governance of PoK](start-here/proof-of-knowledge-pok/optimistic-governance-of-pok.md)
-* [$DSCI or $KNOW Token](start-here/usddsci-or-usdknow-token.md)
+* [$DSCI or $KNOW Token](start-here/understanding-desciworld-1.md)
+
+## DSW DAO
+
+* [DAO Structure](dsw-dao/dao-structure.md)
+* [Responsibilities](dsw-dao/responsibilities.md)
+* [Microbes NFT](dsw-dao/governing-dsw-dao/README.md)
+  * [How to mint?](dsw-dao/governing-dsw-dao/how-to-mint.md)
+  * [“Early Adopter” rights](dsw-dao/governing-dsw-dao/early-adopter-rights.md)
 
 ## 🌟 Ecosystem
 
@@ -29,12 +37,9 @@
   * [Scaling DeSci to a global level](ecosystem/science.tech/scaling-desci-to-a-global-level.md)
   * [DeResearch Launchpad](ecosystem/science.tech/deresearch-launchpad/README.md)
     * [How to deploy ERC-721 and ERC-1155 open research](ecosystem/science.tech/deresearch-launchpad/how-to-deploy-erc-721-and-erc-1155-open-research.md)
-* [DSW DAO](ecosystem/desciworld-dao/README.md)
-  * [DAO Structure](ecosystem/desciworld-dao/dao-structure.md)
-  * [Responsibilities](ecosystem/desciworld-dao/responsibilities.md)
-  * [Microbes NFT](ecosystem/desciworld-dao/governing-dsw-dao/README.md)
-    * [How to mint?](ecosystem/desciworld-dao/governing-dsw-dao/how-to-mint.md)
-    * [“Early Adopter” rights](ecosystem/desciworld-dao/governing-dsw-dao/early-adopter-rights.md)
+* [World of DeSci](ecosystem/world-of-desci/README.md)
+  * [Previous Events](ecosystem/world-of-desci/previous-events.md)
+  * [Application Process](ecosystem/world-of-desci/application-process.md)
 * [Yggdrasil](ecosystem/the-brain/README.md)
   * [How to use the brain](ecosystem/the-brain/how-to-use-the-brain.md)
 
@@ -44,30 +49,13 @@
 * [Protocols](get-involved/get-started-with-the-terminal.md)
 * [Capital Allocators](get-involved/get-started-for-funders-and-protocols.md)
 
-## 🤝 World of DeSci
+## Links
 
-* [World of DeSci](world-of-desci/world-of-desci/README.md)
-  * [Previous Events](world-of-desci/world-of-desci/previous-events.md)
-  * [Application Process](world-of-desci/world-of-desci/application-process.md)
-
-***
-
-* [Contact us](contact-us/README.md)
-  * [Page 1](contact-us/page-1.md)
-
-## $DSCI Token
-
-* [Useful Links](usddsci-token/contribute.md)
-* [P2P Grant funding platform (delete)](usddsci-token/p2p-grant-funding-platform.md)
-
-***
-
-* [Legal disclosure](legal-disclosure/README.md)
-  * [Token issuance](legal-disclosure/token-issuance.md)
-  * [DAO-Owned liquidity](legal-disclosure/dao-owned-liquidity.md)
-  * [Layer-2 Deployment](legal-disclosure/layer-2-deployment.md)
-  * [Tokenomics definitions](legal-disclosure/tokenomics-definitions.md)
-
-## Group 1
-
-* [Page 2](group-1/page-2.md)
+* [Useful Links](links/contribute.md)
+* [Contact us](links/contact-us/README.md)
+  * [Page 1](links/contact-us/page-1.md)
+* [Legal disclosure](links/legal-disclosure/README.md)
+  * [Token issuance](links/legal-disclosure/token-issuance.md)
+  * [DAO-Owned liquidity](links/legal-disclosure/dao-owned-liquidity.md)
+  * [Layer-2 Deployment](links/legal-disclosure/layer-2-deployment.md)
+  * [Tokenomics definitions](links/legal-disclosure/tokenomics-definitions.md)

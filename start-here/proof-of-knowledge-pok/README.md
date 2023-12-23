@@ -10,6 +10,10 @@ description: >-
 
 ### The Proof of Knowledge Protocol
 
+
+
+Through the Proof of Knowledge (PoK) protocol, we provide an on-chain container for knowledge, interoperable with the burdgeoning "DeSci stack". PoK offers a brand new method to quantify and value knowledge - the [kEngram](kengrams.md) (kE). kE are a data object that both maintains an unbreakable chain of provenance and[ tracks its usage within the knowledge market](knowledge-validation-and-value-attribution.md). Usage of kE is to be incentivised with the $DSCI/KNOW token.
+
 \
 As a fundamental building block towards a fully-fledged knowledge-based economy, the PoK protocol offers a comprehensive framework to fuel intellectual contribution and foster an environment of continuous learning and knowledge exchange.
 

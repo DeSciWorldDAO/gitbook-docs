@@ -4,17 +4,11 @@ description: >-
   mission of DeSciWorld
 ---
 
-# DSW DAO
+# DAO Structure
 
 The DSW DAO is an evolving structure that is governed by the Microbes NFT. The primary purpose of DSW DAO is to facilitate the launch and sound operation of the DeSciWorld ecosystem, including science.tech and the World of DeSci conference circuit.&#x20;
 
 \[insert diagram about the relationship between preDAO, DSW DAO, desci.world, science.tech, $DSCI and $MICR]
-
-
-
-
-
-
 
 
 

@@ -20,20 +20,76 @@ _noun_\
 
 DeSciWorld is an organisation; an ecosystem. It consists of [technical products](ecosystem/science.tech/), a decentralised [economic system](broken-reference), a diverse and global community and a cultural force for change.&#x20;
 
-Guided by the mission to unite and empower the decentralized research community, DeSciWorld’s commitment is to facilitate a scientific renaissance in an authentic, transparent, and resilient manner.&#x20;
+<figure><img src=".gitbook/assets/2 DSW pitch deck (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Through the proliferation of our Proof of Knowledge (PoK) protocol, we provide an interoperable container for knowledge that is \
-\
-&#x20;additionally, the platform offers a comprehensive suite of tools geared towards fostering community engagement, enhancing [global participation](broken-reference), and championing the ethos of open science.
+<details>
 
+<summary>desci.world <em><mark style="color:blue;">- the homepage of DeSci</mark></em></summary>
 
+* web3 native tools for science such as P2P funding, DID and NFTs
+* offers a comprehensive suite of tools that DeSci projects can use to promote their platform, fostering global community engagement
+* faciliating outreach and b2b networking to improve collaboration in the space
+* a dynamic terminal for individuals to learn and engage with up-to-date information including events, job listings, visualisation tools and news
 
-> How do we talk about DeSciWorld? (notes from workshops)&#x20;
->
-> * A platform for scientists to explore funding for Decentralized Research
-> * DeSciWorld has a suite of products focused on facilitating the Decentralized Science community, placing the DAO at the centre of the ecosystem
-> * We seek to facilitate a global level, creating a level playing field for developing nations
-> * There is no way DeSci will work in the long run if we do not integrate effectively and positive with traditional research or academia
+\[read more]
+
+</details>
+
+<details>
+
+<summary>Proof of Knowledge <mark style="color:blue;">- </mark><em><mark style="color:blue;">knowledge supply-chain logistics</mark></em></summary>
+
+* on-chain knowledge graph hyperstructure, optimised for AI readability
+* produces structured units of knowledge called kEngrams (kE)
+* kE are attested to on-chain and interoperable with the burdgeoning "DeSci stack"
+* LLMs (RAG) can utilise kE as embeddings and query them, producing hyperlinked responses.&#x20;
+* this act of querying can be tracked, providing a set of usage metrics for the knowledge
+
+\[read more]
+
+</details>
+
+<details>
+
+<summary>science.tech <mark style="color:blue;">- </mark><em><mark style="color:blue;">your on-chain research lab</mark></em></summary>
+
+* the primary way to engage with Proof of Knowledge
+* mint, share and exchange kEngrams through the factory and marketplace
+* deploy custom AI agents with selected kEngram embeddings
+* join or summon a Research Collective
+* engage with the $DSCI incentive programme through "knowledge mining"
+* deploy on-chain P2P funding or research requests
+* create a Synapse private token-gated chatroom for sharing your research
+
+\[read more]
+
+</details>
+
+<details>
+
+<summary>World of DeSci <em><mark style="color:blue;">- seeding science globally</mark></em></summary>
+
+* in-person events held globally, to incubate local DeSci communities that can self-sustain and proliferate
+* bring together founders and thought leaders from DeSci to showcase its potential to local research communities
+* give early stage projects a helping hand with navigating the "networking space", getting connections to the right people early on
+
+\[read more]
+
+</details>
+
+<details>
+
+<summary>DSW DAO </summary>
+
+* governs DeSciWorld's operations, budget, team and other high level management decisions
+* decentralised participation and ownership through the Microbes NFT
+* deploys the smart contract infrastructure for the ecosystem
+
+\[not yet active]
+
+\[read more]
+
+</details>
 
 ## Why are we here?
 
@@ -41,21 +97,30 @@ DeSciWorld was created in September 2021, after the COVID pandemic exposed some 
 
 In a time of converging technologies, handing the right to determination of the future of humanity, the keys to the ignition of tools of destruction, the honour of shepherding the great masses of the world to _**any one entity**_ is a folly.&#x20;
 
-We must create the tools that decentralise and distribute the power that is afforded to technology, before control of those tools is absolute.
+We must create the tools that decentralise and distribute the power that is afforded to technology, before that power is absolute. Guided by the mission to unite and empower the decentralized research community, DeSciWorld’s commitment is to facilitate a scientific renaissance in an authentic, transparent, and resilient manner.&#x20;
+
+There is no way DeSci will work in the long run if we do not integrate effectively and positive with traditional research or academia
 
 ## The DeSciWorld Mission
 
+Social
 
+By promoting and expanding the culture of Decentralised Science, we aim to empower (de)scientists to conduct research on their own terms, without compromise, and to help them effectively capture the value generated by their work.
 
-> * WE ARE EMPOWERING THE (DE)SCIENTISTS --into—>
-> * _WE ARE EMPOWERING OPEN RESEARCHERS_
-> * _AND CONNECTING THEM TO DESCI_
->
-> _**DeSci**_ _**DAOs (values/purpose)**_
->
-> * Delivering genuine moments of happiness in the DeSci ecosystem
-> * Ecosystem facilitator for DeSci projects
-> * Central point for the community and foundational force to support in DeSci prosper
+Technical
+
+By placing user-generated-research (UGR) at the centre of knowledge creation, using Proof-of-Knowledge, we aim to create a knowledge-backed economy in an AI-driven future. Through the science.tech platform, we provide a full suite of on-chain tools for researchers to utilise with minimal setup or experience required.
+
+### **Values**
+
+* Central point for the community and foundational force to support in DeSci prosper
+* Delivering genuine moments of happiness in the DeSci ecosystem
+* Ecosystem facilitator for DeSci projects
+*
+  * Develop systems of trustless verification
+  * Place humanity at the centre of knowledge creation
+* Provide equality of opportunity and access
+*
 
 ## Our Evolutionary Timeline \[This has been included in section 3]
 
