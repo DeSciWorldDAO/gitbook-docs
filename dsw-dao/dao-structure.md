@@ -5,8 +5,16 @@ DSW DAO organisational structure pulls inspiration from Haier's [RenDanHeYi](htt
 View information about the 4 core units of the DSW DAO:
 
 {% tabs %}
+{% tab title="Overview" %}
+This system is optimised for efficiency-where-necessary and decentralisation-where-possible.
+
+DSW DAO maintains that decentralised token governance must be the backstop to an on-chain organisation, however it can cause inefficiencies if all decisions must be decided upon by open governance. To ensure agility, we are combining autonomous "Pods" under the collective mission of DeSciWorld, with unique interactions and accountability structures.&#x20;
+
+We hope to foster the strongest possible entrepenurial spirits, bolstered by independent targets and budgets, to motivate high-quality autonomous contributions.
+{% endtab %}
+
 {% tab title="Microbes Governors" %}
-Microbes NFT stakers are credited voting rights, as Governors.
+The Governors are the most decentralised portion of the DSW DAO, and the most powerful overseers of governance. Microbes NFT stakers are credited voting rights, as Governors.
 
 Governors may vote on proposals submitted from only three sources:
 
@@ -14,7 +22,9 @@ Governors may vote on proposals submitted from only three sources:
 2. the Dispute Court&#x20;
 3. or from other Microbes Governors
 
-The Governors are the most decentralised portion of the DSW DAO, and are the most powerful overseers of governance. The Governors will vote on key decisions such as CORE Team elections, large treasury unlocks, major strategy proposals and Executive or CORE Disputes.
+The Governors will vote on key decisions such as CORE Team elections, large treasury unlocks, major strategy proposals and Executive or CORE Disputes.&#x20;
+
+At any time, an Executive or CORE member may raise a Dispute that is arbitrated by Governors.
 {% endtab %}
 
 {% tab title="CORE Pod" %}
@@ -64,6 +74,31 @@ The Product Pod's responsibilities are:
 
 Each Product Pod will contract the services of the Executive Pods for its materials and resources, facilitated by the Product Lead. Leads are elected by CORE, and will manage their own product team and their own targets. The Product team is given a fixed budget but may propose more when needed. Hiring for the Product Pod should occur internally, with Executive Pod members been "loaned out" to Product Pods for a temporary period.
 {% endtab %}
+
+{% tab title="Dispute Court" %}
+The Dispute Court is the "fail-safe" option to prevent internal capture and arbitrate disputes.
+
+At any time, Executive Pod members or CORE Team may propose a Dispute to the Court. The Dispute will begin with a private, internal forum in which CORE and Executive Leads may discuss the issue to reach a solution before it goes to governance. If unanimous agreement cannot be reached, then the dispute is escalated to Microbes Governors.
+{% endtab %}
 {% endtabs %}
 
+
+
 <figure><img src="../.gitbook/assets/OrgStructure2.drawio (1).png" alt=""><figcaption></figcaption></figure>
+
+## Rationale
+
+DeSciWorld is an ambitious ecosystem with plans to continue rolling out exceptional user-facing products for years to come. As such, there are many movings pieces that require some level of centralised authority to keep within an acceptable efficiency bracket.&#x20;
+
+However, for many reasons, we are committed to decentralisation and therefore must develop the structures to uphold that accountability to the public.
+
+Vitalik's prescient identification of this conflict between efficiency and decentralisation in DAOs can be seen below:
+
+> "One natural question that one might ask is: **isn't this kind of "DAO" just rebranding the traditional concept of multi-layer hierarchy?"**
+
+> Two things that can help ensure that an organization built this way will actually turn out to be meaningfully decentralized include:
+>
+> 1. A truly **high level of autonomy for pods**, where the pods accept resources from the core and are occasionally checked for alignment and competence if they want to keep getting those resources, but otherwise act entirely on their own and don't "take orders" from the core.
+> 2. **Highly decentralized and diverse core governance**. Normally, broad and diverse participation is a large tax on efficiency. But if (1) is satisfied, so pods are highly autonomous and the core needs to make fewer decisions, the effects of top-level governance being less efficient become smaller.
+
+This second point here, "diverse core governance", is something that cannot be snuffed at. We are excited to bring broad, distributed governance from Microbes Governors, diverse leadership from CORE team, and limited centralisation for focused ecosystem development.
