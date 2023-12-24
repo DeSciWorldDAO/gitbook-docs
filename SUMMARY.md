@@ -39,6 +39,7 @@
 
 * [Role and Responsibilities](dsw-dao/role-and-responsibilities.md)
 * [DAO Structure](dsw-dao/dao-structure.md)
+* [Voting Protocol](dsw-dao/voting-protocol.md)
 * [Microbes NFT](dsw-dao/governing-dsw-dao/README.md)
   * [How to mint?](dsw-dao/governing-dsw-dao/how-to-mint.md)
   * [“Early Adopter” rights](dsw-dao/governing-dsw-dao/early-adopter-rights.md)
