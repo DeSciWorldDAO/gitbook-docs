@@ -17,7 +17,7 @@ coverY: 0
 
 * 444 🧫 Bacteria
 * 333 🍄 Funghi
-* 222 🦠 Bacteria
+* 222 🦠 Virus
 
 Alongside these three principle categories, there are also a number of traits that provide additional rarity distinctions for your NFT, such as:
 

@@ -32,9 +32,9 @@ Responsibilities
 
 ### DSW DAO and [science.tech](http://science.tech)
 
-The primary function of science.tech is to provide permissionless access to on-chain tooling. Through the Research Collectives, descientists have an open-governance mechanism for their research goals. Each Collective is self-governing unit, seperated from the control of DSW DAO through its unique governance token. You can consider science.tech an incubated platform by the DSW DAO.&#x20;
+The primary function of science.tech is to provide permissionless access to on-chain tooling. Through the Research Collectives, descientists have an open-governance mechanism for their research goals. Each Collective is a self-governing unit, seperated from the control of DSW DAO through its unique governance token. The Collectives provide a seperation of authority from DSWDAO, giving autonomy over finances and operations to each Collective.
 
-DSWDAO is tasked with developing and deploying the science.tech smart contracts. It will continuously deploy new products, updates and fixes. It will maintain the infrastructure necessary to serve thousands of researchers. The Research Collectives provide a seperation of authority from DSWDAO, giving autonomy over finances and operations to each Collective.
+DSWDAO is tasked with developing and deploying the science.tech smart contracts. It will continuously deploy new products, updates and fixes. It will maintain the infrastructure necessary to serve thousands of researchers. You can consider science.tech an incubated platform by the DSW DAO.&#x20;
 
 The $DSCI token emissions that are primarily used to incentivise science.tech participation are initially deployed by DSW DAO.
 
@@ -51,9 +51,9 @@ Both the TGE and the Emissions Schedule will be organised and executed by the DS
 
 ### DSW DAO and [desci.world](../ecosystem/terminal/)
 
-desci.world is considered a curated platform; it is DSW DAO's role to assume curator.
+desci.world is considered a curated platform; DSW DAO assumes role of curator.
 
-The DAO is tasked with maintaining the dataroom, adding new features and engaging with listings and sponsors. It will continuously aggregate information and news for the public good of proliferating DeSci. Working together with listed projects to provide the most optimal experience for both user and project teams.
+The DAO is tasked with maintaining the dataroom, adding new features and engaging with listings and sponsors. It will continuously aggregate information and news for the public good of proliferating DeSci; working together with listed projects to provide the most optimal experience for both user and project teams.
 
 Further, Spotlight and NFT listings are not permissionless; application and selection require discussions with DAO members to initiate.&#x20;
 

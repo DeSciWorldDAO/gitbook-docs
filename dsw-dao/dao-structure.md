@@ -34,7 +34,7 @@ CORE is responsible for the major strategic decisions of DeSciWorld. It will det
 
 CORE will:&#x20;
 
-* elect and oversee Executive Pod Leaders
+* elect and oversee Executive and Product Pod Leads
 * vote on budget proposals for Executive Pods
 * maintain an effective internal communications framework
 * handle internal disputes between Executive and Product Pods
