@@ -3,7 +3,11 @@ cover: ../../.gitbook/assets/1500x500.jpg
 coverY: 0
 ---
 
-# How to mint?
+# How to mint
+
+{% hint style="warning" %}
+ALWAYS take extreme care when interacting with Web3 protocols. If you are inexperienced, please ask for assistance; the blockchain can be unforgiving if you are learning.&#x20;
+{% endhint %}
 
 * Minting Site: [https://desci.world/nft/](https://desci.world/nft/)
 * Limit per wallet: 4 mints per wallet
@@ -24,7 +28,7 @@ DeSciWorld is a decentralized application (Dapp) running on top of the Ethereum 
 
 #### Using your Web3 wallet <a href="#using-your-web3-wallet" id="using-your-web3-wallet"></a>
 
-1. Head to [https://desci.world/nft/](https://desci.world/nft/)
+1. Head to [https://desci.world/nft/desciworldmicrobes](https://desci.world/nft/desciworldmicrobes)
 2. Connect your wallet to the DeSciWorld website.
 3. Ensure your wallet is connected to Ethereum Mainnet and is funded with sufficient ETH.
 4. Choose the desired amount of NFTs to mint.

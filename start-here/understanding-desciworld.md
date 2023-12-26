@@ -29,7 +29,7 @@ One can find many charters and definitions of open science online. Institutions 
 
 The Open Science movement tilled the fertile minds of academia and planted the seeds of change within. However, the blossoming renaissance of equitable access and unfiltered innovation never quite arrived. It seemed that the promise of openness was not to pass.&#x20;
 
-One core blocker to reaching that promised land was the state of the technology. Previously, distributed systems had little functionality and were costly to operate. Communication system, funding, access to resources and machinery ++ have been limited by the technology available. With the advent of blockchain however, the opportunity for truly open science is reinvigorated. &#x20;
+One core blocker to reaching that promised land was the state of the technology. Previously, distributed systems had little functionality and were costly to operate. Communication systems, funding, access to resources and machinery ++ have been limited by the technology available. With the advent of blockchain however, the opportunity for truly open science is reinvigorated. &#x20;
 
 2. &#x20;**On-chain science: DeSci**
 
@@ -43,18 +43,18 @@ This model not only ensures the democratization of knowledge but also reinforces
 
 The diagram below illustrates the trajectory of the internet's history from Web1 to Web3 (+decentralisded AI) and the effect this has on the collective intelligence and its ability to connect to others within the network. Web3 will not be explained in these documents but the principles that underpin it are essential to understanding DeSci.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Attribute to researcher presenting the model (and re-design)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Attribute to researcher presenting the model (and re-design)</p></figcaption></figure>
 
 3. **The DeScientist**
 
-The DeSci pracitioner looks in many ways identical to the traditional academician, yet simultaneously unrecognisable. In both fields, the drives that urge a scientist are varied: pursuit of truth, money, happiness or fame. The upbringing or tutorage they receive; the opportunities afforded to them are likewise not uniform to their peers.
+The DeSci pracitioner looks in many ways identical to the traditional academician, yet simultaneously unrecognisable. In both fields, what drives an indiviudal scientist is unique. The pursuit of truth, money, happiness or prestige, the upbringing or tutorage they receive; the opportunities afforded to them - all vary wildly between peers and fields.
 
 The core differentiator between a traditional scientist and a DeScientist is the infrastructure available to them. DeSci utilises the decentralised tools capable of standardising, interoperating, distributing, trustlessly verifying and securing the objects of science. It provides a new framework for a scientist to conduct their research, publish the findings, receive incentives and feedback for their work.
 
 The DeScientist can be anyone around the world, and they need not be associated with a particular university or research group. They might be:
 
-* providing groundbreaking research from their shed on a farm, connected via mobile hotspot to the Web3 servers;&#x20;
-* a woman publishing in a country that decries that value of the fairer gender's mind;
+* providing groundbreaking research from a shed on their farm, connected via mobile hotspot to Web3 servers;&#x20;
+* a woman publishing in a country that decries the value of the fairer gender's mind;
 * a dissident challenging the status quo anonymously in order to protect their family, yet save millions of lives from illicit pharmaceuticals;
 * committed to countering harmful misinformation by providing factual and verifiable counterarguments;
 * a scientist that cannot obtain funding for the science they truly care about;
@@ -75,7 +75,7 @@ To succeed in this mission we leverage three core pillars:
     An experimental protocol that allows anyone, anywhere to attest to knowledge through an on-chain mechanism. This creates an immutable statement that a certain user (wallet address) published an idea. Others can view this idea, dispute, utilise or expand upon it while maintaining the integrity of the original claim. Thus, creating a chain of provenance that facilitiates open sharing of information while retaining the incentive distribution among all contributors.
 2.  **Humanity at the Core**
 
-    We believe that science should maintain its connection to this earthly realm by considering the humans in the loop at all times. Technology will never cease to innovate, thus it is our responsibility as the current wielders of said tech to ensure we can continue our stewardship of the chips. DeSciWorld maintain the position of keeping humanity's best interest at the centre of all plans for innovation.
+    We believe that science should maintain its connection to this earthly realm by considering the humans in the loop at all times. Technology will never cease to innovate, thus it is our responsibility as the current wielders of the tech to ensure we can continue our stewardship of the chips. DeSciWorld maintains the position of keeping humanity's best interest at the centre of all plans for innovation.
 3.  **Community Empowerment**
 
     The decentralised science movement requires decentralised participation by definition. Through the desci.world platform and the World of DeSci conference circuit, we aim to keep everyone informed and engaged with minimal barriers to entry. The global science community is often handicapped by the loci of power in universities and business districts. With DeSci, participation can be achieved from anywhere.&#x20;

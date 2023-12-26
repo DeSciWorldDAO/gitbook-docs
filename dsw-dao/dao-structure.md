@@ -1,8 +1,8 @@
 # DAO Structure
 
-DSW DAO organisational structure pulls inspiration from Haier's [RenDanHeYi](https://chozan.co/blog/digital-transformation-lessons-haiers-rendanheyi/) ([人单合一](https://www.haier.com/rdhy/2021/news/20210922\_171236.shtml)) model and Vitalik Buterin's [Convex and Concave](https://vitalik.eth.limo/general/2022/09/20/daos.html) decision making model, to create a structure that simultaneously promotes flexibility, efficiency and decentralisation.
+DSW DAO's organisational structure pulls inspiration from Haier's [RenDanHeYi](https://chozan.co/blog/digital-transformation-lessons-haiers-rendanheyi/) ([人单合一](https://www.haier.com/rdhy/2021/news/20210922\_171236.shtml)) model and Vitalik Buterin's [Convex and Concave](https://vitalik.eth.limo/general/2022/09/20/daos.html) decision making model, to create a structure that simultaneously promotes flexibility, efficiency and decentralisation.
 
-View information about the 4 core units of the DSW DAO:
+View information about the core units of the DSW DAO below:
 
 {% tabs %}
 {% tab title="Overview" %}
@@ -20,7 +20,7 @@ Governors may vote on proposals submitted from only three sources:
 
 1. the CORE team&#x20;
 2. the Dispute Court&#x20;
-3. or from other Microbes Governors
+3. from other Microbes Governors
 
 The Governors will vote on key decisions such as CORE Team elections, large treasury unlocks, major strategy proposals and Executive or CORE Disputes.&#x20;
 
@@ -34,7 +34,7 @@ CORE is responsible for the major strategic decisions of DeSciWorld. It will det
 
 CORE will:&#x20;
 
-* elect Executive Pod Leaders
+* elect and oversee Executive Pod Leaders
 * vote on budget proposals for Executive Pods
 * maintain an effective internal communications framework
 * handle internal disputes between Executive and Product Pods
@@ -45,11 +45,11 @@ CORE will:&#x20;
 {% tab title="Executive Pods" %}
 Executive Pods have domain-specific responsibilites and will house the bulk of the DSW DAO contributors.&#x20;
 
-They are largely autonomous, and choose targets, their management structure and their service users. Pods will regularly communicate with the other Executive Pods and CORE to synchronise and synergise.
+They are largely autonomous: they choose their targets, their management structure and their service users. Pods will regularly communicate with the other Executive Pods and CORE to synchronise and synergise.
 
 Exective Pod Leads (elected by CORE) will organise their team and propose a monthly operating budget to CORE. They set their own KPIs and targets as a part of the budget proposal.
 
-The core function of the Executive Pod is to provide an expert service to other Pods within the DSW DAO. They may also contract with outside organisations if there is spare capacity that the DSW DAO Pods do not need to fill.
+The core function of the Executive Pod is to provide an expert service to other Pods within the DSW DAO. They may also contract with outside organisations if there is spare capacity that the DSW DAO Pods do not fill.
 
 {% hint style="info" %}
 **Example**: _Design & Marketing Executive Pod_
@@ -78,17 +78,17 @@ Each Product Pod will contract the services of the Executive Pods for its materi
 {% tab title="Dispute Court" %}
 The Dispute Court is the "fail-safe" option to prevent internal capture and arbitrate disputes.
 
-At any time, Executive Pod members or CORE Team may propose a Dispute to the Court. The Dispute will begin with a private, internal forum in which CORE and Executive Leads may discuss the issue to reach a solution before it goes to governance. If unanimous agreement cannot be reached, then the dispute is escalated to Microbes Governors.
+At any time, Executive Pod members or CORE Team may propose a Dispute to the Court. The Dispute will begin with a private, internal forum in which CORE and Executive Leads may discuss the issue to reach a solution before it goes to governance.&#x20;
+
+If unanimous agreement cannot be reached, then the dispute is escalated to Microbes Governors vote.
 {% endtab %}
 {% endtabs %}
-
-
 
 <figure><img src="../.gitbook/assets/OrgStructure2.drawio (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Rationale
 
-DeSciWorld is an ambitious ecosystem with plans to continue rolling out exceptional user-facing products for years to come. As such, there are many movings pieces that require some level of centralised authority to keep within an acceptable efficiency bracket.&#x20;
+DeSciWorld is an ambitious ecosystem with plans to continuously ship exceptional user-facing products for years to come. As such, there are many movings pieces that require some level of centralised authority to keep within an acceptable efficiency bracket.&#x20;
 
 However, for many reasons, we are committed to decentralisation and therefore must develop the structures to uphold that accountability to the public.
 
@@ -101,4 +101,4 @@ Vitalik's prescient identification of this conflict between efficiency and decen
 > 1. A truly **high level of autonomy for pods**, where the pods accept resources from the core and are occasionally checked for alignment and competence if they want to keep getting those resources, but otherwise act entirely on their own and don't "take orders" from the core.
 > 2. **Highly decentralized and diverse core governance**. Normally, broad and diverse participation is a large tax on efficiency. But if (1) is satisfied, so pods are highly autonomous and the core needs to make fewer decisions, the effects of top-level governance being less efficient become smaller.
 
-This second point here, "diverse core governance", is something that cannot be snuffed at. We are excited to bring broad, distributed governance from Microbes Governors, diverse leadership from CORE team, and limited centralisation for focused ecosystem development.
+This second point here, "diverse core governance", is something that cannot be snuffed at. We are excited to bring broad, distributed governance from Microbes Governors, diverse leadership from CORE team, and limited centralisation for focused ecosystem development through the Pods.

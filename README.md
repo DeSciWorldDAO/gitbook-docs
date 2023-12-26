@@ -31,7 +31,7 @@ DeSciWorld is an organisation; an ecosystem. It consists of [technical products]
 * faciliating outreach and b2b networking to improve collaboration in the space
 * a dynamic terminal for individuals to learn and engage with up-to-date information including events, job listings, visualisation tools and news
 
-\[read more]
+[\[read more\]](ecosystem/terminal/)
 
 </details>
 
@@ -45,7 +45,7 @@ DeSciWorld is an organisation; an ecosystem. It consists of [technical products]
 * LLMs (RAG) can utilise kE as embeddings and query them, producing hyperlinked responses.&#x20;
 * this act of querying can be tracked, providing a set of usage metrics for the knowledge
 
-\[read more]
+[\[read more\]](start-here/proof-of-knowledge-pok/)
 
 </details>
 
@@ -61,7 +61,7 @@ DeSciWorld is an organisation; an ecosystem. It consists of [technical products]
 * deploy on-chain P2P funding or research requests
 * create a Synapse private token-gated chatroom for sharing your research
 
-\[read more]
+[\[read more\]](ecosystem/science.tech/)
 
 </details>
 
@@ -73,7 +73,7 @@ DeSciWorld is an organisation; an ecosystem. It consists of [technical products]
 * bring together founders and thought leaders from DeSci to showcase its potential to local research communities
 * give early stage projects a helping hand with navigating the "networking space", getting connections to the right people early on
 
-\[read more]
+[\[read more\]](ecosystem/world-of-desci/)
 
 </details>
 
@@ -87,7 +87,7 @@ DeSciWorld is an organisation; an ecosystem. It consists of [technical products]
 
 \[not yet active]
 
-\[read more]
+[\[read more\]](broken-reference)
 
 </details>
 
@@ -103,7 +103,9 @@ Through the Proof of Knowledge protocol, <mark style="color:green;">create a kno
 
 ## Guiding Values
 
-We can be considered as agnostic ecosystem facilitators for DeSci projects. By committing to a future with equality of opportunity and access, we hope to deliver genuine moments of happiness and wonder in the DeSci ecosystem.
+We can be considered as agnostic ecosystem facilitators for DeSci projects. Committed to a future with equality of opportunity and access, globally, we hope to deliver genuine moments of happiness and wonder to the DeSci ecosystem.
+
+***
 
 ## Why are we here?
 
@@ -113,11 +115,9 @@ In a time of converging technologies, handing the right to determination of the 
 
 We must create the tools that decentralise and distribute the power that is afforded to technology, before that power is absolute. Guided by the mission to unite and empower the decentralized research community, DeSciWorld’s commitment is to facilitate a scientific renaissance in an authentic, transparent, and resilient manner.&#x20;
 
-There is no way DeSci will work in the long run if we do not integrate effectively and positive with traditional research or academia
-
 ## Our Evolutionary Timeline \[This has been included in section 3]
 
-Started in September 2021, DeSciWorld began as an idea to bring research funding onchain through Peer-to-Peer (P2P) infrastructure. Originally named "DeSciDAO", it incorporated many of the ideas learned by founder Joshua during his time working in DeFi. The core product design was to connect researchers and funders permissionlessly, even anonymously, to facilitate science that might disagree with official narratives during the COVID pandemic. However, it soon became clear that:
+Started in September 2021, DeSciWorld began as an idea to bring research funding onchain through Peer-to-Peer (P2P) infrastructure. Originally named "DeSciDAO", it incorporated many of the ideas learned by founder Joshua during his time working in DeFi. The core product design was to connect researchers and funders permissionlessly, even anonymously, to facilitate science that might disagree with official narratives. However, it soon became clear that:
 
 &#x20;   a) the DeSci ecosystem was not large or influential enough to facilitate meaningful capital inflows for research,
 
@@ -125,14 +125,6 @@ Started in September 2021, DeSciWorld began as an idea to bring research funding
 
 As such, DeSciDAO pivoted to become DeSciWorld.&#x20;
 
-The objective shifted from creating a P2P funding platform to something much larger and more ambitious in scope; to become the global hub of DeSci, to use our platform to improve participation in this ecosystem, to provide outreach and web3 mechanism design assistance to other projects and generally to become a cultural vehicle for change within academia.
-
-
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:blue;"><strong>Understanding DeSciWorld</strong></mark></td><td>Resources and the story of DeSciWorld</td><td></td><td></td></tr><tr><td><mark style="color:blue;"><strong>desci.world</strong></mark></td><td>Information aggregation, education and onboarding</td><td></td><td><a href="ecosystem/terminal/">terminal</a></td></tr><tr><td><mark style="color:blue;"><strong>science.tech</strong></mark></td><td>Our premier technical platform</td><td></td><td><a href="ecosystem/science.tech/">science.tech</a></td></tr><tr><td><mark style="color:blue;"><strong>DSWDAO</strong></mark></td><td>The onchain entity behind DeSciWorld</td><td></td><td></td></tr><tr><td><mark style="color:blue;"><strong>World of DeSci</strong></mark></td><td>Our global conference circuit</td><td></td><td></td></tr><tr><td><mark style="color:blue;"><strong>Get Started</strong></mark></td><td>Resources and advice for various participants</td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
-
-{% hint style="info" %}
-New here? We recommend reading the "Welcome" section on the left toolbar
-{% endhint %}
+The objective shifted from creating a P2P funding platform to something much larger and more ambitious in scope: to become the global hub of DeSci, to use our platform to improve participation in this ecosystem, to provide outreach and web3 mechanism design assistance to other projects and generally to become a cultural vehicle for change within academia.
 
 Together, these initiatives present an innovative platform to reshape the landscape of scientific research and how it is funded.&#x20;

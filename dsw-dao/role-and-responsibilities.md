@@ -26,6 +26,8 @@ Responsibilities
 4. Maintain accountability in leadership, both internally to the DAO and in DeSci proper
 5. Act as the issuing authority of $DSCI emissions contracts
 
+***
+
 ## The relationship between:&#x20;
 
 ### DSW DAO and [science.tech](http://science.tech)
@@ -38,7 +40,7 @@ The $DSCI token emissions that are primarily used to incentivise science.tech pa
 
 Understanding the DSW DAO as a facilitator of DeSci makes for a better appreciation of the DAO's purpose; the goals of DSW DAO align with proliferating access to decentralised tools through science.tech.&#x20;
 
-### DSW DAO and [$DSCI](../start-here/understanding-desciworld-1.md)
+### DSW DAO and [$DSCI](../ecosystem/usddsci-or-usdknow-token.md)
 
 The $DSCI token is deployed via two methods:
 

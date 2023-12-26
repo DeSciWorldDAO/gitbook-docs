@@ -6,12 +6,12 @@
 * [Understanding DeSci](start-here/understanding-desciworld.md)
 * [Proof of Knowledge (PoK)](start-here/proof-of-knowledge-pok/README.md)
   * [kEngrams](start-here/proof-of-knowledge-pok/kengrams.md)
-  * [Composable knowledge creation](start-here/proof-of-knowledge-pok/composable-knowledge-creation.md)
-  * [Knowledge Validation & Value Attribution](start-here/proof-of-knowledge-pok/knowledge-validation-and-value-attribution.md)
+  * [Composable Knowledge](start-here/proof-of-knowledge-pok/composable-knowledge.md)
+  * [Validation & Value Attribution](start-here/proof-of-knowledge-pok/validation-and-value-attribution.md)
   * [Search System: The Brain](start-here/proof-of-knowledge-pok/search-system-the-brain.md)
   * [Engram Life-cycle](start-here/proof-of-knowledge-pok/engram-life-cycle.md)
   * [Optimistic governance of PoK](start-here/proof-of-knowledge-pok/optimistic-governance-of-pok.md)
-* [$DSCI or $KNOW Token](start-here/understanding-desciworld-1.md)
+* [Trifecta of Effective Integration](start-here/trifecta-of-effective-integration.md)
 
 ## 🌟 Ecosystem
 
@@ -34,6 +34,7 @@
   * [Application Process](ecosystem/world-of-desci/application-process.md)
 * [Yggdrasil](ecosystem/the-brain/README.md)
   * [How to use the brain](ecosystem/the-brain/how-to-use-the-brain.md)
+* [$DSCI or $KNOW Token](ecosystem/usddsci-or-usdknow-token.md)
 
 ## 🏛 DSW DAO
 
@@ -41,8 +42,8 @@
 * [DAO Structure](dsw-dao/dao-structure.md)
 * [Voting Protocol](dsw-dao/voting-protocol.md)
 * [Microbes NFT](dsw-dao/governing-dsw-dao/README.md)
-  * [How to mint?](dsw-dao/governing-dsw-dao/how-to-mint.md)
-  * [“Early Adopter” rights](dsw-dao/governing-dsw-dao/early-adopter-rights.md)
+  * [How to mint](dsw-dao/governing-dsw-dao/how-to-mint.md)
+  * [“Early Adopters”](dsw-dao/governing-dsw-dao/early-adopter-rights.md)
 
 ## 🏗 Get involved
 

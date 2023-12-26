@@ -1,19 +1,12 @@
 ---
-description: >-
-  kEngrams as a Unit of Knowledge Definition PoK mechanism rewards individuals
-  for their contributions of knowledge via a blockchain-based platform, allowing
-  for seamless recognition, validation, and de
+description: kEngrams are a composable, on-chain unit of knowledge
 ---
 
 # kEngrams
 
-The Proof of Knowledge (PoK) protocol is built around the attestation of kEngrams (kE). kEngrams are designed as a blockchain-based primitive aimed to incentivize and reward knowledge contributions within a decentralized architecture. They serve as the core building block of a globally coherent knowledge graph which can be the primary means of value creation of a knowledge-based economy, paving the way for fair recognition and incentivization of intellectual contributions, while maintaining transparency and accessibility.
-
-<figure><img src="../../.gitbook/assets/CleanShot 2023-12-17 at 21.20.38@2x.png" alt=""><figcaption></figcaption></figure>
-
 ### **Introduction to kEngrams as a Unit of Knowledge**&#x20;
 
-An engram is a unit of cognitive information imprinted in a physical substance, theorized to be the means by which memories are stored as biophysical or biochemical changes in the brain or other biological tissue, in response to external stimuli.&#x20;
+> An engram is a unit of cognitive information imprinted in a physical substance, theorized to be the means by which memories are stored as biophysical or biochemical changes in the brain or other biological tissue, in response to external stimuli.&#x20;
 
 kEngrams can be defined as a structured unit or node of knowledge within a Knowledge Graph. It's a piece of information that is interconnected within a broader landscape of data, contributing to the broader understanding of a concept or topic.&#x20;
 
@@ -28,3 +21,9 @@ An Engram consists of several integral components that collectively contribute t
 5. Relationships: These are connections that a kEngram has among its underlying data. These relationships can be thought of as edges in the graph, defining how pieces of information are interconnected, and enabling the creation of a comprehensive, multi-dimensional structure of knowledge.
 
 <figure><img src="../../.gitbook/assets/CleanShot 2023-12-17 at 21.22.49@2x.png" alt=""><figcaption></figcaption></figure>
+
+### Creating&#x20;
+
+When a kEngram is first created, it is recorded via an attestation for the research question. The creator of the kEngram is also noted through EAS, attesting that they were the original contributor of that knowledge piece.&#x20;
+
+As value is added to this kEngram—be it through more data, insights, revisions, or connections—each change is also captured through an attestation, creating a trail of evolution and accumulation of intellectual input. Other users can contribute to the research by referencing their research questions to any part of the original kEngram. By chaining these units of knowledge we can create a survival of the fittest situation where knowledge units that are highly relevant will be used regularly and acquire mulitple layers of proofs for its context.&#x20;
