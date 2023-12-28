@@ -4,11 +4,13 @@ description: kEngrams are a composable, on-chain unit of knowledge
 
 # kEngrams
 
-### **Introduction to kEngrams as a Unit of Knowledge**&#x20;
+### **What is a kEngram?**
+
+kEngrams are modelled after the theoretical stucture of our brains, the engram:
 
 > An engram is a unit of cognitive information imprinted in a physical substance, theorized to be the means by which memories are stored as biophysical or biochemical changes in the brain or other biological tissue, in response to external stimuli.&#x20;
 
-kEngrams can be defined as a structured unit or node of knowledge within a Knowledge Graph. It's a piece of information that is interconnected within a broader landscape of data, contributing to the broader understanding of a concept or topic.&#x20;
+kEngrams can be defined as a **structured unit or node of knowledge** within a Knowledge Graph. It's a piece of information that is interconnected within a broader landscape of data, contributing to the broader understanding of a concept or topic.&#x20;
 
 ### Components of a kEngram&#x20;
 
@@ -27,3 +29,11 @@ A kEngram consists of several integral components that collectively contribute t
 When a kEngram is first created, it is recorded via an attestation for the research question. The creator of the kEngram is also noted through EAS, attesting that they were the original contributor of that knowledge piece.&#x20;
 
 As value is added to this kEngram—be it through more data, insights, revisions, or connections—each change is also captured through an attestation, creating a trail of evolution and accumulation of intellectual input. Other users can contribute to the research by referencing their research questions to any part of the original kEngram. By chaining these units of knowledge we can create a survival of the fittest situation where knowledge units that are highly relevant will be used regularly and acquire mulitple layers of proofs for its context.&#x20;
+
+## Incentive Framework
+
+The Ethereum Attestation Service lays the groundwork for our incentive mechanism. Each attestation becomes part of the computation determining value attribution and reward distribution.
+
+> EAS ensures a transparent and fair system where contributors of Engrams are rewarded based on actual utility and demand in the ecosystem. You can see more about this here: [https://attest.sh/](https://attest.sh/)
+
+The use of EAS within the PoK protocol forms a trustworthy and secure system for validating knowledge contributions and rewarding contributors. It answers the call for a distributed, transparent, and reliable method to authenticate, validate, and incentivize meaningful engagements in a decentralized knowledge ecosystem.
