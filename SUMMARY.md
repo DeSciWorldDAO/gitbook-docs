@@ -7,6 +7,7 @@
 * [Proof of Knowledge (PoK)](start-here/proof-of-knowledge-pok/README.md)
   * [kEngrams](start-here/proof-of-knowledge-pok/kengrams.md)
   * [Composable Knowledge](start-here/proof-of-knowledge-pok/composable-knowledge.md)
+  * [Optimising for Coherence](start-here/proof-of-knowledge-pok/optimising-for-coherence.md)
   * [Validation & Value Attribution](start-here/proof-of-knowledge-pok/validation-and-value-attribution.md)
   * [Search System: The Brain](start-here/proof-of-knowledge-pok/search-system-the-brain.md)
   * [Engram Life-cycle](start-here/proof-of-knowledge-pok/engram-life-cycle.md)

@@ -1,6 +1,6 @@
 # Trifecta of Effective Integration
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 In a bid to achieve the truly distributed scientific community that Decentralised Science dreams of, we must bring the tools to the people who need them.
 

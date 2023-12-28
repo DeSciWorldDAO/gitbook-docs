@@ -10,15 +10,15 @@ description: kEngrams are a composable, on-chain unit of knowledge
 
 kEngrams can be defined as a structured unit or node of knowledge within a Knowledge Graph. It's a piece of information that is interconnected within a broader landscape of data, contributing to the broader understanding of a concept or topic.&#x20;
 
-### Components of an Engram&#x20;
+### Components of a kEngram&#x20;
 
-An Engram consists of several integral components that collectively contribute to its formation and execution:
+A kEngram consists of several integral components that collectively contribute to its formation and execution:
 
-1. Research Question: This encompasses the essential content of the query. and can exist without a reference to other notes.
-2. Research Data: This is the base content of the Engram, formulated into a set of markdown notes that contains the information added in order to explore the study question. Research data must point to the research question or another Data Node
-3. Metadata: The Metadata provides critical information about the ownership of the engram and its historic record of usage by the DSW PoK protocol. It lends context and understanding about the contained knowledge, bolstering its relevance within the Knowledge Graph.
-4. Unique Identifier: Every Engram has a unique ID associated with it, allowing for its distinct recognition, tracking, and management within the overall Knowledge Graph system.
-5. Relationships: These are connections that a kEngram has among its underlying data. These relationships can be thought of as edges in the graph, defining how pieces of information are interconnected, and enabling the creation of a comprehensive, multi-dimensional structure of knowledge.
+1. **Research Question**: This encompasses the essential content of the query. and can exist without a reference to other notes.
+2. **Research Data**: This is the base content of the kEngram, formulated into a set of markdown notes that contains the information added in order to explore the study question. Research data must point to the research question or another Data Node
+3. **Metadata**: The Metadata provides critical information about the ownership of the engram and its historic record of usage by the DSW PoK protocol. It lends context and understanding about the contained knowledge, bolstering its relevance within the Knowledge Graph.
+4. **Unique Identifier**: Every Engram has a unique ID associated with it, allowing for its distinct recognition, tracking, and management within the overall Knowledge Graph system.
+5. **Relationships**: These are connections that a kEngram has among its underlying data. These relationships can be thought of as edges in the graph, defining how pieces of information are interconnected, and enabling the creation of a comprehensive, multi-dimensional structure of knowledge.
 
 <figure><img src="../../.gitbook/assets/CleanShot 2023-12-17 at 21.22.49@2x.png" alt=""><figcaption></figcaption></figure>
 
