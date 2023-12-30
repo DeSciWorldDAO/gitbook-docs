@@ -60,7 +60,8 @@ The installation process for Obsidian is straightforward:
 In Obsidian, a 'Vault' is like a workspace. It’s essentially a folder on your computer where your notes will be stored. Here's how to set one up:
 
 1. After launching Obsidian, you’ll be prompted to open your vault. If you’re a first-time user, select "Create a new vault."
-	1. The [[Engram_Starter_Kit.zip]] (once extracted) can be selected as a vault containing all required plugins and templates
+	1. The [kEngram_starter_kit.zip](https://github.com/DeSciWorldDAO/gitbook-docs/files/13799400/kEngram_starter_kit.zip)
+ (once extracted) can be selected as a vault containing all required plugins and templates
 
 3. Next, give your new vault a name and choose its location on your computer.
 
@@ -88,7 +89,8 @@ Plugins are a great way to extend the functionality of Obsidian. Obsidian has a 
 2. Navigate to the 'Community plugins' under 'Plugin options'. 
 3. Click 'Browse'. 
 4. You will now see a list of community plugins that you can search through, install, and enable.
-	1. Engram-relevant plugin list (Included in [[Engram_Starter_Kit.zip]])
+	1. Engram-relevant plugin list (Included in [kEngram_starter_kit.zip](https://github.com/DeSciWorldDAO/gitbook-docs/files/13799402/kEngram_starter_kit.zip)
+)
 		1. Chat Stream:
 		2. Smart Connections:
 		3. Link Exploder
