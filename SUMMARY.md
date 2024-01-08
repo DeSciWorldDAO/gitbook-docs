@@ -13,6 +13,9 @@
   * [Engram Life-cycle](start-here/proof-of-knowledge-pok/engram-life-cycle.md)
   * [Optimistic governance of PoK](start-here/proof-of-knowledge-pok/optimistic-governance-of-pok.md)
 * [Trifecta of Effective Integration](start-here/trifecta-of-effective-integration.md)
+* [World of DeSci](start-here/world-of-desci/README.md)
+  * [Previous Events](start-here/world-of-desci/previous-events.md)
+  * [Application Process](start-here/world-of-desci/application-process.md)
 
 ## 🌟 Ecosystem
 
@@ -30,12 +33,8 @@
   * [Scaling DeSci to a global level](ecosystem/science.tech/scaling-desci-to-a-global-level.md)
   * [DeResearch Launchpad](ecosystem/science.tech/deresearch-launchpad/README.md)
     * [How to deploy ERC-721 and ERC-1155 open research](ecosystem/science.tech/deresearch-launchpad/how-to-deploy-erc-721-and-erc-1155-open-research.md)
-* [World of DeSci](ecosystem/world-of-desci/README.md)
-  * [Previous Events](ecosystem/world-of-desci/previous-events.md)
-  * [Application Process](ecosystem/world-of-desci/application-process.md)
 * [Yggdrasil](ecosystem/the-brain/README.md)
   * [How to use the brain](ecosystem/the-brain/how-to-use-the-brain.md)
-* [$DSCI or $KNOW or $DSW Token](ecosystem/usddsci-or-usdknow-token.md)
 
 ## 🏛 DSW DAO
 
@@ -45,6 +44,7 @@
 * [Microbes NFT](dsw-dao/governing-dsw-dao/README.md)
   * [How to mint](dsw-dao/governing-dsw-dao/how-to-mint.md)
   * [“Early Adopters”](dsw-dao/governing-dsw-dao/early-adopter-rights.md)
+* [$DSCI or $KNOW or $DSW Token](dsw-dao/usddsci-or-usdknow-token.md)
 
 ## 🏗 Get involved
 

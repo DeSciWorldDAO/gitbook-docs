@@ -40,7 +40,7 @@ The $DSCI token emissions that are primarily used to incentivise science.tech pa
 
 Understanding the DSW DAO as a facilitator of DeSci makes for a better appreciation of the DAO's purpose; the goals of DSW DAO align with proliferating access to decentralised tools through science.tech.&#x20;
 
-### DSW DAO and [$DSCI](../ecosystem/usddsci-or-usdknow-token.md)
+### DSW DAO and [$DSCI](usddsci-or-usdknow-token.md)
 
 The $DSCI token is deployed via two methods:
 
@@ -57,6 +57,6 @@ The DAO is tasked with maintaining the dataroom, adding new features and engagin
 
 Further, Spotlight and NFT listings are not permissionless; application and selection require discussions with DAO members to initiate.&#x20;
 
-### DSW DAO and [World of DeSci](../ecosystem/world-of-desci/)
+### DSW DAO and [World of DeSci](../start-here/world-of-desci/)
 
 The World of DeSci conference circuit requires a significant amount or coordinated effort and resources. The DSW DAO acts the primary facilitator and overseer of the process.

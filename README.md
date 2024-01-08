@@ -73,7 +73,7 @@ DeSciWorld is an organisation; an ecosystem. It consists of [technical products]
 * bring together founders and thought leaders from DeSci to showcase its potential to local research communities
 * give early stage projects a helping hand with navigating the "networking space", getting connections to the right people early on
 
-[\[read more\]](ecosystem/world-of-desci/)
+[\[read more\]](start-here/world-of-desci/)
 
 </details>
 
