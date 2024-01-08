@@ -1,8 +1,8 @@
 ---
 description: >-
-  DeSciWorld empowers researchers in niche or underserved areas, providing
-  essential tools and decentralized funding methods to propel early-stage
-  projects. This platform is a hub for sharing work and a
+  DeSciWorld empowers researchers by providing essential tools and decentralized
+  funding methods to propel early-stage projects. Funded Research Collectives is
+  a key output of this activity.
 ---
 
 # Research Collective
