@@ -1,17 +1,17 @@
+---
+description: >-
+  DeSciWorld empowers researchers in niche or underserved areas, providing
+  essential tools and decentralized funding methods to propel early-stage
+  projects. This platform is a hub for sharing work and a
+---
+
 # Research Collective
-
-
-
-* Introduction
-* Creation of a Research Collective
-* Creating Initial Research Engrams
-* Adding Research Engrams to the Collective
 
 ### Understanding Research Collectives: A new way to organize open research&#x20;
 
-Researchers focusing on niche or underserved areas may struggle to obtain support or resources for their early-stage work within traditional funding routes. DeSciWorld provides researchers with various tools to share their work and facilitate their research pursuits through decentralized funding methods.&#x20;
+Research Collectives represent a mechanism for the decentralized science community to organize around knowledge creation and to access funding.&#x20;
 
-Research Collectives represent a mechanism for the decentralized science community to organize around knowledge creation. With the DSW DAO providing a mechanism for funding through a set of tools that enable on-chain research.&#x20;
+A researcher focusing on niche or underserved areas may struggle to obtain resources for their early-stage work. DeSciWorld provides researchers with tools to share their work and facilitate their research pursuits through decentralized funding methods.&#x20;
 
 ### Research Collectives
 
