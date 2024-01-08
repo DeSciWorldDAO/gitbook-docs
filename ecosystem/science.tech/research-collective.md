@@ -1,8 +1,8 @@
 ---
 description: >-
   DeSciWorld empowers researchers by providing essential tools and decentralized
-  funding methods to propel early-stage projects. Funded Research Collectives is
-  a key output of this activity.
+  funding methods to propel early-stage projects. Funded Research Collectives
+  are a key output of this activity.
 ---
 
 # Research Collective
