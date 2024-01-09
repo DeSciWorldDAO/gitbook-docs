@@ -1,13 +1,13 @@
 ---
 description: >-
   Designed with the DeScientist in mind the DSW Terminal enables independent
-  scientists to build their profiles and connect with the DeSci ecosystem by:
+  scientists and research groups to build their profiles and connect with the DeSci ecosystem by:
 ---
 
 # Terminal
 
-1. Onboarding and connecting to DeSci to raise your profile&#x20;
-2. Showcase your protocol
+1. Onboarding and connecting to DeSci to raise their profile&#x20;
+2. Showcase their protocol
 3. Keep up to date with DeSci events&#x20;
 4. Access a gateway to open funding
 
