@@ -10,7 +10,7 @@ Students are the lifeblood of science. Young, passionate and often wonderfully o
 
 ### Academia <a href="#e8d3" id="e8d3"></a>
 
-Academic societies dictate the direction of the populations as their research and recommendations influence policy at all levels. Think tanks are the sages of old. It is essential that the DeSci community demonstrates to these powerful substrates that decentralisation and the redistributive potential that comes with it is the best method to cure the ills that we face today. In order to influence policy, we must enlighten policymakers.
+Academic societies guide the trajectory of populations, as their research and recommendations influence policy at all levels. The DeSci community must demonstrate to these influential substrates that decentralization, along with its inherent redistributive potential, is the most effective method for addressing the pain points that science faces today. To influence policy, policymakers must be enlightened.
 
 ### Industry <a href="#2e3c" id="2e3c"></a>
 
