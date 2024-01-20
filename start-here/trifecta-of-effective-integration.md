@@ -1,6 +1,6 @@
 # Trifecta of Effective Integration
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 In a bid to achieve the truly distributed scientific community that Decentralised Science dreams of, we must bring the tools to the people who need them.
 
@@ -12,8 +12,8 @@ Students are the lifeblood of science. Young, passionate and often wonderfully o
 
 Academic societies guide the trajectory of populations, as their research and recommendations influence policy at all levels. The DeSci community must demonstrate to these influential substrates that decentralization, along with its inherent redistributive potential, is the most effective method for addressing the pain points that science faces today. To influence policy, policymakers must be enlightened.
 
-### Industry <a href="#2e3c" id="2e3c"></a>
+### Industry <a href="#id-2e3c" id="id-2e3c"></a>
 
 Finally, the theoretical underpinning of students and academia wont achieve much without the practical applications of industry. The trend of the last century is for competent scientists to go where they receive the best compensation — Western scientific industry. Indian doctors go to Europe, African pharmacists go to Big Pharma, South American chemists do their research in the US. This has invariably left local research communities lacking in both talent and funding. A deadly cycle that can only be broken by brave individuals creating value in their own lands. DeSci can be a core toolset to empower local industry, who in turn can compete with the global scientific industry.
 
-\
+\\

@@ -9,9 +9,9 @@ description: >-
 
 Through blockchain technology, the platform ensures a heightened level of trust, transparency, and efficiency, catering to both researchers and publishers.
 
-### **Streamlined Access and Deployment for DeScientists**
+### **Access and Deployment to funding for DeScientists**
 
-* **Focus on Research**: DeScientists can conveniently fund and access Open Research projects, allowing them to channel their energy towards groundbreaking scientific endeavors.
+* **Letting DeScientists Focus on Research**: DeScientists can conveniently fund and access Open Research projects, allowing them to channel their energy towards groundbreaking scientific endeavors.
 * **Elevated Trust**: By verifying the authenticity and credibility of DeScientists, publishers and collaborators can have confidence in the capital utilization and quality of the research.
 * **Frictionless Experience**: The platform's design promotes ease of collaboration within the DeScience realm. With benefits such as decentralized ownership, easier accessibility, swift project kickoffs, enhanced collaboration methods, autonomy in decision-making, and a permissionless environment, DeScientists and Open Research Publishers are poised for boosted productivity and innovation.
 

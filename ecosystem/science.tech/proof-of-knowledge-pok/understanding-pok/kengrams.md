@@ -22,7 +22,7 @@ A kEngram consists of several integral components that collectively contribute t
 4. **Unique Identifier**: Every Engram has a unique ID associated with it, allowing for its distinct recognition, tracking, and management within the overall Knowledge Graph system.
 5. **Relationships**: These are connections that a kEngram has among its underlying data. These relationships can be thought of as edges in the graph, defining how pieces of information are interconnected, and enabling the creation of a comprehensive, multi-dimensional structure of knowledge.
 
-<figure><img src="../../.gitbook/assets/CleanShot 2023-12-17 at 21.22.49@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CleanShot 2023-12-17 at 21.22.49@2x.png" alt=""><figcaption></figcaption></figure>
 
 ### Creating&#x20;
 
