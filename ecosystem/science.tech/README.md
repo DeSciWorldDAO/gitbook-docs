@@ -6,7 +6,7 @@ description: >-
 
 # science.tech:
 
-Science.tech is a cutting-edge platform designed to revolutionize the research landscape by empowering open researchers with a secure environment for deploying and funding research initiatives. We know knowledge is power and science.tech's mission is to:&#x20;
+Science.tech is a cutting-edge platform designed to revolutionize the research landscape by empowering open researchers with a secure environment for deploying and funding research initiatives. We believe knowledge is power and science.tech's mission is to:&#x20;
 
 1. Optimize the experience for open researchers.
 2. Enable research teams to access funding opportunities
