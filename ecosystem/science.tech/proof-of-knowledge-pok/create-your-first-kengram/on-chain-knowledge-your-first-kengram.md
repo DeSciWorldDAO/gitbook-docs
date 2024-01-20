@@ -1,16 +1,16 @@
 ---
 description: >-
-  Creating an engram involves careful planning, robust research, and precise
+  Creating an kEngram involves careful planning, robust research, and precise
   execution.
 ---
 
-# Creating Your First kEngram
+# On-chain Knowledge: Your First kEngram
 
 Before you begin this section you need to have Obsidian open and have opened a new note, you do this by clicking the "New Note" button on the left sidebar.&#x20;
 
 **Defining the Research Question**
 
-The research question is what you wish to answer with this engram. Spend some time to phrase the question appropriately. Remember:
+The research question is what you wish to answer with this kEngram. Spend some time to phrase the question appropriately. Remember:
 
 1. Questions should be open-ended (avoid yes/no answers).
 2. It should steer towards requiring in-depth research.
@@ -39,9 +39,9 @@ Once the note is populated with your research concerning the question, it's time
 
 Now that you have your research question, research data, and tags, it's time to weave it together by creating relationships:
 
-1. Do this by linking relevant engrams or notes to your new engram.
+1. Do this by linking relevant kEngrams or notes to your new kEngram.
 2. In Obsidian, you can create links by typing "\[\[" followed by the name of the note you wish to link.
-3. Creating linkages allows for exploration of different research pathways from a single Research Question, adding a unique dimension to your engram.
+3. Creating linkages allows for exploration of different research pathways from a single Research Question, adding a unique dimension to your kEngram.
 
 Relationships can also be created via the "canvas" visual interface via the "Link Exploder" plugin
 
@@ -52,15 +52,15 @@ This will generate a visual canvas where you note will be displayed as a box. Ne
 
 It should be noted that the direction of the arrow informs the context and coherence of the relations across the different notes.
 
-**3.6 Saving and Reviewing Your Engram**
+**3.6 Saving and Reviewing Your kEngram**
 
 After you've completed these steps:
 
 1. Press `CTRL+S` or `Command+S` for Mac users to save your work.
 2. Review your note and make any necessary adjustments.
-3. Try navigating the links you've created and evaluating whether your engram seems complete.
+3. Try navigating the links you've created and evaluating whether your kEngram seems complete.
 
-That's it! You've created your very first engram! With practice and a deeper understanding of how engrams behave, you'll be on your way to creating more complex and detailed engrams. Remember, the goal of an engram is not simply to compile information but to build a meaningful and structured knowledge base around a question.
+That's it! You've created your very first kEngram! With practice and a deeper understanding of how engrams behave, you'll be on your way to creating more complex and detailed kEngrams. Remember, the goal of an kEngram is not simply to compile information but to build a meaningful and structured knowledge base around a question.
 
 ####
 
