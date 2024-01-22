@@ -6,9 +6,9 @@ description: >-
 
 # Understanding DeSci
 
-DeSci is a quickly evolving sector that is demonstrating how blockchain can transform open research. DeSciWorld is a uniquely positioned organization that believes with the right infrastructure DeSci can revolutionize research. To understand DeSciWorld you can consider four key areas:
+DeSci is a quickly evolving sector that is demonstrating how blockchain can leverage open science. DeSciWorld is a uniquely positioned organization that believes that with the right infrastructure, DeSci can revolutionize research. To understand DeSciWorld you can consider four key areas:
 
-1. What is Open Science?
+1. Open Science
 2. On-chain science
 3. The DeScientist
 4. Empowering the DeScientist with DeSciWorld
@@ -21,11 +21,9 @@ Please also find below a long-form podcast with founder Joshua, discussing DeSci
 
 1. **What is Open Science?**
 
-Before DeSci, there was OpSci or Open Science.&#x20;
+DeSci persues many of the same values that Open science upholds: decentralised and democratised access to resources and knowledge; more minds on the problem is superior; continuous and open evaluation of science is essential.&#x20;
 
-Open science upholds many of the same values that DeSci persues: decentralised and democratised access to resources and knowledge; more minds on the problem is superior; continuous and open evaluation of science is essential.&#x20;
-
-One can find many charters and definitions of open science online. Institutions such as [UNESCO](https://www.unesco.org/en/open-science/about), [The Biden Administration](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/) and the rather brilliant [UCL](https://www.ucl.ac.uk/library/open-science-research-support/open-science/8-pillars-open-science) each define Open Science differently. UNESCO poetically advocates for openness-where-appropriate, citing national security and other interests as justification for a continued multi-tier system of access to knowledge.&#x20;
+Many charters and definitions of open science can be found elsewhere. Institutions such as [UNESCO](https://www.unesco.org/en/open-science/about), [The Biden Administration](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/) and the rather brilliant [UCL](https://www.ucl.ac.uk/library/open-science-research-support/open-science/8-pillars-open-science) each define Open Science differently. UNESCO poetically advocates for openness-where-appropriate, citing national security and other interests as justification for a continued multi-tier system of access to knowledge.&#x20;
 
 The Open Science movement tilled the fertile minds of academia and planted the seeds of change within. However, the blossoming renaissance of equitable access and unfiltered innovation never quite arrived. It seemed that the promise of openness was not to pass.&#x20;
 
