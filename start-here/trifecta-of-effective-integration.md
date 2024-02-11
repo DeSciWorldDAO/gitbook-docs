@@ -10,10 +10,10 @@ Students are the lifeblood of science. Young, passionate and often wonderfully o
 
 ### Academia <a href="#e8d3" id="e8d3"></a>
 
-Academic societies guide the trajectory of populations, as their research and recommendations influence policy at all levels. The DeSci community must demonstrate to these influential substrates that decentralization, along with its inherent redistributive potential, is the most effective method for addressing the pain points that science faces today. To influence policy, policymakers must be enlightened.
+Academic societies dictate the direction of the populations as their research and recommendations influence policy at all levels. Think tanks are the sages of old. It is essential that the DeSci community demonstrates to these powerful substrates that decentralisation and the redistributive potential that comes with it is the best method to cure the ills that we face today. In order to influence policy, we must enlighten policymakers.
 
 ### Industry <a href="#id-2e3c" id="id-2e3c"></a>
 
-The financial support provided by the industry serves as a crucial catalyst for scientific research, facilitating the exploration of groundbreaking discoveries and technological innovations. This collaboration nurtures an environment wherein researchers can translate theoretical knowledge into practical applications, directly contributing to economic growth. Through investments in science, the industry not only propels its own development but also plays a pivotal role in retaining talented minds, thereby preventing brain drain. DeSci can serve as a core toolset to empower local industry and foster cross-pollination between international industry and local research communities. This, in turn, promotes robust funding and collaborative opportunities, incentivizing scientists to remain in their home countries.
+Finally, the theoretical underpinning of students and academia wont achieve much without the practical applications of industry. The trend of the last century is for competent scientists to go where they receive the best compensation — Western scientific industry. Indian doctors go to Europe, African pharmacists go to Big Pharma, South American chemists do their research in the US. This has invariably left local research communities lacking in both talent and funding. A deadly cycle that can only be broken by brave individuals creating value in their own lands. DeSci can be a core toolset to empower local industry, who in turn can compete with the global scientific industry.
 
-\\
+\

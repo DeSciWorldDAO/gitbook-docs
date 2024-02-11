@@ -25,4 +25,4 @@ As the kEngram continues to be used among a global network of AI interfaces, eac
 
 #### The DeSci stack
 
-<figure><img src="../../../../.gitbook/assets/CleanShot 2023-12-17 at 21.36.25@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CleanShot 2023-12-17 at 21.36.25@2x.png" alt=""><figcaption></figcaption></figure>

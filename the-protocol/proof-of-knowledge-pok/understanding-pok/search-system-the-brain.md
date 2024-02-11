@@ -1,4 +1,8 @@
-# Search System: The Brain
+# The Brain
+
+\[some info here about the knowledge graph and the eventual goal]
+
+
 
 An integral part of DeSciWorld's PoK mechanism is the advanced AI-based search system. The search system is used to maintain an updated embedding set which can locate specific Engrams or Study Questions. Each substantial interaction with an Engram sends usage data to the PoK mechanism which can be used to determine incentives for the creation of relevant engrams.&#x20;
 

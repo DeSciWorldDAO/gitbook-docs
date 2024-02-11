@@ -2,7 +2,7 @@
 description: kEngrams are a composable, on-chain unit of knowledge
 ---
 
-# kEngrams
+# kEngrams (kE)
 
 ### **What is a kEngram?**
 
@@ -30,9 +30,9 @@ When a kEngram is first created, it is recorded via an attestation for the resea
 
 As value is added to this kEngram—be it through more data, insights, revisions, or connections—each change is also captured through an attestation, creating a trail of evolution and accumulation of intellectual input. Other users can contribute to the research by referencing their research questions to any part of the original kEngram. By chaining these units of knowledge we can create a survival of the fittest situation where knowledge units that are highly relevant will be used regularly and acquire mulitple layers of proofs for its context.&#x20;
 
-## Incentive Framework
+## Attestation Framework
 
-The Ethereum Attestation Service lays the groundwork for our incentive mechanism. Each attestation becomes part of the computation determining value attribution and reward distribution.
+The Ethereum Attestation Service lays the groundwork for our provenance mechanism. Each attestation becomes part of the computation determining value attribution and reward distribution.
 
 > EAS ensures a transparent and fair system where contributors of Engrams are rewarded based on actual utility and demand in the ecosystem. You can see more about this here: [https://attest.sh/](https://attest.sh/)
 

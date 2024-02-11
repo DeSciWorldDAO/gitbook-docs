@@ -45,7 +45,7 @@ DeSciWorld is an organisation; an ecosystem. It consists of [technical products]
 * LLMs (RAG) can utilise kE as embeddings and query them, producing hyperlinked responses.&#x20;
 * this act of querying can be tracked, providing a set of usage metrics for the knowledge
 
-[\[read more\]](ecosystem/science.tech/proof-of-knowledge-pok/)
+[\[read more\]](the-protocol/proof-of-knowledge-pok/)
 
 </details>
 
