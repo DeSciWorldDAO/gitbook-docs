@@ -45,13 +45,15 @@ DeSciWorld is an organisation; an ecosystem. It consists of [technical products]
 * LLMs (RAG) can utilise kE as embeddings and query them, producing hyperlinked responses.&#x20;
 * this act of querying can be tracked, providing a set of usage metrics for the knowledge
 
-[\[read more\]](the-protocol/proof-of-knowledge-pok/)
+[\[read more\]](proof-of-knowledge/proof-of-knowledge-pok.md)
 
 </details>
 
 <details>
 
 <summary>science.tech <mark style="color:blue;">- </mark><em><mark style="color:blue;">your on-chain research lab</mark></em></summary>
+
+\[to be released]
 
 * the primary way to engage with Proof of Knowledge
 * mint, share and exchange kEngrams through the factory and marketplace
@@ -73,7 +75,7 @@ DeSciWorld is an organisation; an ecosystem. It consists of [technical products]
 * bring together founders and thought leaders from DeSci to showcase its potential to local research communities
 * give early stage projects a helping hand with navigating the "networking space", getting connections to the right people early on
 
-[\[read more\]](start-here/world-of-desci/)
+[\[read more\]](ecosystem/world-of-desci/)
 
 </details>
 
@@ -99,7 +101,7 @@ By <mark style="color:green;">promoting and expanding the culture of Decentralis
 
 ### ⚙️ Technical
 
-Through the Proof of Knowledge protocol, <mark style="color:green;">create a knowledge-backed economy in an AI-driven future</mark> by placing user-generated-research (UGR) at the heart of our interactions with GPTs. Further, we provide a a sandbox of on-chain tools for researchers to utilise with minimal setup or experience required.
+Through the Proof of Knowledge protocol, we will <mark style="color:green;">create a knowledge-backed economy in an AI-driven future</mark> by placing user-generated-research (UGR) at the heart of our interactions with GPTs. Further, we provide a a sandbox of on-chain tools for researchers to utilise with minimal setup or experience required.
 
 ## Guiding Values
 

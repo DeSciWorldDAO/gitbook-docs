@@ -57,6 +57,6 @@ The DAO is tasked with maintaining the dataroom, adding new features and engagin
 
 Further, Spotlight and NFT listings are not permissionless; application and selection require discussions with DAO members to initiate.&#x20;
 
-### DSW DAO and [World of DeSci](../start-here/world-of-desci/)
+### DSW DAO and [World of DeSci](../ecosystem/world-of-desci/)
 
 The World of DeSci conference circuit requires a significant amount or coordinated effort and resources. The DSW DAO acts the primary facilitator and overseer of the process.
