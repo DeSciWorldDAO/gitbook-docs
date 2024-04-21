@@ -1,13 +1,5 @@
----
-description: DeSci's flourishing ecosystem are all listed within the Terminal
----
+# Projects
 
-# Spotlight
+The DeSciWorld Dashboard is a free-to-use online information hub that aggregates and displays information about DeSci projects in an easily digestible format. We aim for it to become a primary resource for learning about all that DeSci has to offer. It allows researchers/academics/VCs/non-scientists to obtain information about all DeSci-relevant projects. Scientists / DeSciDAOs / other people related to DeSci can also expand outreach for their work, grow networks, access resources from a huge and growing community and even apply for funding.
 
-Within the Spotlight just under 100 protocols from the DeSci community have listed their project, creating the largest collection of DeSci projects in one spot.&#x20;
-
-Through the listings all components of the ecosystem can engage these protocols that are working towards a variety of scientific challenges.&#x20;
-
-DeSciWorld has validated all Marketing support for institutions looking to promote their open research projects \[paid service]
-
-* Outreach as a service
+Project pages display relevant information about individual DeSci projects, such as information about tokens and governance proposals, media embeds, short descriptions and relevant links. These pages allow users to get a quick overview of a project before fully diving into their community.

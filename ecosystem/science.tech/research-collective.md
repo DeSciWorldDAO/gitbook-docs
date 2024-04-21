@@ -5,7 +5,7 @@ description: >-
   are a key output of this activity.
 ---
 
-# Research Collective
+# Research Collectives
 
 ### Understanding Research Collectives: A new way to organize open research&#x20;
 
@@ -51,4 +51,25 @@ The PoK (Proof of Knowledge) mechanism rewards knowledge contributions within th
 
 Conclusion
 
+***
+
 In the DeSciWorld ecosystem, Research Collectives are a dynamic confluence of researchers collaboratively with access to funding to output proof of knowledge. With the integration of the PoK framework, these collectives provide an excellent means for researchers to generate, validate, share, and monetize their research.
+
+Researchers that are passionate in a field that is not _en vogue_ often struggle to source contributions towards their early-stage research. DeSciWorld understands this challenge and seeks to support researchers with a plethora of tools to overcome this high first hurdle.&#x20;
+
+### Introducing Research Collectives&#x20;
+
+The DSW team experienced the traditional research process and understands it creates a multitude of challenges for scientists.&#x20;
+
+Researchers are a key component in the DeSciWorld ecosystem with community platforms and tooling built specifically for researchers.&#x20;
+
+Research collectives will be at the core of the DSW ecosystem...
+
+\[Insert overview of research collective]
+
+### Research collective tokenomics&#x20;
+
+\[Insert stuff from Josh re tokenomics around this]
+
+\
+!! Insert CTA for reserach collectives&#x20;

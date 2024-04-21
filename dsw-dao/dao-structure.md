@@ -84,9 +84,9 @@ If unanimous agreement cannot be reached, then the dispute is escalated to Micro
 {% endtab %}
 {% endtabs %}
 
-<figure><img src="../.gitbook/assets/OrgStructure2.drawio (1).png" alt=""><figcaption></figcaption></figure>
-
 ## Rationale
+
+<figure><img src="../.gitbook/assets/OrgStructure.drawio (2).png" alt=""><figcaption></figcaption></figure>
 
 DeSciWorld is an ambitious ecosystem with plans to continuously ship exceptional user-facing products for years to come. As such, there are many movings pieces that require some level of centralised authority to keep within an acceptable efficiency bracket.&#x20;
 
@@ -101,4 +101,4 @@ Vitalik's prescient identification of this conflict between efficiency and decen
 > 1. A truly **high level of autonomy for pods**, where the pods accept resources from the core and are occasionally checked for alignment and competence if they want to keep getting those resources, but otherwise act entirely on their own and don't "take orders" from the core.
 > 2. **Highly decentralized and diverse core governance**. Normally, broad and diverse participation is a large tax on efficiency. But if (1) is satisfied, so pods are highly autonomous and the core needs to make fewer decisions, the effects of top-level governance being less efficient become smaller.
 
-This second point here, "diverse core governance", is something that cannot be snuffed at. We are excited to bring broad, distributed governance from Microbes Governors, diverse leadership from CORE team, and limited centralisation for focused ecosystem development through the Pods.
+This second point here, "diverse core governance", is something that cannot be snuffed at. We are excited to bring broad, distributed governance from Microbes Governors, diverse leadership from the CORE team, and limited centralisation for focused ecosystem development through the Pods.
