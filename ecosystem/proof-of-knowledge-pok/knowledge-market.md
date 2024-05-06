@@ -1,16 +1,4 @@
-# Validation & Value Attribution
-
-## Introduction to Usage
-
-Validation within the PoK protocol operates as an emergent property of a <mark style="color:green;">free market of knowledge</mark>. Usage metrics, combined with other continously updating feedbacks, determine the validity and value of the knowledge in a market-based model.
-
-In essence, within the Proof of Knowledge model, validation isn't a one-time stamp of approval but a continuous process of adaptation, adjustment, and evolution — a dynamic reflection of a knowledge unit's continuous performance in the marketplace of ideas and information, that simultaneously helps to determine its value.
-
-## Tracking Usage Metrics
-
-The Ethereum Attestation Service lays the groundwork for our usage tracking mechanism.
-
-***
+# Knowledge Market
 
 ## "Market Validation" of Knowledge
 
@@ -29,4 +17,3 @@ The Research Collective ecosystem facilitates groups to gather around specific t
 User interactions can range from the frequency of appearances of an SQ in search results, the frequency of its selection from the results, the number of direct or indirect references made to it in new SQs, and assessments of how helpful the SQ was to a user's research or learning process. The system measures these interactions and, based on that, adjusts the value of each kEngram.&#x20;
 
 The more an kEngram is recognized as beneficial or pivotal to ongoing research or learning, the more value it gains in the system, and the greater rewards are distributed to the Author who contributed it.
-

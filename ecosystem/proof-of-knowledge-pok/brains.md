@@ -14,7 +14,7 @@ Brains require care and attention to function best, namely:
 
 ### The Brain
 
-The Brain is the sum total of all kEngrams published to the public PoK pipelines. Our intention is to provide a [**globally coherent brain state**](optimising-for-coherence.md) for permissionless access to a thriving and peer-reviewed vector database of knowledge.
+The Brain is the sum total of all kEngrams published to the public PoK pipelines. Our intention is to provide a **globally coherent brain state** for permissionless access to a thriving and peer-reviewed vector database of knowledge.
 
 The Brain
 

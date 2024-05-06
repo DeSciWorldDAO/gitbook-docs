@@ -6,33 +6,15 @@
 * [Understanding DeSci](introductory-info/understanding-desciworld.md)
 * [The Vision](introductory-info/trifecta-of-effective-integration.md)
 
-## 🧠 Proof of Knowledge
-
-* [Understanding PoK](proof-of-knowledge/proof-of-knowledge-pok/README.md)
-  * [Brains](proof-of-knowledge/proof-of-knowledge-pok/brains.md)
-  * [kEngrams (kE)](proof-of-knowledge/proof-of-knowledge-pok/kengrams.md)
-  * [Composable Knowledge](proof-of-knowledge/proof-of-knowledge-pok/composable-knowledge.md)
-  * [Optimising for Coherence](proof-of-knowledge/proof-of-knowledge-pok/optimising-for-coherence.md)
-  * [Validation & Value Attribution](proof-of-knowledge/proof-of-knowledge-pok/validation-and-value-attribution.md)
-  * [Optimistic governance of PoK](proof-of-knowledge/proof-of-knowledge-pok/optimistic-governance-of-pok.md)
-  * [Understanding kNeuron Profile](proof-of-knowledge/proof-of-knowledge-pok/understanding-kneuron-profile.md)
-* [kE Starter Guide](proof-of-knowledge/ke-starter-guide/README.md)
-  * [Installation Setup](proof-of-knowledge/ke-starter-guide/installation-setup.md)
-  * [Creating Your First Engram](proof-of-knowledge/ke-starter-guide/creating-your-first-engram.md)
-  * [Smart Connections](proof-of-knowledge/ke-starter-guide/smart-connections.md)
-  * [Advanced Engram Implementation](proof-of-knowledge/ke-starter-guide/advanced-engram-implementation.md)
-  * [Troubleshooting](proof-of-knowledge/ke-starter-guide/troubleshooting.md)
-  * [Conclusion](proof-of-knowledge/ke-starter-guide/conclusion.md)
-
 ## 🌟 Ecosystem
 
-* [DSW ID](ecosystem/dsw-id.md)
-* [Microbes NFT](ecosystem/governing-dsw-dao/README.md)
-  * [How to mint](ecosystem/governing-dsw-dao/how-to-mint.md)
-  * [“Early Adopters”](ecosystem/governing-dsw-dao/early-adopter-rights.md)
+* [Proof of Knowlege](ecosystem/proof-of-knowledge-pok/README.md)
+  * [Brains](ecosystem/proof-of-knowledge-pok/brains.md)
+  * [kEngrams (kE)](ecosystem/proof-of-knowledge-pok/kengrams.md)
+  * [Knowledge Market](ecosystem/proof-of-knowledge-pok/knowledge-market.md)
+* [Research Collectives](ecosystem/research-collective.md)
 * [science.tech](ecosystem/science.tech/README.md)
   * [Proof of Knowledge](ecosystem/science.tech/deresearch-launchpad.md)
-  * [Research Collectives](ecosystem/science.tech/research-collective.md)
   * [Yggdrasil](ecosystem/science.tech/the-brain/README.md)
     * [How to use the brain](ecosystem/science.tech/the-brain/how-to-use-the-brain.md)
 * [desci.world](ecosystem/terminal/README.md)
@@ -52,13 +34,26 @@
   * [Previous Events](ecosystem/world-of-desci/previous-events.md)
   * [Application Process](ecosystem/world-of-desci/application-process.md)
   * [Scaling DeSci to a global level](ecosystem/world-of-desci/scaling-desci-to-a-global-level.md)
+* [kE Starter Guide](ecosystem/ke-starter-guide/README.md)
+  * [Installation Setup](ecosystem/ke-starter-guide/installation-setup.md)
+  * [Creating Your First Engram](ecosystem/ke-starter-guide/creating-your-first-engram.md)
+  * [Smart Connections](ecosystem/ke-starter-guide/smart-connections.md)
+  * [Advanced Engram Implementation](ecosystem/ke-starter-guide/advanced-engram-implementation.md)
+  * [Troubleshooting](ecosystem/ke-starter-guide/troubleshooting.md)
+  * [Conclusion](ecosystem/ke-starter-guide/conclusion.md)
+* [Microbes NFT](ecosystem/governing-dsw-dao/README.md)
+  * [How to mint](ecosystem/governing-dsw-dao/how-to-mint.md)
+  * [“Early Adopters”](ecosystem/governing-dsw-dao/early-adopter-rights.md)
 * [$KNOW](ecosystem/usddsci-or-usdknow-token.md)
+* [DSW ID](ecosystem/dsw-id.md)
 
-## 🏛️ DSW DAO
+## 🏛️ Governance
 
-* [Role and Responsibilities](dsw-dao/role-and-responsibilities.md)
-* [DAO Structure](dsw-dao/dao-structure.md)
-* [Voting Protocol](dsw-dao/voting-protocol.md)
+* [DSWDAO](governance/dswdao/README.md)
+  * [Voting Protocol](governance/dswdao/voting-protocol.md)
+* [DSW Foundation](governance/dsw-foundation/README.md)
+  * [Role and Responsibilities](governance/dsw-foundation/role-and-responsibilities.md)
+  * [DAO Structure](governance/dsw-foundation/dao-structure.md)
 
 ## Links
 

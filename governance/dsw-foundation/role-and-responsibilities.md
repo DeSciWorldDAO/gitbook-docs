@@ -8,9 +8,9 @@ description: >-
 
 ### DSW DAO's Role
 
-The primary role of DSW DAO is to facilitate the launch and sound operation of the DeSciWorld ecosystem, including desci.world, science.tech and the World of DeSci conference circuit. DSW DAO is an evolving structure that is governed by the [Microbes NFT](../ecosystem/governing-dsw-dao/).&#x20;
+The primary role of DSW DAO is to facilitate the launch and sound operation of the DeSciWorld ecosystem, including desci.world, science.tech and the World of DeSci conference circuit. DSW DAO is an evolving structure that is governed by the [Microbes NFT](../../ecosystem/governing-dsw-dao/).&#x20;
 
-<figure><img src="../.gitbook/assets/DSWDAOOrgStructure.drawio (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/DSWDAOOrgStructure.drawio (2).png" alt=""><figcaption></figcaption></figure>
 
 To deliver on its role, DSW DAO will access the resources held in its multisignature wallet.
 
@@ -36,7 +36,7 @@ DSWDAO is tasked with developing and deploying the Proof of Knowledge smart cont
 
 The $KNOW token emissions that are primarily used to incentivise Proof of Knowledge participation are deployed by DSW DAO.
 
-### DSW DAO and [$KNOW](../ecosystem/usddsci-or-usdknow-token.md)
+### DSW DAO and [$KNOW](../../ecosystem/usddsci-or-usdknow-token.md)
 
 The $DSCI token is deployed via two methods:
 
@@ -45,7 +45,7 @@ The $DSCI token is deployed via two methods:
 
 Both the TGE and the Emissions Schedule will be organised and executed by the DSW DAO.&#x20;
 
-### DSW DAO and [desci.world](../ecosystem/terminal/)
+### DSW DAO and [desci.world](../../ecosystem/terminal/)
 
 desci.world is considered a curated platform; DSW DAO assumes role of curator.
 
@@ -53,12 +53,12 @@ The DAO is tasked with maintaining the dataroom, adding new features and engagin
 
 Further, Spotlight and NFT listings are not permissionless; application and selection require discussions with DAO members to initiate.&#x20;
 
-### DSW DAO and [science.tech](../ecosystem/science.tech/)
+### DSW DAO and [science.tech](../../ecosystem/science.tech/)
 
 The primary function of science.tech is to provide permissionless access to on-chain tooling. Through the Research Collectives, descientists have an open-governance mechanism for their research goals. Each Collective is a self-governing unit, seperated from the control of DSW DAO through its unique governance token. The Collectives provide a seperation of authority from DSWDAO, giving autonomy over finances and operations to each Collective.
 
 Understanding the DSW DAO as a facilitator of DeSci makes for a better appreciation of the DAO's purpose; the goals of DSW DAO align with proliferating access to decentralised tools through science.tech.&#x20;
 
-### DSW DAO and [World of DeSci](../ecosystem/world-of-desci/)
+### DSW DAO and [World of DeSci](../../ecosystem/world-of-desci/)
 
 The World of DeSci conference circuit requires a significant amount or coordinated effort and resources. The DSW DAO acts the primary facilitator and overseer of the process..

@@ -86,7 +86,7 @@ If unanimous agreement cannot be reached, then the dispute is escalated to Micro
 
 ## Rationale
 
-<figure><img src="../.gitbook/assets/OrgStructure.drawio (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/OrgStructure.drawio (2).png" alt=""><figcaption></figcaption></figure>
 
 DeSciWorld is an ambitious ecosystem with plans to continuously ship exceptional user-facing products for years to come. As such, there are many movings pieces that require some level of centralised authority to keep within an acceptable efficiency bracket.&#x20;
 

@@ -37,7 +37,7 @@ An kEngram consists of several integral components that collectively contribute 
 4. **Unique Identifier**: Every Engram has a unique ID associated with it, allowing for its distinct recognition, tracking, and management within the overall Brain system.
 5. **Relationships**: These are connections that a kEngram has among its underlying data. These relationships can be thought of as edges in the graph, defining how pieces of information are interconnected, and enabling the creation of a comprehensive, multi-dimensional structure of knowledge.
 
-## Attestation Framework
+### Attestation Framework
 
 The Ethereum Attestation Service lays the groundwork for our provenance mechanism. Each attestation becomes part of the computation determining value attribution and reward distribution.
 
@@ -66,5 +66,57 @@ Once a kEngram has been formed, it can be further enriched and enhanced by other
 ### Utilization & Evolution&#x20;
 
 Engrams, once submitted, are then available for use. They are identified and selected by AI interfaces based on their relevance to specific queries or tasks. The frequency, context, and nature of how these Engrams are utilized play a crucial role in determining their ongoing validation scores and their corresponding value within the knowledge market.
+
+## Validation and Value Attribution
+
+Validation within the PoK protocol operates as an emergent property of a <mark style="color:green;">free market of knowledge</mark>. RAG usage metrics, combined with other continously updating feedbacks, determine the validity and value of the knowledge in a market-based model.&#x20;
+
+The Research Collective ecosystem facilitates groups to gather around specific types of knowledge. Each Research Collective (RC) may begin deploying kEngrams from the RC's interface. They may also aggregate the kEngrams of others, into their "accepted list", that acts as a de-facto ratification of the kEngram. When an kEngram is aggregated into the "accepted list" of an RC, that kE receives a tag in its metadata to show that its been ratified by that Collective. This allows permissionless ratification of knowledge, in a decentralised manner. The kEngrams can then be filtered by levels of ratification, including amount of ratified support and also where that ratification came from. Want to filter kEngrams by those that have been ratified by the Oxford University Research Collective, or by the University of Ethereum RC? Now you can!
+
+In essence, within the Proof of Knowledge model, validation isn't a one-time stamp of approval but a continuous process of adaptation, adjustment, and evolution — a dynamic reflection of a knowledge unit's continuous performance in the marketplace of ideas and information, that simultaneously helps to determine its value.
+
+## Composability
+
+Composability is akin to building with LEGO bricks. Web3 is known for building an interoperable stack: components with a specific usecase that can be combined with others to create entirely new products. This concept is what drives the standardisation of EVM infrastructures.
+
+In the PoK system we have two types of composabilty:
+
+1. **Compasable Knowledge Units**: The kEngram unit itself can be considered as a part of the "DeSci stack"; designed so that it can be incorporated with other DeSci projects as a data input.
+2. **Composable Knowledge**: Each piece of knowledge, or more precisely, each [attestation](kengrams.md#attestations), can stand alone but, when combined, they form a more complex and intricate structure to the benefit of the research.&#x20;
+
+### Composable with:
+
+#### AI Services
+
+As the kEngram continues to be used among a global network of AI interfaces, each interaction and usage is also documented. These records contribute to an kEngram's ongoing validation in our ecosystem. This evidence-based approach ensures that each kEngram's relevance, accuracy, and utility are continuously verified, evaluated, and updated.&#x20;
+
+#### The DeSci stack
+
+We anticipate the kEngram will be a widely used primitive for containerising, transferring and attributing knowledge to Authors onchain. The burdegoning DeSci stack may adopt the kE as a fundamental building block for knowledge creation.
+
+## Coherence
+
+{% hint style="info" %}
+#### Instead of accuracy as the defining factor of kEngrams, we optimise for coherence.
+{% endhint %}
+
+Coherence ensures that the kEngrams contain logically consistent and well-structured information; a clear, homogeneous narrative between the Question and the Answer. This helps to ensure that the kEngram not only makes sense but also can be efficiently queried by AI services.
+
+This process is thought of at two levels:
+
+1. **Local Coherence**: This refers to the cohesion and connectivity within a single kEngram. It involves ensuring each addition to a kEngram is internally consistent and logically connected with the others. This helps to improve the comprehension and interpretation of the individual kEngram.
+   * One method to maintain local coherence is to develop focused kEngrams, centred around specific Study Questions or queries.&#x20;
+2. **Global Coherence**: Global coherence extends beyond individual kEngrams. It includes the logical connection and relationships between different kEngrams within the Knowledge Graph. Therefore, it not only focuses on the intra-kEngram relationships but also on the inter-kEngram connections. This helps create a globally coherent embedding space, crucial for developing Knowledge Graphs.
+   * To improve global coherence, related kEngrams can be cross-referenced. This helps to create a network of related knowledge, thus adding depth and breadth to the overall knowledge representation.
+
+## Coherence Engineering
+
+There are a variety of strategies to enhance coherence in both local and global perspectives. We anticipate whole schools of thought dedicated to understanding and optimising for coherence will emerge in response to this protocol.
+
+User interactions also play an essential role in maintaining and enhancing coherence. Feedback from users can be a powerful tool to refine and update the information in the kEngram, making it more coherent over time. This user-led learning and updating process helps to create a dynamic, interconnected hub of collective knowledge, which is the heart of the PoK mechanism.
+
+In conclusion, optimizing coherence in the PoK system is key to creating an effective and useful knowledge-based ecosystem. It involves a continuous process of learning, adaptation, and evolution with a focus on nurturing the most relevant, coherent, and valuable knowledge.
+
+
 
 <figure><img src="../../.gitbook/assets/CleanShot 2023-12-17 at 21.22.49@2x.png" alt=""><figcaption></figcaption></figure>

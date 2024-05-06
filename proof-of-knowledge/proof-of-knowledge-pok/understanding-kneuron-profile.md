@@ -1,9 +1,0 @@
-# Understanding kNeuron Profile
-
-####
-
-
-
-####
-
-\
