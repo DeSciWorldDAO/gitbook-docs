@@ -26,3 +26,7 @@ The Research Collective ecosystem facilitates groups to gather around specific t
 
 ## Valuing Knowledge
 
+User interactions can range from the frequency of appearances of an SQ in search results, the frequency of its selection from the results, the number of direct or indirect references made to it in new SQs, and assessments of how helpful the SQ was to a user's research or learning process. The system measures these interactions and, based on that, adjusts the value of each kEngram.&#x20;
+
+The more an kEngram is recognized as beneficial or pivotal to ongoing research or learning, the more value it gains in the system, and the greater rewards are distributed to the Author who contributed it.
+

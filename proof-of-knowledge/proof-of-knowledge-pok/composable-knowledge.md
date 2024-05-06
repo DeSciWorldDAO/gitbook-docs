@@ -9,14 +9,6 @@ In the PoK system we have two types of composabilty:
 1. **Compasable Knowledge Units**: The kEngram unit itself can be considered as a part of the "DeSci stack"; designed so that it can be incorporated with other DeSci projects as a data input.
 2. **Composable Knowledge**: Each piece of knowledge, or more precisely, each [attestation](composable-knowledge.md#attestations), can stand alone but, when combined, they form a more complex and intricate structure to the benefit of the research.&#x20;
 
-## Attestations
-
-The Ethereum Attestation Service lays the groundwork for our incentive mechanism. Each attestation becomes part of the computation determining value attribution and reward distribution.
-
-> EAS ensures a transparent and fair system where contributors of Engrams are rewarded based on actual utility and demand in the ecosystem. You can see more about this here: [https://attest.sh/](https://attest.sh/)
-
-The use of EAS within the PoK protocol forms a trustworthy and secure system for validating knowledge contributions and rewarding contributors. It answers the call for a distributed, transparent, and reliable method to authenticate, validate, and incentivize meaningful engagements in a decentralized knowledge ecosystem.
-
 ## Composable with:
 
 #### AI Services

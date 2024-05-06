@@ -1,6 +1,14 @@
-# Trifecta of Effective Integration
+# The Vision
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+The future of knowledge and understanding is at risk of extreme, parasitic corporatisation. Our roles as workers in society is also changing rapidly; automation is sweeping through the service economy.&#x20;
+
+The team and partners at DeSciWorld believe in a better incentivised and more democratised future of knowledge creation and exchange. With the progress in AI systems, knowledge and its author may become seperated irretrievably. The data we produce informs inteliigent systems operating for profit and can be used in research without attribution. We deserve our share.
+
+## Knowledge Backed Economy
+
+{% embed url="https://youtu.be/fbnFEvfKRO8?t=7089" %}
+
+
 
 In a bid to achieve the truly distributed scientific community that Decentralised Science dreams of, we must bring the tools to the people who need them.
 

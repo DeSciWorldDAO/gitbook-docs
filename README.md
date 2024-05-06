@@ -18,9 +18,9 @@ _noun_\
 
 ## What is DeSciWorld?
 
-DeSciWorld is an organisation; an ecosystem. It consists of [technical products](ecosystem/science.tech/), a decentralised [economic system](broken-reference), a diverse and global community and a cultural force for change.&#x20;
+DeSciWorld is an ecosystem. It consists of [technical products](ecosystem/science.tech/), both permissioned and permissionless, a decentralised [economic system](broken-reference) powered by $KNOW, a diverse and global community and a cultural force for change.&#x20;
 
-<figure><img src=".gitbook/assets/2 DSW pitch deck (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -37,15 +37,58 @@ DeSciWorld is an organisation; an ecosystem. It consists of [technical products]
 
 <details>
 
-<summary>Proof of Knowledge <mark style="color:blue;">- </mark><em><mark style="color:blue;">knowledge supply-chain logistics</mark></em></summary>
+<summary>1. DSW Foundation</summary>
 
-* on-chain knowledge graph hyperstructure, optimised for AI readability
-* produces structured units of knowledge called kEngrams (kE)
-* kE are attested to on-chain and interoperable with the burdgeoning "DeSci stack"
-* LLMs (RAG) can utilise kE as embeddings and query them, producing hyperlinked responses.&#x20;
-* this act of querying can be tracked, providing a set of usage metrics for the knowledge
 
-[\[read more\]](proof-of-knowledge/proof-of-knowledge-pok.md)
+
+</details>
+
+<details>
+
+<summary>Foundation Tools</summary>
+
+* desci.world
+* science.tech
+* World of DeSci
+
+</details>
+
+<details>
+
+<summary>Decentralised, permissionless tools</summary>
+
+*   Proof of Knowledge
+
+    on-chain knowledge graph hyperstructure, optimised for AI readability. Produces structured units of knowledge called kEngrams (kE). LLMs (RAG) can utilise kE as embeddings and query them, producing hyperlinked responses. This act of querying can be tracked, providing a set of usage metrics for the knowledge
+
+<!---->
+
+* Research Collectives
+* DSW ID
+
+</details>
+
+<details>
+
+<summary>DSWDAO</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Research Collectives </summary>
+
+
+
+</details>
+
+<details>
+
+<summary>$KNOW</summary>
+
+
 
 </details>
 
