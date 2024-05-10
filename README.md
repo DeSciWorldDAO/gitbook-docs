@@ -1,8 +1,5 @@
 ---
-description: >-
-  Welcome to the DeSciWorld documentation space. As you navigate through our
-  resources, we hope our commitment to returning science to its rightful place,
-  the hands of the people, shines clear.
+description: Welcome to the DeSciWorld documentation space.
 ---
 
 # Introducing DeSciWorld
@@ -18,133 +15,34 @@ _noun_\
 
 ## What is DeSciWorld?
 
-DeSciWorld is an ecosystem. It consists of [technical products](ecosystem/science.tech/), both permissioned and permissionless, a decentralised [economic system](broken-reference) powered by $KNOW, a diverse and global community and a cultural force for change.&#x20;
-
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-<details>
-
-<summary>desci.world <em><mark style="color:blue;">- the homepage of DeSci</mark></em></summary>
-
-* web3 native tools for science such as P2P funding, DID and NFTs
-* offers a comprehensive suite of tools that DeSci projects can use to promote their platform, fostering global community engagement
-* faciliating outreach and b2b networking to improve collaboration in the space
-* a dynamic terminal for individuals to learn and engage with up-to-date information including events, job listings, visualisation tools and news
-
-[\[read more\]](ecosystem/terminal/)
-
-</details>
-
-<details>
-
-<summary>1. DSW Foundation</summary>
 
 
+DeSciWorld is an [ecosystem](ecosystem/ecosystem-map.md) consisting of:
 
-</details>
-
-<details>
-
-<summary>Foundation Tools</summary>
-
-* desci.world
-* science.tech
+* desci.world [<>](ecosystem/terminal/)
+  * an information aggregator for the DeSci space since 2021
+  * an interactive way to explore the burdgeoning DeSci Space
+* science.tech [<>](ecosystem/science.tech/)
+  * a suite of technical products, both permissioned and permissionless
+  * the Proof of Knowledge (PoK) protocol
+  * Research Collectives, the on-chain research lab
+* $KNOW <>
+  * a decentralised economic system driven by knowledge creation and transfer
+  * a potential passive income stream for research contributors
 * World of DeSci
+  * a diverse and global community event circuit
 
-</details>
-
-<details>
-
-<summary>Decentralised, permissionless tools</summary>
-
-*   Proof of Knowledge
-
-    on-chain knowledge graph hyperstructure, optimised for AI readability. Produces structured units of knowledge called kEngrams (kE). LLMs (RAG) can utilise kE as embeddings and query them, producing hyperlinked responses. This act of querying can be tracked, providing a set of usage metrics for the knowledge
-
-<!---->
-
-* Research Collectives
-* DSW ID
-
-</details>
-
-<details>
-
-<summary>DSWDAO</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Research Collectives </summary>
-
-
-
-</details>
-
-<details>
-
-<summary>$KNOW</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>science.tech <mark style="color:blue;">- </mark><em><mark style="color:blue;">your on-chain research lab</mark></em></summary>
-
-\[to be released]
-
-* the primary way to engage with Proof of Knowledge
-* mint, share and exchange kEngrams through the factory and marketplace
-* deploy custom AI agents with selected kEngram embeddings
-* join or summon a Research Collective
-* engage with the $DSCI incentive programme through "knowledge mining"
-* deploy on-chain P2P funding or research requests
-* create a Synapse private token-gated chatroom for sharing your research
-
-[\[read more\]](ecosystem/science.tech/)
-
-</details>
-
-<details>
-
-<summary>World of DeSci <em><mark style="color:blue;">- seeding science globally</mark></em></summary>
-
-* in-person events held globally, to incubate local DeSci communities that can self-sustain and proliferate
-* bring together founders and thought leaders from DeSci to showcase its potential to local research communities
-* give early stage projects a helping hand with navigating the "networking space", getting connections to the right people early on
-
-[\[read more\]](ecosystem/world-of-desci/)
-
-</details>
-
-<details>
-
-<summary>DSW DAO </summary>
-
-* governs DeSciWorld's operations, budget, team and other high level management decisions
-* decentralised participation and ownership through the Microbes NFT
-* deploys the smart contract infrastructure for the ecosystem
-
-\[not yet active]
-
-[\[read more\]](broken-reference)
-
-</details>
+DeSciWorld can be considered the global hub of decentralised science. We provide a range of tools to inform and empower the (de)scientist. More than just technical, we consider ourselves a cultural force within the space also. We advocate consistently for a more humanity and nature [aligned science](introductory-info/trifecta-of-effective-integration.md) paradigm, eschewing the profit and reputation tempations that come with upholding the status quo.
 
 ## The DeSciWorld Mission
 
 ### 👥 Social
 
-By <mark style="color:green;">promoting and expanding the culture of Decentralised Science</mark>, we aim to empower (de)scientists to conduct research on their own terms, without compromise, and to help them effectively capture the value generated by their work.
+By promoting and expanding the culture of Decentralised Science, we aim to empower (de)scientists to conduct research on their own terms, without compromise, and to help them effectively capture the value generated by their work.
 
 ### ⚙️ Technical
 
-Through the Proof of Knowledge protocol, we will <mark style="color:green;">create a knowledge-backed economy in an AI-driven future</mark> by placing user-generated-research (UGR) at the heart of our interactions with GPTs. Further, we provide a a sandbox of on-chain tools for researchers to utilise with minimal setup or experience required.
+Through the [Proof of Knowledge](ecosystem/science.tech/proof-of-knowledge-pok/) protocol, we will create a knowledge-backed economy in an AI-driven future by placing user-generated-research (UGR) at the heart of our interactions with GPTs. Further, we provide a a sandbox of on-chain tools at science.tech for researchers to utilise with minimal setup or experience required.
 
 ## Guiding Values
 

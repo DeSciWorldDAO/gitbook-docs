@@ -6,16 +6,13 @@ description: >-
 
 # science.tech
 
-Science.tech is a repository of onchain tools deployed by the DSW Foundation provided to the decentralised research community. From this platform, users may interact with&#x20;
+Science.tech is a repository of onchain tools deployed by the DSW Foundation for the decentralised research community. From this platform, users may interact with the tools permissionlessly using their web3 wallet as a login.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 science.tech currently consists of:
 
-1. Proof of Knowledge
-2. Research Collectives
-3. DSW ID
-4. (tbc) P2P Research Funding
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Proof of Knowledge</td><td></td><td></td></tr><tr><td>Research Collectives</td><td></td><td></td></tr><tr><td>DSW ID</td><td></td><td></td></tr></tbody></table>
 
 ***
 
@@ -31,6 +28,18 @@ cutting-edge platform designed to revolutionize the research landscape by empowe
 6. Ensure adaptability for use in a modular structure across the decentralized science (DeSci) ecosystem.
 
 Through this section you will learn more about science.tech and get started as an open researcher.&#x20;
+
+\[to be released]
+
+* the primary way to engage with Proof of Knowledge
+* mint, share and exchange kEngrams through the factory and marketplace
+* deploy custom AI agents with selected kEngram embeddings
+* join or summon a Research Collective
+* engage with the $DSCI incentive programme through "knowledge mining"
+* deploy on-chain P2P funding or research requests
+* create a Synapse private token-gated chatroom for sharing your research
+
+[\[read more\]](./)
 
 
 
