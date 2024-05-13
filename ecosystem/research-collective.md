@@ -17,7 +17,7 @@ A researcher focusing on niche or underserved areas may struggle to obtain resou
 
 The concept of Research Collectives emerges as a fundamental mechanism in decentralized science, facilitating the convergence of researchers who share a fervent interest in a particular domain. This paradigm enables these individuals to forge connections, engage in collaborative endeavors, and collectively contribute to an expansive knowledge base.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Members of the Research Collectives can autonomously govern themselves via the subDAO infrastructure. They may create and amalgamate kEngrams, uniting them in a coherent repository of collective research, leverage on-chain assets, participate in token-weighted governance and more.
 

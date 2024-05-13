@@ -119,4 +119,4 @@ In conclusion, optimizing coherence in the PoK system is key to creating an effe
 
 
 
-<figure><img src="../../../.gitbook/assets/CleanShot 2023-12-17 at 21.22.49@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CleanShot 2023-12-17 at 21.22.49@2x.png" alt=""><figcaption></figcaption></figure>

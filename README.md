@@ -15,24 +15,23 @@ _noun_\
 
 ## What is DeSciWorld?
 
-
-
 DeSciWorld is an [ecosystem](ecosystem/ecosystem-map.md) consisting of:
 
-* desci.world [<>](ecosystem/terminal/)
+* **desci.world** [<>](ecosystem/terminal/)
   * an information aggregator for the DeSci space since 2021
-  * an interactive way to explore the burdgeoning DeSci Space
-* science.tech [<>](ecosystem/science.tech/)
+* **science.tech** [<>](ecosystem/science.tech/)
   * a suite of technical products, both permissioned and permissionless
-  * the Proof of Knowledge (PoK) protocol
-  * Research Collectives, the on-chain research lab
-* $KNOW <>
-  * a decentralised economic system driven by knowledge creation and transfer
-  * a potential passive income stream for research contributors
-* World of DeSci
+  * the Proof of Knowledge (PoK) protocol and Research Collectives
+* **World of DeSci** [<>](ecosystem/world-of-desci/)
   * a diverse and global community event circuit
+* **$KNOW** [<>](ecosystem/usddsci-or-usdknow-token.md)
+  * a decentralised economic system driven by knowledge creation and transfer
+* **Microbes NFT** [<>](ecosystem/governing-dsw-dao/)
+  * A limited supply <mark style="color:yellow;">golden ticket</mark> for the most dedicated DeSciWorld adopters
 
-DeSciWorld can be considered the global hub of decentralised science. We provide a range of tools to inform and empower the (de)scientist. More than just technical, we consider ourselves a cultural force within the space also. We advocate consistently for a more humanity and nature [aligned science](introductory-info/trifecta-of-effective-integration.md) paradigm, eschewing the profit and reputation tempations that come with upholding the status quo.
+DeSciWorld can be considered the global hub of decentralised science. We provide a range of tools to inform and empower the (de)scientist. More than just technical, we also consider ourselves a cultural force within the space. We advocate consistently for a more humanity and nature [aligned science](introductory-info/trifecta-of-effective-integration.md) paradigm, eschewing the profit and reputation tempations that come with upholding the status quo.
+
+***
 
 ## The DeSciWorld Mission
 
@@ -42,25 +41,23 @@ By promoting and expanding the culture of Decentralised Science, we aim to empow
 
 ### ⚙️ Technical
 
-Through the [Proof of Knowledge](ecosystem/science.tech/proof-of-knowledge-pok/) protocol, we will create a knowledge-backed economy in an AI-driven future by placing user-generated-research (UGR) at the heart of our interactions with GPTs. Further, we provide a a sandbox of on-chain tools at science.tech for researchers to utilise with minimal setup or experience required.
+Through the [Proof of Knowledge](ecosystem/proof-of-knowledge-pok/) protocol, we will create a knowledge-backed economy in an AI-driven future by placing user-generated-research (UGR) at the heart of our interactions with GPTs. Further, we provide a a sandbox of on-chain tools at science.tech for researchers to utilise with minimal setup or experience required.
 
 ## Guiding Values
 
-We can be considered as agnostic ecosystem facilitators for DeSci projects. Committed to a future with equality of opportunity and access, globally, we hope to deliver genuine moments of happiness and wonder to the DeSci ecosystem.
+We strive to be an **agnostic** ecosystem facilitators for DeSci projects. Our ambition is to generate sustainable income for the DAO and redistribute AMAP into the hands of builders and researchers. Committed to a future with equality of opportunity and access, globally, we hope to deliver genuine moments of happiness and wonder to the DeSci ecosystem.
 
 ***
 
-## Why are we here?
+## Roadmap
 
-DeSciWorld was created in September 2021, after the COVID pandemic exposed some fundamental concerns with the scientific paradigm: censorship, bias, illicit public-private partnerships, profiteering, inefficiencies, uninformed populations, uneven distribution of data and medicine, to name a few.
 
-In a time of converging technologies, handing the right to determination of the future of humanity, the keys to the ignition of tools of destruction, the honour of shepherding the great masses of the world to _**any one entity**_ is a folly.&#x20;
 
-We must create the tools that decentralise and distribute the power that is afforded to technology, before that power is absolute. Guided by the mission to unite and empower the decentralized research community, DeSciWorld’s commitment is to facilitate a scientific renaissance in an authentic, transparent, and resilient manner.&#x20;
+## Our Evolutionary Timeline
 
-## Our Evolutionary Timeline \[This has been included in section 3]
+DeSciWorld began as an idea to bring research funding onchain through Peer-to-Peer (P2P) infrastructure. Originally named "DeSciDAO", it incorporated many of the ideas learned by founder Joshua during his time working in DeFi. The core product design was to connect researchers and funders permissionlessly, even anonymously, to facilitate science that might disagree with official narratives.&#x20;
 
-Started in September 2021, DeSciWorld began as an idea to bring research funding onchain through Peer-to-Peer (P2P) infrastructure. Originally named "DeSciDAO", it incorporated many of the ideas learned by founder Joshua during his time working in DeFi. The core product design was to connect researchers and funders permissionlessly, even anonymously, to facilitate science that might disagree with official narratives. However, it soon became clear that:
+However, it soon became clear that:
 
 &#x20;   a) the DeSci ecosystem was not large or influential enough to facilitate meaningful capital inflows for research,
 
