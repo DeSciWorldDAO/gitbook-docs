@@ -4,6 +4,10 @@ description: The global hub of [De]centralised [Sci]ence
 
 # $KNOW
 
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>this page is being edited</p></figcaption></figure>
+
+
+
 The $KNOW token primarily facilitates governance of the DeSciWorld DAO. Some potential token utilities, the implementation of which is to decided by the pre-DAO, are listed below:&#x20;
 
 ### <mark style="color:blue;">$veDSCI</mark>

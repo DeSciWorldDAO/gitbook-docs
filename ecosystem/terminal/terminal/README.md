@@ -40,7 +40,7 @@ The terminal plays a pivotal role in introducing and assimilating new members in
 
 Overall the terminal provides an avenue for researchers to showcase their work, engage with peers, and gain recognition from the global community. Explore more of the functionality below:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Spotlight</td><td></td><td><a href="terminal/broken-reference/">broken-reference</a></td></tr><tr><td></td><td>NFTs</td><td></td><td></td></tr><tr><td></td><td>Calendar</td><td></td><td></td></tr><tr><td></td><td>Jon Board</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Spotlight</td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td></td><td>NFTs</td><td></td><td></td></tr><tr><td></td><td>Calendar</td><td></td><td></td></tr><tr><td></td><td>Jon Board</td><td></td><td></td></tr></tbody></table>
 
 The DeSciWorld Dashboard is a free-to-use online information hub that aggregates and displays information about DeSci projects in an easily digestible format. We aim for it to become a primary resource for learning about all that DeSci has to offer. It allows researchers/academics/VCs/non-scientists to obtain information about all DeSci-relevant projects. Scientists / DeSciDAOs / other people related to DeSci can also expand outreach for their work, grow networks, access resources from a huge and growing community and even apply for funding.
 

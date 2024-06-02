@@ -10,7 +10,7 @@ At desci.world, you can engage with:
 
 <details>
 
-<summary><a href="terminal.md">Terminal</a> - information aggregation dashboard</summary>
+<summary><a href="terminal/">Terminal</a> - information aggregation dashboard</summary>
 
 An information aggregation hub, drawing from available information across the DeSci space. The Terminal contains the following aggregated information:
 
@@ -36,7 +36,7 @@ The NFT marketplace is powered by [Rarible](https://rarible.com/).
 
 <details>
 
-<summary><a href="satellite-programme-sponsors.md">Satellite Programme (sponsors)</a> - powerful outreach service</summary>
+<summary><a href="terminal/sponsored-listings.md">Satellite Programme (sponsors)</a> - powerful outreach service</summary>
 
 Some people or organisations may wish to benefit from the community access that desci.world facilitates. As such, we offer a variety of options for promotions and other sponsored campaigns to advertise and engage directly with our community.
 

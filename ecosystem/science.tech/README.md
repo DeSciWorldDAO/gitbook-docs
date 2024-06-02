@@ -6,7 +6,7 @@ description: A suite of onchain tools for researchers
 
 Science.tech is a repository of onchain tools deployed by the DSW Foundation for the decentralised research community. From this platform, users may interact with the tools permissionlessly using their web3 wallet as a login.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 science.tech currently consists of:
 

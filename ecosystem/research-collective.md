@@ -25,6 +25,8 @@ Members of the Research Collectives can autonomously govern themselves via the s
 
 ### Create your Research Collective
 
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
 To create a Research Collective, the following steps need to be followed:
 
 1. Creating Initial Research Engrams
