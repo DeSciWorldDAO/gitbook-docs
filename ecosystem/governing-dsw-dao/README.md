@@ -5,6 +5,8 @@ coverY: 0
 
 # Microbes NFT
 
+[**https://twitter.com/DeSciWorld/status/1460032856621826054**](https://twitter.com/DeSciWorld/status/1460032856621826054)
+
 ## **The Collection**
 
 **Microbes** is our debut NFT collection. Together with friends from [Imperial College London](https://www.imperial.ac.uk/news/232035/boosted-economy-decentralised-science-news-from/), images of real PhD microbiology research were gathered and artistically rendered to create this collection.
@@ -28,7 +30,7 @@ Alongside these three principle categories, there are also a number of traits th
 
 These characteristics help to define each piece within the collection whilst also giving the viewer a deeper understanding of what analysis researchers use when interacting with their data.
 
-### Unlockable Content <a href="#30b2" id="30b2"></a>
+### Unlockable Content <a href="#id-30b2" id="id-30b2"></a>
 
 181 of the 999 Microbes NFTs contain some form of unlockable content. The unlockable content ranges from source imaging (pre-manipulation), reports and even raw imagery data such as this:
 

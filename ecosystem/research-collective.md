@@ -1,23 +1,25 @@
 ---
-description: >-
-  DeSciWorld empowers researchers by providing essential tools and decentralized
-  funding methods to propel early-stage projects. Funded Research Collectives
-  are a key output of this activity.
+description: An onchain tool for knowledge making and incentivising research
 ---
 
 # Research Collectives
 
-### Understanding Research Collectives: A new way to organize open research&#x20;
+### Understanding Research Collective
 
-Research Collectives represent a mechanism for the decentralized science community to organize around knowledge creation and to access funding.&#x20;
+Research Collectives (RC) are a subDAO mechanism for the decentralized science community to:
 
-A researcher focusing on niche or underserved areas may struggle to obtain resources for their early-stage work. DeSciWorld provides researchers with tools to share their work and facilitate their research pursuits through decentralized funding methods.&#x20;
+* organize around knowledge creation using [Brain](proof-of-knowledge-pok/brains.md) indexes
+* create and deploy [kEngrams](proof-of-knowledge-pok/kengrams.md)
+* access [$KNOW ](usddsci-or-usdknow-token.md)streams
+* utilises simple and powerful DAO tooling such as token-gated governance and multisig wallets
 
-### Research Collectives
+Research Collectives enable distributed communities to collaborate, share knowledge and manage onchain treasuries in a secure and permissionless manner. With the integration of the PoK framework, these collectives provide an excellent means for researchers to generate, validate, share, and monetize their research.
+
+### Why Research Collectives?
 
 The concept of Research Collectives emerges as a fundamental mechanism in decentralized science, facilitating the convergence of researchers who share a fervent interest in a particular domain. This paradigm enables these individuals to forge connections, engage in collaborative endeavors, and collectively contribute to an expansive knowledge base.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+The open science movement has long advocated for distributed communities to collaborate on research, to share their knowledge more widely with other groups and to self-organise around sovereign treasuries. As the technology of DLT, tokenised assets and cheap-to-use AI has progressed, it is finally time for these structures to take effect.
 
 Members of the Research Collectives can autonomously govern themselves via the subDAO infrastructure. They may create and amalgamate kEngrams, uniting them in a coherent repository of collective research, leverage on-chain assets, participate in token-weighted governance and more.
 
@@ -46,30 +48,7 @@ To create a Research Collective, the following steps need to be followed:
 
 The PoK (Proof of Knowledge) mechanism rewards knowledge contributions within the DeSciWorld ecosystem. This applies to the research shared within Research Collectives.&#x20;
 
-* As the kEngrams within a collective are used and referenced within DeSciWorld, the creators of these kEngrams receive DSW tokens as rewards.
+* As the kEngrams within a collective are used and referenced within DeSciWorld, the creators of these kEngrams receive KNOW tokens as rewards.
 * This system incentivizes the creation and distribution of high-quality research, providing a revenue stream to researchers while enhancing the overall quality of Research Collectives.
 
 Conclusion
-
-***
-
-In the DeSciWorld ecosystem, Research Collectives are a dynamic confluence of researchers collaboratively with access to funding to output proof of knowledge. With the integration of the PoK framework, these collectives provide an excellent means for researchers to generate, validate, share, and monetize their research.
-
-Researchers that are passionate in a field that is not _en vogue_ often struggle to source contributions towards their early-stage research. DeSciWorld understands this challenge and seeks to support researchers with a plethora of tools to overcome this high first hurdle.&#x20;
-
-### Introducing Research Collectives&#x20;
-
-The DSW team experienced the traditional research process and understands it creates a multitude of challenges for scientists.&#x20;
-
-Researchers are a key component in the DeSciWorld ecosystem with community platforms and tooling built specifically for researchers.&#x20;
-
-Research collectives will be at the core of the DSW ecosystem...
-
-\[Insert overview of research collective]
-
-### Research collective tokenomics&#x20;
-
-\[Insert stuff from Josh re tokenomics around this]
-
-\
-!! Insert CTA for reserach collectives&#x20;

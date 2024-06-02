@@ -1,7 +1,5 @@
 ---
-description: >-
-  Knowledge is power. On-chain knowledge has the potential to change the
-  scientific landscape.
+description: A suite of onchain tools for researchers
 ---
 
 # science.tech
