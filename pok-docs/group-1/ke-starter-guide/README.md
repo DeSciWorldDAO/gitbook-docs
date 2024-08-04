@@ -1,6 +1,4 @@
-# Page 1
-
-## kE Starter Guide
+# kE Starter Guide
 
 Your step-by-step guide to creating your own kEngrams, and contributing to the global corpus of knowledge.
 
