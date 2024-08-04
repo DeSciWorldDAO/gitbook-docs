@@ -1,20 +1,33 @@
 # Table of contents
 
-* [Overview](README.md)
+* [Welcome](README.md)
 
-## kEngrams
+## Core Concepts
 
-* [Knowledge Market](kengrams/knowledge-market.md)
-* [Coherence](kengrams/coherence.md)
-* [Brains](kengrams/brains.md)
-* [RC](kengrams/rc.md)
+* [How Pok Works](core-concepts/how-pok-works.md)
+* [Brains](core-concepts/brains.md)
+* [RC](core-concepts/rc.md)
+* [Coherence](core-concepts/coherence.md)
+* [Knowledge Market](core-concepts/knowledge-market.md)
 
-## Group 1
+## Purpose
 
-* [kE Starter Guide](group-1/ke-starter-guide/README.md)
-  * [Installation Setup](group-1/ke-starter-guide/installation-setup.md)
-  * [Creating Your First Engram](group-1/ke-starter-guide/creating-your-first-engram.md)
-  * [Smart Connections](group-1/ke-starter-guide/smart-connections.md)
-  * [Advanced Engram Implementation](group-1/ke-starter-guide/advanced-engram-implementation.md)
-  * [Troubleshooting](group-1/ke-starter-guide/troubleshooting.md)
-  * [Conclusion](group-1/ke-starter-guide/conclusion.md)
+* [Knowledge-Backed Economy](purpose/knowledge-backed-economy.md)
+* [Network Coordination](purpose/network-coordination.md)
+
+## Further Reading
+
+* [Page 2](further-reading/page-2.md)
+* [MoE](further-reading/moe.md)
+* [RAG LLM](further-reading/rag-llm.md)
+* [DKG](further-reading/dkg.md)
+
+## Tutorials
+
+* [kE Starter Guide](tutorials/ke-starter-guide/README.md)
+  * [Installation Setup](tutorials/ke-starter-guide/installation-setup.md)
+  * [Creating Your First Engram](tutorials/ke-starter-guide/creating-your-first-engram.md)
+  * [Smart Connections](tutorials/ke-starter-guide/smart-connections.md)
+  * [Advanced Engram Implementation](tutorials/ke-starter-guide/advanced-engram-implementation.md)
+  * [Troubleshooting](tutorials/ke-starter-guide/troubleshooting.md)
+  * [Conclusion](tutorials/ke-starter-guide/conclusion.md)
