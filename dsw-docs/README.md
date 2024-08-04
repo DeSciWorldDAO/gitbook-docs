@@ -41,7 +41,7 @@ By promoting and expanding the culture of Decentralised Science, we aim to empow
 
 ### Technical
 
-Through the [Proof of Knowledge](ecosystem/science.tech/proof-of-knowledge-pok/) protocol, we will create a knowledge-backed economy in an AI-driven future by placing user-generated-research (UGR) at the heart of our interactions with GPTs. Further, we provide a a sandbox of on-chain tools at science.tech for researchers to utilise with minimal setup or experience required.
+Through the [Proof of Knowledge](ecosystem/science.tech/proof-of-knowledge-pok.md) protocol, we will create a knowledge-backed economy in an AI-driven future by placing user-generated-research (UGR) at the heart of our interactions with GPTs. Further, we provide a a sandbox of on-chain tools at science.tech for researchers to utilise with minimal setup or experience required.
 
 ### Guiding Values
 

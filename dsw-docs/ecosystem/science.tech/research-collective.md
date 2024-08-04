@@ -8,8 +8,8 @@ description: An onchain tool for knowledge making and incentivising research
 
 Research Collectives (RC) are a subDAO mechanism for the decentralized science community to:
 
-* organize around knowledge creation using [Brain](proof-of-knowledge-pok/brains.md) indexes
-* create and deploy [kEngrams](proof-of-knowledge-pok/kengrams.md)
+* organize around knowledge creation using [Brain](broken-reference) indexes
+* create and deploy [kEngrams](broken-reference)
 * access [$KNOW ](../usddsci-or-usdknow-token.md)streams
 * utilises simple and powerful DAO tooling such as token-gated governance and multisig wallets
 
