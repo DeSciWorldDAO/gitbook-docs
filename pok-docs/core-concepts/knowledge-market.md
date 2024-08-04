@@ -1,16 +1,20 @@
 # Knowledge Market
 
+## Free Market of Knowledge
+
+The&#x20;
+
 ## "Market Validation" of Knowledge
 
-In this free market of knowledge, each [kEngram](broken-reference) competes for attention and usage. As the kEngram continues to be queried by a global network of AI interfaces, each interaction and usage is documented. These records contribute to an kEngram's ongoing validation in our ecosystem.&#x20;
+In this free market of knowledge, each kEngram competes for attention and usage. As the kEngram continues to be queried by a global network of AI interfaces, each interaction and usage is documented. These records contribute to an kEngram's ongoing validation in our ecosystem.&#x20;
 
-Unlike conventional, centralized validation systems, _this decentralized model_ does not pre-emptively adjudicate or prioritize one piece of knowledge over another. Instead, the relevancy of each kEngram is determined organically through its usage and demand within the ecosystem.
+Unlike conventional, centralized validation systems, this _decentralized model_ does not pre-emptively adjudicate or prioritize one piece of knowledge over another. Instead, the relevancy of each kEngram is determined organically through its usage and demand within the ecosystem.
 
-This evidence-based approach ensures that each kEngram's relevance, coherence, and utility are continuously verified, evaluated, and updated. It overcomes inherent biases and silos, fostering a system where the best, most useful, and most relevant knowledge prospers.
+This evidence-based approach ensures that each kEngram's relevance, coherence, and utility are continuously verified, evaluated, and updated. It overcomes inherent biases and silos, fostering a system where the best, most _useful_, and most relevant knowledge prospers.
 
 ## Permissionless Ratification of Knowledge
 
-The [Research Collective](broken-reference) ecosystem facilitates groups to gather around specific types of knowledge. Each Research Collective (RC) may begin deploying kEngrams from the RC's interface. They may also aggregate the kEngrams of others, into their "accepted list", that acts as a de-facto ratification of the kEngram. When an kEngram is aggregated into the "accepted list" of an RC, that kE receives a tag in its metadata to show that its been ratified by that Collective. This allows permissionless ratification of knowledge, in a decentralised manner. The kEngrams can then be filtered by levels of ratification, including amount of ratified support and also where that ratification came from. Want to filter kEngrams by those that have been ratified by the Oxford University Research Collective, or by the University of Ethereum RC? Now you can!
+The Research Collective ecosystem facilitates groups to gather around specific types of knowledge. Each Research Collective (RC) may begin deploying kEngrams from the RC's interface. They may also index the kEngrams of others, to create useful aggregations of kE that can improve search results or frequency of query. Further, indexing acts as a de-facto ratification of the kEngram, with its presence in an index included in the kE's metadata. This allows permissionless ratification of knowledge, in a decentralised manner. The kEngrams can then be filtered by index, including amount of ratified support and also where that ratification came from. Want to filter kEngrams by those that have been ratified by the Oxford University Research Collective, or by the University of Ethereum RC? Now you can!
 
 ## Valuing Knowledge
 

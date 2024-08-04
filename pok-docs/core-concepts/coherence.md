@@ -1,8 +1,16 @@
-# kE
+---
+description: A robust and generalisable measure of data quality for LLM
+---
+
+# Coherence
 
 {% hint style="info" %}
-#### Instead of accuracy as the defining factor of kEngrams, we optimise for coherence.
+#### Instead of accuracy as the defining factor of knowledge in kEngrams, we optimise for coherence. More coherent kE are likely to be repeatedly retreived by vector search of embeddings.
 {% endhint %}
+
+### What is Coherence?
+
+We define coherence as the relevancy of claims to a question.&#x20;
 
 Coherence ensures that the kEngrams contain logically consistent and well-structured information; a clear, homogeneous narrative between the Question and the Answer. This helps to ensure that the kEngram not only makes sense but also can be efficiently queried by AI services.
 
@@ -20,3 +28,5 @@ There are a variety of strategies to enhance coherence in both local and global 
 User interactions also play an essential role in maintaining and enhancing coherence. Feedback from users can be a powerful tool to refine and update the information in the kEngram, making it more coherent over time. This user-led learning and updating process helps to create a dynamic, interconnected hub of collective knowledge, which is the heart of the PoK mechanism.
 
 In conclusion, optimizing coherence in the PoK system is key to creating an effective and useful knowledge-based ecosystem. It involves a continuous process of learning, adaptation, and evolution with a focus on nurturing the most relevant, coherent, and valuable knowledge.
+
+## Measuring Coherence
