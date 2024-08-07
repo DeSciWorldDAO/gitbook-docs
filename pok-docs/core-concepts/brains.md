@@ -2,7 +2,7 @@
 
 ### What is a Brain?
 
-A "Brain" is the name we give to a decentralised knowledge graph (DKG), indexed by Pok. There are n-number Brains, each defined by the specfic kEngram index that they utilise for the RAG LLM search system. A Brain can be considered a coordination tool, optimised for decentralised collaboration and knowledge management, especially useful for DAOs.
+A "Brain" is the name we give to a decentralised knowledge graph (DKG), indexed by PoK. There are n-number Brains, each defined by the specfic kEngram index that they utilise for the RAG LLM search system. A Brain can be considered a coordination tool, optimised for decentralised collaboration and knowledge management, especially useful for DAOs.
 
 A Brain consists of the data provided by its constituents; it is only as useful as the data contained within. Well structured, thoughtfully written and plentifully supplied kEngrams fuel a competent Brain. A properly maintained Brain is an incredibly powerful tool for task management; knowledge sharing; internal auditing and more. Each Brain can be queried LLM-style, to stay abreast of work updates, to specifically question internal activites and potentially create new workflow pathways.
 

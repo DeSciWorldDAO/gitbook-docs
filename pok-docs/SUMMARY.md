@@ -4,20 +4,23 @@
 
 ## Core Concepts
 
-* [How Pok Works](core-concepts/how-pok-works.md)
+* [How PoK Works](core-concepts/how-pok-works.md)
+* [kEngram](core-concepts/kengram.md)
+* [Universal Citation Points](core-concepts/universal-citation-points.md)
 * [Brains](core-concepts/brains.md)
-* [RC](core-concepts/rc.md)
-* [Coherence](core-concepts/coherence.md)
 * [Knowledge Market](core-concepts/knowledge-market.md)
+* [Research Collectives](core-concepts/research-collectives.md)
+* [Coherence](core-concepts/coherence.md)
 
-## Purpose
+## Vision
 
-* [Knowledge-Backed Economy](purpose/knowledge-backed-economy.md)
-* [Network Coordination](purpose/network-coordination.md)
+* [Onchain Association](vision/onchain-association.md)
+* [Knowledge-Backed Economy](vision/knowledge-backed-economy.md)
+* [Network Coordination](vision/network-coordination.md)
 
 ## Further Reading
 
-* [Page 2](further-reading/page-2.md)
+* [Existing Use Cases](further-reading/existing-use-cases.md)
 * [MoE](further-reading/moe.md)
 * [RAG LLM](further-reading/rag-llm.md)
 * [DKG](further-reading/dkg.md)

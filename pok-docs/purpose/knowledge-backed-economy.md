@@ -1,3 +1,0 @@
-# Knowledge-Backed Economy
-
-urpose
