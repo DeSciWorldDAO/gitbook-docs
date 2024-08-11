@@ -21,6 +21,7 @@
 ## Further Reading
 
 * [Existing Use Cases](further-reading/existing-use-cases.md)
+* [EAS](further-reading/eas.md)
 * [MoE](further-reading/moe.md)
 * [RAG LLM](further-reading/rag-llm.md)
 * [DKG](further-reading/dkg.md)
