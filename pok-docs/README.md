@@ -1,16 +1,14 @@
-# Welcome
+# Introduction to PoK
 
-PoK, Proof of Kontext, is an open source infrastructure public good for creating a unified embedding space for general AI usage, onchain and offchain.
+## Welcome!
 
-Pok is an advanced AI-based search system that offers a brand new method to quantify and value knowledge - the kEngram (kE). kE are an onchain data object that both maintains an unbreakable chain of provenance and tracks its usage by AI within the [knowledge market](broken-reference). Usage of kE is to be incentivised with the $KNOW token.
+PoK, Proof of Knowledge, is an open source infrastructure public good for creating a unified embedding space for general AI usage, onchain and offchain.
 
-Pok utilises a cryptographic proof that attests to the creation of an [kEngram](broken-reference). kE are organised into indexes of knowledge called Brains. The index system is used to maintain an updated embedding set which can Pok can use to locate specific kEngrams as per query requirements. Each substantial interaction with a kE sends usage data to Pok which can be used to determine incentives, in a system we coin the "Knowledge Market".
-
-As a fundamental building block towards a fully-fledged [knowledge-backed economy](broken-reference), the Pok protocol offers a comprehensive framework to fuel intellectual contribution and foster an environment of continuous learning and knowledge exchange.
-
-PoK provides an unopinionated data layer optimised for RAG LLM query that tracks the usage of individual vectors and issues points to the authors of those vectors, when queried. This allows for decentralised contribution to a collective knowledge base, optimised for efficient communication of the context of the embedded data via intra-graph query (within one knowledge base) and inter-graph query (different knowledge bases communicating with each other).&#x20;
+PoK provides an unopinionated data layer optimised for RAG LLM query, resulting in an advanced AI-based search system. PoK tracks the usage of individual vectors and issues points to the authors of those vectors when queried. This allows for decentralised contribution to a [collective knowledge base](core-concepts/brains.md), optimised for efficient communication of context via intra-graph query (within one knowledge base) and inter-graph query (different knowledge bases communicating with each other).&#x20;
 
 ## Why does this exist?
+
+#### Onchain Association
 
 The convergence of technologies in the fields of blockchain, AI, compute, storage and communication provide new avenues for coordinating people in the digital space. For the first time in history, we have the tools available at an economic scale suitable for mass usage to allow for the creation and empowerment of truly soveriegn communities.
 
@@ -18,11 +16,15 @@ The convergence of technologies in the fields of blockchain, AI, compute, storag
 [onchain-association.md](vision/onchain-association.md)
 {% endcontent-ref %}
 
+#### Knowledge-Backed Economy
+
 We strongly believe that data - the lifeblood of AI - should provide both provenance and value back to the author. The knowledge and context that is created by our information is what makes AI useful; without our input, AI would cease to provide meaningful results. As such, we should own our fair share of the AI-driven future. We must create mechanisms that allow for the open, decentralised contribution to and utilisation of AI technologies while ensuring the sovereign individual is not taken advantage of.
 
 {% content-ref url="vision/knowledge-backed-economy.md" %}
 [knowledge-backed-economy.md](vision/knowledge-backed-economy.md)
 {% endcontent-ref %}
+
+#### Network Coordination
 
 As these AI agents can represent the view point of one or many people, through the embedding and retrieval of their data, we can utilise agents as an interactive and adaptive mouthpiece for our onchain associations. It is a large task to coordinate a group of people internally to an association, a much larger one still to coordinate between associations. Multi-Agent Systems (MAS) allow our personalised agents to seamlessly communicate between each other, providing unprecedented coordination.
 
@@ -47,3 +49,4 @@ Some exciting potential and existing use-cases:
 
 ## How does it work?
 
+PoK utilises multiple offchain and onchain middleware tools to facilitate its data layer and points distribution. PoK's novel contribution to the deAI stack is the [kEngram](core-concepts/kengram.md), an onchain data primitive optimised for embedding data for [RAG](further-reading/rag-llm.md) query.

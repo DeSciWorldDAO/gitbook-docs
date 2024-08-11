@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Introduction to PoK](README.md)
 
 ## Core Concepts
 
