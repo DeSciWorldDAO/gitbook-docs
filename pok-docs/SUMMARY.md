@@ -5,7 +5,7 @@
 ## Core Concepts
 
 * [How PoK Works](core-concepts/how-pok-works.md)
-* [kEngram](core-concepts/kengram.md)
+* [kEngram ⧖](core-concepts/kengram.md)
 * [Universal Citation Points](core-concepts/universal-citation-points.md)
 * [Brains](core-concepts/brains.md)
 * [Knowledge Market](core-concepts/knowledge-market.md)

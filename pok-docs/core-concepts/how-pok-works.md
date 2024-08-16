@@ -1,5 +1,7 @@
 # How PoK Works
 
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 ## The Primitives
 
 PoK consists of two core primitives:&#x20;
