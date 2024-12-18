@@ -6,7 +6,7 @@ description: '"World of DeSci" is DeSciWorld''s independent conference circuit.'
 
 ## Mission
 
-World of DeSci provides a trusted, real-world platform for DeSci ecosystem participants to build their network, engage with investors, find career opportunites and grow their profile.&#x20;
+World of DeSci provides a trusted, in-person platform for DeSci ecosystem participants to build their network, engage with investors, find career opportunites and grow their profile.&#x20;
 
 These events see industry leaders such as founders, project stakeholders and thought leaders gather to deliver talks, host workshops and engage the scientific community.&#x20;
 
