@@ -9,11 +9,7 @@
 ## 🌟 Ecosystem
 
 * [Ecosystem Map](ecosystem/ecosystem-map.md)
-* [desci.world](ecosystem/terminal/README.md)
-  * [Terminal](ecosystem/terminal/terminal.md)
-  * [NFTs](ecosystem/terminal/nfts.md)
-  * [Satellite Programme (sponsors)](ecosystem/terminal/satellite-programme-sponsors.md)
-  * [Scientist Spotlight](ecosystem/terminal/scientist-spotlight.md)
+* [desci.world](ecosystem/terminal.md)
 * [science.tech](ecosystem/science.tech/README.md)
   * [PoK - Proof of Knowlege](ecosystem/science.tech/proof-of-knowledge-pok.md)
   * [Research Collectives](ecosystem/science.tech/research-collective.md)
@@ -21,7 +17,6 @@
   * [DSW ID](ecosystem/science.tech/dsw-id.md)
 * [World of DeSci](ecosystem/world-of-desci/README.md)
   * [Previous Events](ecosystem/world-of-desci/previous-events.md)
-  * [Application Process](ecosystem/world-of-desci/application-process.md)
   * [Scaling DeSci to a global level](ecosystem/world-of-desci/scaling-desci-to-a-global-level.md)
 * [$KNOW](ecosystem/usddsci-or-usdknow-token.md)
 * [Microbes NFT](ecosystem/governing-dsw-dao/README.md)
@@ -39,8 +34,7 @@
 ## Links
 
 * [Useful Links](links/contribute.md)
-* [Contact us](links/contact-us/README.md)
-  * [Page 1](links/contact-us/page-1.md)
+* [Contact us](links/contact-us.md)
 * [Legal disclosure](links/legal-disclosure/README.md)
   * [Token issuance](links/legal-disclosure/token-issuance.md)
   * [DAO-Owned liquidity](links/legal-disclosure/dao-owned-liquidity.md)

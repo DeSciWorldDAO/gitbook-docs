@@ -17,7 +17,7 @@ description: Welcome to the DeSciWorld documentation space.
 
 DeSciWorld is an [ecosystem](ecosystem/ecosystem-map.md) consisting of:
 
-* **desci.world** [<>](ecosystem/terminal/)
+* **desci.world** [<>](ecosystem/terminal.md)
   * an information aggregator for the DeSci space since 2021
 * **science.tech** [<>](ecosystem/science.tech/)
   * a suite of technical products powered by the Proof of Knowledge (PoK) protocol
@@ -40,11 +40,11 @@ By promoting and expanding the culture of Decentralised Science, we aim to empow
 
 ### Technical
 
-Through the [Proof of Knowledge](ecosystem/science.tech/proof-of-knowledge-pok.md) protocol, we will create a knowledge-backed economy in an AI-driven future by placing user-generated-research (UGR) at the heart of our interactions with GPTs. Further, we provide a sandbox of on-chain tools at science.tech for researchers to utilise with minimal setup or experience required.
+Through the [Proof of Knowledge](ecosystem/science.tech/proof-of-knowledge-pok.md) protocol, we will create a knowledge-backed economy in an AI-driven future by placing user-generated-research at the heart of our interactions with GPTs. Further, we provide a sandbox of on-chain tools for researchers to utilise with minimal setup or experience required.
 
 ### Guiding Values
 
-We strive to be an **agnostic** ecosystem facilitators for DeSci projects. Our ambition is to generate sustainable income for the DAO and redistribute AMAP into the hands of builders and researchers. Committed to a future with equality of opportunity and access, globally, we hope to deliver genuine moments of happiness and wonder to the DeSci ecosystem.
+We strive to be an **agnostic** ecosystem facilitators for DeSci projects. Our ambition is to generate sustainable income for DeSciWorld and redistribute AMAP into the hands of builders and researchers. Committed to a future with equality of opportunity and access, globally, we hope to deliver genuine moments of happiness and wonder to the DeSci ecosystem.
 
 ***
 

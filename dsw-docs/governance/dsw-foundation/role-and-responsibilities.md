@@ -2,6 +2,7 @@
 description: >-
   DSW DAO is the on-chain organisational entity that executes on the mission of
   DeSciWorld
+hidden: true
 ---
 
 # Role and Responsibilities
@@ -45,7 +46,7 @@ The $DSCI token is deployed via two methods:
 
 Both the TGE and the Emissions Schedule will be organised and executed by the DSW DAO.&#x20;
 
-### DSW DAO and [desci.world](../../ecosystem/terminal/)
+### DSW DAO and [desci.world](../../ecosystem/terminal.md)
 
 desci.world is considered a curated platform; DSW DAO assumes role of curator.
 

@@ -42,44 +42,6 @@ We consider holding a Microbes a signal of our most dedicated community members.
 
 <details>
 
-<summary>Governance Rights <mark style="color:green;">- when staked</mark></summary>
-
-Microbes NFT can be locked for various periods of time to receive voting rights in the DSW DAO.&#x20;
-
-The Microbes NFT is a suitable token to assign the DSW DAO's decentralised governance protocol. The NFT was created with no capital backing, by the founding members of DeSciWorld, distributed organically over more than a two-year period.&#x20;
-
-A small supply of 999 enables sufficient decentralisation while maintaining an efficient roster of participants that can be organised and incentivised. The core goal is engaged, proactive and informed governance from a decentralised community.&#x20;
-
-</details>
-
-<details>
-
-<summary>Governor Stream <mark style="color:green;">- when staked</mark></summary>
-
-Microbes Governors (those that have locked their NFT in the Governor contract) are entitled to a stream of emissions from the Emissions Schedule. This is designed to motivate holders to participate in effective governance.&#x20;
-
-</details>
-
-<details>
-
-<summary>Redistributive Lottery</summary>
-
-DeSciWorld intends to accumulate digital assets from the DeSci and greater Web3 ecosystem for periodical redistribution to Microbes holders via lottery-style raffles.
-
-The Lottery is only accessible for Microbes NFT holders at the time of each round's "Cut-off Block". Once the draw has been announced, the NFT holders will need to claim their potential prize through our interface. It is a method for us to continuously reward our most loyal community members.
-
-</details>
-
-<details>
-
-<summary>Preferential Access</summary>
-
-As our ecosystem grows, we will have a number of special events that require "VIP access lists"; we will regularly reward Microbes holders with preferential access.
-
-</details>
-
-<details>
-
 <summary>Early Adopters <mark style="color:green;">- first 150 minters</mark></summary>
 
 View more information [here](early-adopter-rights.md).

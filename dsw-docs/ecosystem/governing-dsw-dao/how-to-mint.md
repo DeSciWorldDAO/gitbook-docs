@@ -10,7 +10,7 @@ ALWAYS take extreme care when interacting with Web3 protocols. If you are inexpe
 {% endhint %}
 
 * Minting Site: [https://desci.world/nft/](https://desci.world/nft/)
-* Limit per wallet: 4 mints per wallet
+* Limit per wallet: 5 mints per wallet
 * Price: 0.088ETH per mint
 * OpenSea Link: [https://opensea.io/collection/desciworldmicrobes/](https://opensea.io/collection/desciworldmicrobes/)​
 
@@ -28,10 +28,9 @@ DeSciWorld is a decentralized application (Dapp) running on top of the Ethereum 
 
 #### Using your Web3 wallet <a href="#using-your-web3-wallet" id="using-your-web3-wallet"></a>
 
-1. Head to [https://desci.world/nft/desciworldmicrobes](https://desci.world/nft/desciworldmicrobes)
+1. Head to [https://desci.world/nfts/microbes ](https://www.desci.world/nfts/microbes)
 2. Connect your wallet to the DeSciWorld website.
 3. Ensure your wallet is connected to Ethereum Mainnet and is funded with sufficient ETH.
-4. Choose the desired amount of NFTs to mint.
-5. Click "Mint".
-6. Confirm the transaction within your Web3 wallet.
-7. View your newly minted NFT on OpenSea!
+4. Click "Mint".
+5. Confirm the transaction within your Web3 wallet.
+6. View your newly minted NFT on OpenSea!

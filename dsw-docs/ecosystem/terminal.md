@@ -10,7 +10,7 @@ At desci.world, you can engage with:
 
 <details>
 
-<summary><a href="terminal.md">Terminal</a> - information aggregation dashboard</summary>
+<summary><a href="broken-reference">Terminal</a> - information aggregation dashboard</summary>
 
 An information aggregation hub, drawing from available information across the DeSci space. The Terminal contains the following aggregated information:
 
@@ -22,21 +22,29 @@ An information aggregation hub, drawing from available information across the De
 * Tooling / Apps
 * Decentralised Funding Opportunities
 
+The Terminal allows researchers/academics/VCs/non-scientists to obtain information about all DeSci-relevant projects. Scientists / DeSciDAOs / other people related to DeSci can also expand outreach for their work, grow networks, access resources from a huge and growing community and even apply for funding.
+
+We aim for it to become a primary resource for learning about all that DeSci has to offer.
+
 </details>
 
 <details>
 
-<summary><a href="nfts.md">NFTs</a> - curated onchain DeSci art</summary>
+<summary><a href="broken-reference">NFTs</a> - curated onchain DeSci art</summary>
+
+<mark style="color:purple;">\[coming soon - information is subject to change]</mark>
 
 The desci.world NFT marketplace curates the most interesting and impactful DeSci collections. Navigating the sea of NFT collections can be daunting for new entrants to the web3 space, and we want to provide a safe and a trusted platform to begin that journey.
 
-The NFT marketplace is powered by [Rarible](https://rarible.com/).
+The NFT marketplace is to be powered by [Rarible](https://rarible.com/).
 
 </details>
 
 <details>
 
-<summary><a href="satellite-programme-sponsors.md">Satellite Programme (sponsors)</a> - powerful outreach service</summary>
+<summary><a href="broken-reference">Satellite Programme (sponsors)</a> - powerful outreach service</summary>
+
+<mark style="color:purple;">\[coming soon - information is subject to change]</mark>
 
 Some people or organisations may wish to benefit from the community access that desci.world facilitates. As such, we offer a variety of options for promotions and other sponsored campaigns to advertise and engage directly with our community.
 
@@ -53,7 +61,9 @@ Features include:
 
 <details>
 
-<summary><a href="scientist-spotlight.md">Scientist Spotlight</a> - the best and brightest</summary>
+<summary><a href="broken-reference">Scientist Spotlight</a> - the best and brightest</summary>
+
+<mark style="color:purple;">\[coming soon - information is subject to change]</mark>
 
 Periodically, we will give a feature position in our Spotlight to a particular scientist making important and striking advances in the decentralised fields of research.
 

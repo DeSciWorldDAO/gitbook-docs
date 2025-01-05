@@ -1,2 +1,0 @@
-# Scientist Spotlight
-

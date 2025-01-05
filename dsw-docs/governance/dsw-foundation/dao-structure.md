@@ -1,6 +1,10 @@
+---
+hidden: true
+---
+
 # DAO Structure
 
-DSW DAO's organisational structure pulls inspiration from Haier's [RenDanHeYi](https://chozan.co/blog/digital-transformation-lessons-haiers-rendanheyi/) ([人单合一](https://www.haier.com/rdhy/2021/news/20210922\_171236.shtml)) model and Vitalik Buterin's [Convex and Concave](https://vitalik.eth.limo/general/2022/09/20/daos.html) decision making model, to create a structure that simultaneously promotes flexibility, efficiency and decentralisation.
+DSW DAO's organisational structure pulls inspiration from Haier's [RenDanHeYi](https://chozan.co/blog/digital-transformation-lessons-haiers-rendanheyi/) ([人单合一](https://www.haier.com/rdhy/2021/news/20210922_171236.shtml)) model and Vitalik Buterin's [Convex and Concave](https://vitalik.eth.limo/general/2022/09/20/daos.html) decision making model, to create a structure that simultaneously promotes flexibility, efficiency and decentralisation.
 
 View information about the core units of the DSW DAO below:
 
