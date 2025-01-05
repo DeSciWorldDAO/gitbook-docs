@@ -28,7 +28,7 @@ DeSciWorld is an [ecosystem](ecosystem/ecosystem-map.md) consisting of:
 * **Microbes NFT** [<>](ecosystem/governing-dsw-dao/)
   * A limited supply <mark style="color:yellow;">golden ticket</mark> for the most dedicated DeSciWorld adopters
 
-DeSciWorld can be considered the global hub of decentralised science. We provide a range of tools to inform and empower the (de)scientist. More than just technical, we also consider ourselves a cultural force within the space. We advocate consistently for a more humanity and nature [aligned science](introductory-info/trifecta-of-effective-integration.md) paradigm, eschewing the profit and reputation temptations that come with upholding the status quo.
+DeSciWorld can be considered the global hub of decentralised science. We provide a range of tools to inform and empower the (de)scientist. More than just technical, we also consider ourselves a cultural force within the space. We advocate consistently for a more humanity and nature [aligned science](introduction/trifecta-of-effective-integration.md) paradigm, eschewing the profit and reputation temptations that come with upholding the status quo.
 
 ***
 

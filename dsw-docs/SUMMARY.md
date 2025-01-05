@@ -1,10 +1,10 @@
 # Table of contents
 
-## 👤 Introductory Info
+## 👤 Introduction
 
 * [Introducing DeSciWorld](README.md)
-* [Understanding DeSci](introductory-info/understanding-desciworld.md)
-* [The Vision](introductory-info/trifecta-of-effective-integration.md)
+* [Understanding DeSci](introduction/understanding-desciworld.md)
+* [The Vision](introduction/trifecta-of-effective-integration.md)
 
 ## 🌟 Ecosystem
 
@@ -33,8 +33,7 @@
 
 ## Links
 
-* [Useful Links](links/contribute.md)
-* [Contact us](links/contact-us.md)
+* [Contribute](links/contribute.md)
 * [Legal disclosure](links/legal-disclosure/README.md)
   * [Token issuance](links/legal-disclosure/token-issuance.md)
   * [DAO-Owned liquidity](links/legal-disclosure/dao-owned-liquidity.md)

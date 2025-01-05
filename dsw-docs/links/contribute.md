@@ -1,10 +1,8 @@
 ---
-description: We seek curious researchers and those seeking new to fund open research.
+description: Seeking the curious and the capable
 ---
 
-# Useful Links
-
-DeSciWorld understands the challenges around accessing research funding and if overcoming these challenges resonates with you we welcome you to put ideas or concepts forward.&#x20;
+# Contribute
 
 **Why contribute?**
 
@@ -16,18 +14,12 @@ We are experimenting with a variety of incentive mechanisms to attract, retain a
 
 Seriously, anyone with a keen attitude and an internet connection can become a valuable member of the DeSciWorld community and, potentially, the team. There are countless stories of people that originally had no skills or connections within the blockchain space and found a role in a project's community.
 
-**This is an important factor in DSW DAO succeeding**
-
-Our founding teams have contributed to various open source projects, recognizing the value of community-driven growth.
-
-
-
 ### Getting started resources
 
 Learn more about what we’re doing and how we are going to reach this goal:&#x20;
 
 1. **Understanding DeSciWorld!:** [https://medium.com/desciworld/world-of-desci-6ebd70bb4a88](https://medium.com/desciworld/world-of-desci-6ebd70bb4a88)
-2. **A dive into DeSci:** [https://youtube.com/watch?v=o4UJpYLxx\_A\&ab\_channel=Web3fm](https://youtube.com/watch?v=o4UJpYLxx\_A\&ab\_channel=Web3fm)
+2. **A dive into DeSci:** [https://youtube.com/watch?v=o4UJpYLxx\_A\&ab\_channel=Web3fm](https://youtube.com/watch?v=o4UJpYLxx_A\&ab_channel=Web3fm)
 3. **Ethereum Foundation overview of DeSci:** [https://ethereum.org/en/desci/](https://ethereum.org/en/desci/)
 4. **The DeSciWorld whitepaper:** [https://firebasestorage.googleapis.com/v0/b/desci-5b3ec.appspot.com/o/DeSciWorld%20Whitepaper%20(3).pdf?alt=media\&token=70573b9d-6236-4b05-83b9-11d1cb97a10a](https://firebasestorage.googleapis.com/v0/b/desci-5b3ec.appspot.com/o/DeSciWorld%20Whitepaper%20\(3\).pdf?alt=media\&token=70573b9d-6236-4b05-83b9-11d1cb97a10a)
 5. **Why does the DeScientist need the Terminal?:** \[to be created]
